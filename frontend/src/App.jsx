@@ -1,10 +1,6 @@
+import React from "react";
 import "./App.css";
-import {
-  Routes,
-  Route,
-  RouterProvider,
-  createBrowserRouter,
-} from "react-router-dom";
+import { Routes, Route, RouterProvider, createBrowserRouter } from "react-router-dom";
 
 import { Home, Layout } from "./pages";
 
@@ -17,7 +13,6 @@ const router = createBrowserRouter([
         index: true,
         element: <Home />,
       },
-
       {
         path: "dashboard",
         async lazy() {
@@ -36,9 +31,9 @@ const router = createBrowserRouter([
 
 function App() {
   return (
-    <>
+    <React.Fragment>
       <RouterProvider router={router} fallbackElement={<p>Loading ...</p>} />
-    </>
+    </React.Fragment>
   );
 }
 
