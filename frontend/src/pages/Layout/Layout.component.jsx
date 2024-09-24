@@ -5,7 +5,7 @@ import Navbar from "../../components/navbar/navbar";
 export default function Layout() {
   let navigation = useNavigation();
   return (
-    <div>
+    <div class="h-screen w-screen">
       <Navbar />
       <Outlet />
     </div>
