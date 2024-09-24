@@ -1,5 +1,5 @@
 import React from "react";
-import { useNavigation, Link } from "react-router-dom";
+import { useNavigation, Link, Outlet } from "react-router-dom";
 import Navbar from "../../components/navbar/navbar";
 
 export default function Layout() {
@@ -7,6 +7,7 @@ export default function Layout() {
   return (
     <div>
       <Navbar />
+      <Outlet />
     </div>
   );
 }
