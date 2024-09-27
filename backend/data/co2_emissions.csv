@@ -1322,7 +1322,7 @@ Armenia,ARM,1830,40
 Armenia,ARM,1831,49
 Armenia,ARM,1832,32
 Armenia,ARM,1833,40
-Armenia,ARM,1850,250.99998
+Armenia,ARM,1850,251
 Armenia,ARM,1855,760
 Armenia,ARM,1858,1068
 Armenia,ARM,1859,1132
@@ -1335,7 +1335,7 @@ Armenia,ARM,1865,1925
 Armenia,ARM,1866,6082
 Armenia,ARM,1867,6979
 Armenia,ARM,1868,5807
-Armenia,ARM,1869,7876.9995
+Armenia,ARM,1869,7877
 Armenia,ARM,1870,8548
 Armenia,ARM,1871,11541
 Armenia,ARM,1872,11848
@@ -1347,7 +1347,7 @@ Armenia,ARM,1877,19685
 Armenia,ARM,1878,25726
 Armenia,ARM,1879,26397
 Armenia,ARM,1880,30967
-Armenia,ARM,1881,32616.998
+Armenia,ARM,1881,32617
 Armenia,ARM,1882,34356
 Armenia,ARM,1883,39103
 Armenia,ARM,1884,39701
@@ -1859,12 +1859,12 @@ Asia,,2019,20855636000
 Asia,,2020,20519535000
 Asia,,2021,21438681000
 Asia,,2022,21772347000
-Asia (GCP),,1850,13187.187
+Asia (GCP),,1850,13187.19
 Asia (GCP),,1851,0
 Asia (GCP),,1852,0
 Asia (GCP),,1853,0
 Asia (GCP),,1854,0
-Asia (GCP),,1855,39986.953
+Asia (GCP),,1855,39986.95
 Asia (GCP),,1856,0
 Asia (GCP),,1857,0
 Asia (GCP),,1858,450639.8
@@ -2377,7 +2377,7 @@ Australia,AUS,1818,1888
 Australia,AUS,1819,3540
 Australia,AUS,1820,6160
 Australia,AUS,1821,3147
-Australia,AUS,1822,3934.0002
+Australia,AUS,1822,3934
 Australia,AUS,1823,4720
 Australia,AUS,1824,4720
 Australia,AUS,1825,2870
@@ -4086,7 +4086,7 @@ Bhutan,BTN,1978,10992
 Bhutan,BTN,1979,21984
 Bhutan,BTN,1980,21984
 Bhutan,BTN,1981,55349
-Bhutan,BTN,1982,62680.996
+Bhutan,BTN,1982,62681
 Bhutan,BTN,1983,86749
 Bhutan,BTN,1984,108740
 Bhutan,BTN,1985,119740
@@ -4243,7 +4243,7 @@ Bonaire Sint Eustatius and Saba,BES,1943,34806
 Bonaire Sint Eustatius and Saba,BES,1944,43639
 Bonaire Sint Eustatius and Saba,BES,1945,50705
 Bonaire Sint Eustatius and Saba,BES,1946,56841
-Bonaire Sint Eustatius and Saba,BES,1947,64418.004
+Bonaire Sint Eustatius and Saba,BES,1947,64418
 Bonaire Sint Eustatius and Saba,BES,1948,65972
 Bonaire Sint Eustatius and Saba,BES,1949,0
 Bonaire Sint Eustatius and Saba,BES,1950,82621
@@ -4279,14 +4279,14 @@ Bonaire Sint Eustatius and Saba,BES,1979,114754
 Bonaire Sint Eustatius and Saba,BES,1980,118095
 Bonaire Sint Eustatius and Saba,BES,1981,112485
 Bonaire Sint Eustatius and Saba,BES,1982,125768.01
-Bonaire Sint Eustatius and Saba,BES,1983,64636.996
+Bonaire Sint Eustatius and Saba,BES,1983,64637
 Bonaire Sint Eustatius and Saba,BES,1984,161406
 Bonaire Sint Eustatius and Saba,BES,1985,188919
 Bonaire Sint Eustatius and Saba,BES,1986,36216
-Bonaire Sint Eustatius and Saba,BES,1987,32196.998
-Bonaire Sint Eustatius and Saba,BES,1988,31716.998
+Bonaire Sint Eustatius and Saba,BES,1987,32197
+Bonaire Sint Eustatius and Saba,BES,1988,31717
 Bonaire Sint Eustatius and Saba,BES,1989,60375
-Bonaire Sint Eustatius and Saba,BES,1990,64657.004
+Bonaire Sint Eustatius and Saba,BES,1990,64657
 Bonaire Sint Eustatius and Saba,BES,1991,51594
 Bonaire Sint Eustatius and Saba,BES,1992,42507
 Bonaire Sint Eustatius and Saba,BES,1993,65618
@@ -5694,7 +5694,7 @@ Cape Verde,CPV,2020,516623.97
 Cape Verde,CPV,2021,558858
 Cape Verde,CPV,2022,568778
 Central African Republic,CAF,1950,47015
-Central African Republic,CAF,1951,62687.004
+Central African Republic,CAF,1951,62687
 Central African Republic,CAF,1952,81297
 Central African Republic,CAF,1953,68564
 Central African Republic,CAF,1954,72482
@@ -10957,7 +10957,7 @@ Georgia,GEO,1866,11312
 Georgia,GEO,1867,12982
 Georgia,GEO,1868,10801
 Georgia,GEO,1869,14652
-Georgia,GEO,1870,15900.999
+Georgia,GEO,1870,15901
 Georgia,GEO,1871,21466
 Georgia,GEO,1872,22038
 Georgia,GEO,1873,20684
@@ -10969,7 +10969,7 @@ Georgia,GEO,1878,47852
 Georgia,GEO,1879,49101
 Georgia,GEO,1880,57600
 Georgia,GEO,1881,60669
-Georgia,GEO,1882,63902.996
+Georgia,GEO,1882,63903
 Georgia,GEO,1883,72733
 Georgia,GEO,1884,73846
 Georgia,GEO,1885,80435
@@ -14494,7 +14494,7 @@ Kazakhstan,KAZ,1832,973
 Kazakhstan,KAZ,1833,1217
 Kazakhstan,KAZ,1850,7543
 Kazakhstan,KAZ,1855,22873
-Kazakhstan,KAZ,1858,32118.998
+Kazakhstan,KAZ,1858,32119
 Kazakhstan,KAZ,1859,34066
 Kazakhstan,KAZ,1860,45015
 Kazakhstan,KAZ,1861,57181
@@ -14896,7 +14896,7 @@ Kyrgyzstan,KGZ,1831,126
 Kyrgyzstan,KGZ,1832,84
 Kyrgyzstan,KGZ,1833,105
 Kyrgyzstan,KGZ,1850,652
-Kyrgyzstan,KGZ,1855,1975.9999
+Kyrgyzstan,KGZ,1855,1976
 Kyrgyzstan,KGZ,1858,2774
 Kyrgyzstan,KGZ,1859,2942
 Kyrgyzstan,KGZ,1860,3888
@@ -17912,14 +17912,14 @@ Moldova,MDA,1863,8388
 Moldova,MDA,1864,9408
 Moldova,MDA,1865,8992
 Moldova,MDA,1866,28412
-Moldova,MDA,1867,32605.998
+Moldova,MDA,1867,32606
 Moldova,MDA,1868,27128
 Moldova,MDA,1869,36800
 Moldova,MDA,1870,39936
 Moldova,MDA,1871,53915
 Moldova,MDA,1872,55351
 Moldova,MDA,1873,51951
-Moldova,MDA,1874,63059.004
+Moldova,MDA,1874,63059
 Moldova,MDA,1875,72580
 Moldova,MDA,1876,90111
 Moldova,MDA,1877,91962
@@ -18168,7 +18168,7 @@ Montenegro,MNE,1912,23063
 Montenegro,MNE,1913,63340
 Montenegro,MNE,1919,45402
 Montenegro,MNE,1920,60276
-Montenegro,MNE,1921,64175.004
+Montenegro,MNE,1921,64175
 Montenegro,MNE,1922,93255
 Montenegro,MNE,1923,101722
 Montenegro,MNE,1924,104285
@@ -18330,7 +18330,7 @@ Montserrat,MSR,2020,21984
 Montserrat,MSR,2021,21184
 Montserrat,MSR,2022,21380
 Morocco,MAR,1928,29074
-Morocco,MAR,1929,32708.998
+Morocco,MAR,1929,32709
 Morocco,MAR,1930,40007
 Morocco,MAR,1931,90981
 Morocco,MAR,1932,149333
@@ -20543,7 +20543,7 @@ North Macedonia,MKD,1938,720476
 North Macedonia,MKD,1939,759977
 North Macedonia,MKD,1940,908966
 North Macedonia,MKD,1943,465
-North Macedonia,MKD,1944,8081.0005
+North Macedonia,MKD,1944,8081
 North Macedonia,MKD,1945,453292
 North Macedonia,MKD,1946,880763
 North Macedonia,MKD,1947,1206435
@@ -21058,7 +21058,7 @@ Oceania,,1818,1888
 Oceania,,1819,3540
 Oceania,,1820,6160
 Oceania,,1821,3147
-Oceania,,1822,3934.0002
+Oceania,,1822,3934
 Oceania,,1823,4720
 Oceania,,1824,4720
 Oceania,,1825,2870
@@ -21261,7 +21261,7 @@ Oceania,,2021,437097300
 Oceania,,2022,441077630
 Oceania (GCP),,1850,112052.45
 Oceania (GCP),,1851,106378.71
-Oceania (GCP),,1852,106054.586
+Oceania (GCP),,1852,106054.59
 Oceania (GCP),,1853,152320.9
 Oceania (GCP),,1854,183526.48
 Oceania (GCP),,1855,215677.69
@@ -25438,9 +25438,9 @@ South America (GCP),,1880,0
 South America (GCP),,1881,0
 South America (GCP),,1882,0
 South America (GCP),,1883,0
-South America (GCP),,1884,3664.0002
-South America (GCP),,1885,3664.0002
-South America (GCP),,1886,7328.0005
+South America (GCP),,1884,3664
+South America (GCP),,1885,3664
+South America (GCP),,1886,7328
 South America (GCP),,1887,1091872
 South America (GCP),,1888,897680
 South America (GCP),,1889,1762384
@@ -27024,7 +27024,7 @@ Thailand,THA,1938,39977
 Thailand,THA,1939,47246
 Thailand,THA,1940,58149
 Thailand,THA,1941,58149
-Thailand,THA,1943,32708.998
+Thailand,THA,1943,32709
 Thailand,THA,1944,14537
 Thailand,THA,1947,29074
 Thailand,THA,1948,39977
@@ -27372,8 +27372,8 @@ Tunisia,TUN,1934,18171
 Tunisia,TUN,1935,18171
 Tunisia,TUN,1936,25440
 Tunisia,TUN,1937,29074
-Tunisia,TUN,1938,32708.998
-Tunisia,TUN,1939,32735.002
+Tunisia,TUN,1938,32709
+Tunisia,TUN,1939,32735
 Tunisia,TUN,1940,58370
 Tunisia,TUN,1941,135330
 Tunisia,TUN,1942,160978
@@ -27617,11 +27617,11 @@ Turkey,TUR,2021,452702800
 Turkey,TUR,2022,435684600
 Turkmenistan,TKM,1830,153
 Turkmenistan,TKM,1831,184
-Turkmenistan,TKM,1832,123.00001
+Turkmenistan,TKM,1832,123
 Turkmenistan,TKM,1833,153
 Turkmenistan,TKM,1850,951
 Turkmenistan,TKM,1855,2883
-Turkmenistan,TKM,1858,4048.9998
+Turkmenistan,TKM,1858,4049
 Turkmenistan,TKM,1859,4294
 Turkmenistan,TKM,1860,5674
 Turkmenistan,TKM,1861,7208
@@ -27633,7 +27633,7 @@ Turkmenistan,TKM,1866,23065
 Turkmenistan,TKM,1867,26470
 Turkmenistan,TKM,1868,22022
 Turkmenistan,TKM,1869,29874
-Turkmenistan,TKM,1870,32419.998
+Turkmenistan,TKM,1870,32420
 Turkmenistan,TKM,1871,43768
 Turkmenistan,TKM,1872,44934
 Turkmenistan,TKM,1873,42173
