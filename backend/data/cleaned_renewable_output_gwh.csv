@@ -1,0 +1,6735 @@
+Country,Code,Year,Renewable_Output_GWh
+Afghanistan,AFG,1990.0,764
+Afghanistan,AFG,1991.0,690
+Afghanistan,AFG,1992.0,478
+Afghanistan,AFG,1993.0,475
+Afghanistan,AFG,1994.0,472
+Afghanistan,AFG,1995.0,466
+Afghanistan,AFG,1996.0,475
+Afghanistan,AFG,1997.0,485
+Afghanistan,AFG,1998.0,495
+Afghanistan,AFG,1999.0,505
+Afghanistan,AFG,2000.0,515.7
+Afghanistan,AFG,2001.0,503.2
+Afghanistan,AFG,2002.0,571
+Afghanistan,AFG,2003.0,647
+Afghanistan,AFG,2004.0,565
+Afghanistan,AFG,2005.0,671
+Afghanistan,AFG,2006.0,646
+Afghanistan,AFG,2007.0,684
+Afghanistan,AFG,2008.0,541
+Afghanistan,AFG,2009.0,775
+Afghanistan,AFG,2010.0,767
+Afghanistan,AFG,2011.0,829
+Afghanistan,AFG,2012.0,878
+Afghanistan,AFG,2013.0,803.9
+Afghanistan,AFG,2014.0,895.3
+Afghanistan,AFG,2015.0,889.5
+Albania,ALB,1990.0,2848
+Albania,ALB,1991.0,3518
+Albania,ALB,1992.0,3226
+Albania,ALB,1993.0,3314
+Albania,ALB,1994.0,3771
+Albania,ALB,1995.0,4204
+Albania,ALB,1996.0,5726
+Albania,ALB,1997.0,5028
+Albania,ALB,1998.0,4921
+Albania,ALB,1999.0,5284
+Albania,ALB,2000.0,4594
+Albania,ALB,2001.0,3555
+Albania,ALB,2002.0,3512
+Albania,ALB,2003.0,4885
+Albania,ALB,2004.0,5466
+Albania,ALB,2005.0,5373
+Albania,ALB,2006.0,5431
+Albania,ALB,2007.0,2788
+Albania,ALB,2008.0,3797
+Albania,ALB,2009.0,5201
+Albania,ALB,2010.0,7567
+Albania,ALB,2011.0,4132
+Albania,ALB,2012.0,4725
+Albania,ALB,2013.0,6959
+Albania,ALB,2014.0,4724
+Albania,ALB,2015.0,5895
+Algeria,DZA,1990.0,135
+Algeria,DZA,1991.0,293
+Algeria,DZA,1992.0,199
+Algeria,DZA,1993.0,353
+Algeria,DZA,1994.0,166
+Algeria,DZA,1995.0,193
+Algeria,DZA,1996.0,135
+Algeria,DZA,1997.0,75
+Algeria,DZA,1998.0,215
+Algeria,DZA,1999.0,203
+Algeria,DZA,2000.0,54
+Algeria,DZA,2001.0,69
+Algeria,DZA,2002.0,57
+Algeria,DZA,2003.0,265
+Algeria,DZA,2004.0,251
+Algeria,DZA,2005.0,555
+Algeria,DZA,2006.0,218
+Algeria,DZA,2007.0,226
+Algeria,DZA,2008.0,283
+Algeria,DZA,2009.0,306
+Algeria,DZA,2010.0,174
+Algeria,DZA,2011.0,502
+Algeria,DZA,2012.0,622
+Algeria,DZA,2013.0,330
+Algeria,DZA,2014.0,254
+Algeria,DZA,2015.0,222
+American Samoa,ASM,1990.0,0
+American Samoa,ASM,1991.0,0
+American Samoa,ASM,1992.0,0
+American Samoa,ASM,1993.0,0
+American Samoa,ASM,1994.0,0
+American Samoa,ASM,1995.0,0
+American Samoa,ASM,1996.0,0
+American Samoa,ASM,1997.0,0
+American Samoa,ASM,1998.0,0
+American Samoa,ASM,1999.0,0
+American Samoa,ASM,2000.0,0
+American Samoa,ASM,2001.0,0
+American Samoa,ASM,2002.0,0
+American Samoa,ASM,2003.0,0
+American Samoa,ASM,2004.0,0
+American Samoa,ASM,2005.0,0
+American Samoa,ASM,2006.0,0
+American Samoa,ASM,2007.0,0
+American Samoa,ASM,2008.0,0
+American Samoa,ASM,2009.0,0
+American Samoa,ASM,2010.0,0
+American Samoa,ASM,2011.0,0
+American Samoa,ASM,2012.0,1.1
+American Samoa,ASM,2013.0,1.1
+American Samoa,ASM,2014.0,1.1
+American Samoa,ASM,2015.0,1.5
+Andorra,AND,1990.0,120
+Andorra,AND,1991.0,120
+Andorra,AND,1992.0,120
+Andorra,AND,1993.0,120
+Andorra,AND,1994.0,120
+Andorra,AND,1995.0,124
+Andorra,AND,1996.0,110
+Andorra,AND,1997.0,100
+Andorra,AND,1998.0,90
+Andorra,AND,1999.0,80
+Andorra,AND,2000.0,80
+Andorra,AND,2001.0,80
+Andorra,AND,2002.0,80
+Andorra,AND,2003.0,80
+Andorra,AND,2004.0,93
+Andorra,AND,2005.0,84
+Andorra,AND,2006.0,70
+Andorra,AND,2007.0,57
+Andorra,AND,2008.0,63
+Andorra,AND,2009.0,62
+Andorra,AND,2010.0,100
+Andorra,AND,2011.0,78.9
+Andorra,AND,2012.0,76.2
+Andorra,AND,2013.0,101.8
+Andorra,AND,2014.0,113.4
+Andorra,AND,2015.0,85.6
+Angola,AGO,1990.0,725
+Angola,AGO,1991.0,772
+Angola,AGO,1992.0,840
+Angola,AGO,1993.0,890
+Angola,AGO,1994.0,895
+Angola,AGO,1995.0,900
+Angola,AGO,1996.0,925
+Angola,AGO,1997.0,875
+Angola,AGO,1998.0,1060
+Angola,AGO,1999.0,894
+Angola,AGO,2000.0,912
+Angola,AGO,2001.0,1017
+Angola,AGO,2002.0,1143
+Angola,AGO,2003.0,1241
+Angola,AGO,2004.0,1750
+Angola,AGO,2005.0,2219
+Angola,AGO,2006.0,2665
+Angola,AGO,2007.0,2497
+Angola,AGO,2008.0,3134
+Angola,AGO,2009.0,3094
+Angola,AGO,2010.0,3703
+Angola,AGO,2011.0,4007
+Angola,AGO,2012.0,3772
+Angola,AGO,2013.0,4767
+Angola,AGO,2014.0,5041
+Angola,AGO,2015.0,5192
+Anguilla,AIA,1990.0,0
+Anguilla,AIA,1991.0,0
+Anguilla,AIA,1992.0,0
+Anguilla,AIA,1993.0,0
+Anguilla,AIA,1994.0,0
+Anguilla,AIA,1995.0,0
+Anguilla,AIA,1996.0,0
+Anguilla,AIA,1997.0,0
+Anguilla,AIA,1998.0,0
+Anguilla,AIA,1999.0,0
+Anguilla,AIA,2000.0,0
+Anguilla,AIA,2001.0,0
+Anguilla,AIA,2002.0,0
+Anguilla,AIA,2003.0,0
+Anguilla,AIA,2004.0,0
+Anguilla,AIA,2005.0,0
+Anguilla,AIA,2006.0,0
+Anguilla,AIA,2007.0,0
+Anguilla,AIA,2008.0,0
+Anguilla,AIA,2009.0,0
+Anguilla,AIA,2010.0,0
+Anguilla,AIA,2011.0,0
+Anguilla,AIA,2012.0,0
+Anguilla,AIA,2013.0,0
+Anguilla,AIA,2014.0,0
+Anguilla,AIA,2015.0,0
+Antigua and Barbuda,ATG,1990.0,0
+Antigua and Barbuda,ATG,1991.0,0
+Antigua and Barbuda,ATG,1992.0,0
+Antigua and Barbuda,ATG,1993.0,0
+Antigua and Barbuda,ATG,1994.0,0
+Antigua and Barbuda,ATG,1995.0,0
+Antigua and Barbuda,ATG,1996.0,0
+Antigua and Barbuda,ATG,1997.0,0
+Antigua and Barbuda,ATG,1998.0,0
+Antigua and Barbuda,ATG,1999.0,0
+Antigua and Barbuda,ATG,2000.0,0
+Antigua and Barbuda,ATG,2001.0,0
+Antigua and Barbuda,ATG,2002.0,0
+Antigua and Barbuda,ATG,2003.0,0
+Antigua and Barbuda,ATG,2004.0,0
+Antigua and Barbuda,ATG,2005.0,0
+Antigua and Barbuda,ATG,2006.0,0
+Antigua and Barbuda,ATG,2007.0,0
+Antigua and Barbuda,ATG,2008.0,0
+Antigua and Barbuda,ATG,2009.0,0
+Antigua and Barbuda,ATG,2010.0,5
+Antigua and Barbuda,ATG,2011.0,5
+Antigua and Barbuda,ATG,2012.0,0
+Antigua and Barbuda,ATG,2013.0,0
+Antigua and Barbuda,ATG,2014.0,0
+Antigua and Barbuda,ATG,2015.0,0
+Argentina,ARG,1990.0,17983
+Argentina,ARG,1991.0,16321
+Argentina,ARG,1992.0,19486
+Argentina,ARG,1993.0,23974
+Argentina,ARG,1994.0,27481
+Argentina,ARG,1995.0,26949
+Argentina,ARG,1996.0,23275
+Argentina,ARG,1997.0,28476
+Argentina,ARG,1998.0,26933
+Argentina,ARG,1999.0,21963
+Argentina,ARG,2000.0,29482
+Argentina,ARG,2001.0,37695
+Argentina,ARG,2002.0,36791
+Argentina,ARG,2003.0,34927
+Argentina,ARG,2004.0,31687
+Argentina,ARG,2005.0,35366
+Argentina,ARG,2006.0,39678
+Argentina,ARG,2007.0,32055
+Argentina,ARG,2008.0,32035
+Argentina,ARG,2009.0,35268
+Argentina,ARG,2010.0,35807
+Argentina,ARG,2011.0,41854
+Argentina,ARG,2012.0,39686
+Argentina,ARG,2013.0,43788
+Argentina,ARG,2014.0,43620
+Argentina,ARG,2015.0,40791
+Armenia,ARM,1990.0,1555
+Armenia,ARM,1991.0,1546
+Armenia,ARM,1992.0,3044
+Armenia,ARM,1993.0,4293
+Armenia,ARM,1994.0,3514
+Armenia,ARM,1995.0,1919
+Armenia,ARM,1996.0,1572
+Armenia,ARM,1997.0,1390
+Armenia,ARM,1998.0,1537
+Armenia,ARM,1999.0,1200
+Armenia,ARM,2000.0,1261
+Armenia,ARM,2001.0,968
+Armenia,ARM,2002.0,1658
+Armenia,ARM,2003.0,1982
+Armenia,ARM,2004.0,1998
+Armenia,ARM,2005.0,1773
+Armenia,ARM,2006.0,1825
+Armenia,ARM,2007.0,1856
+Armenia,ARM,2008.0,1799
+Armenia,ARM,2009.0,2023
+Armenia,ARM,2010.0,2563
+Armenia,ARM,2011.0,2492
+Armenia,ARM,2012.0,2326
+Armenia,ARM,2013.0,2177
+Armenia,ARM,2014.0,1996
+Armenia,ARM,2015.0,2210
+Aruba,ABW,1990.0,0
+Aruba,ABW,1991.0,0
+Aruba,ABW,1992.0,0
+Aruba,ABW,1993.0,0
+Aruba,ABW,1994.0,0
+Aruba,ABW,1995.0,0
+Aruba,ABW,1996.0,0
+Aruba,ABW,1997.0,0
+Aruba,ABW,1998.0,0
+Aruba,ABW,1999.0,0
+Aruba,ABW,2000.0,0
+Aruba,ABW,2001.0,0
+Aruba,ABW,2002.0,0
+Aruba,ABW,2003.0,0
+Aruba,ABW,2004.0,0
+Aruba,ABW,2005.0,0
+Aruba,ABW,2006.0,0
+Aruba,ABW,2007.0,0
+Aruba,ABW,2008.0,0
+Aruba,ABW,2009.0,0
+Aruba,ABW,2010.0,106.5
+Aruba,ABW,2011.0,112.6
+Aruba,ABW,2012.0,136.4
+Aruba,ABW,2013.0,138.4
+Aruba,ABW,2014.0,138.4
+Aruba,ABW,2015.0,138.4
+Australia,AUS,1990.0,14898
+Australia,AUS,1991.0,16590
+Australia,AUS,1992.0,16019
+Australia,AUS,1993.0,17220
+Australia,AUS,1994.0,17042
+Australia,AUS,1995.0,16631
+Australia,AUS,1996.0,16362
+Australia,AUS,1997.0,17507
+Australia,AUS,1998.0,16448
+Australia,AUS,1999.0,17398
+Australia,AUS,2000.0,17590
+Australia,AUS,2001.0,18162
+Australia,AUS,2002.0,17874
+Australia,AUS,2003.0,18619
+Australia,AUS,2004.0,18683
+Australia,AUS,2005.0,20103
+Australia,AUS,2006.0,21642
+Australia,AUS,2007.0,21013
+Australia,AUS,2008.0,19726
+Australia,AUS,2009.0,18602
+Australia,AUS,2010.0,21758
+Australia,AUS,2011.0,26474
+Australia,AUS,2012.0,26599
+Australia,AUS,2013.0,33110
+Australia,AUS,2014.0,37008
+Australia,AUS,2015.0,34405
+Austria,AUT,1990.0,32635
+Austria,AUT,1991.0,32649
+Austria,AUT,1992.0,36154
+Austria,AUT,1993.0,38049
+Austria,AUT,1994.0,36896
+Austria,AUT,1995.0,38904
+Austria,AUT,1996.0,35790
+Austria,AUT,1997.0,37819
+Austria,AUT,1998.0,39031
+Austria,AUT,1999.0,42348
+Austria,AUT,2000.0,43435
+Austria,AUT,2001.0,42232
+Austria,AUT,2002.0,41895
+Austria,AUT,2003.0,35313
+Austria,AUT,2004.0,39772
+Austria,AUT,2005.0,41031
+Austria,AUT,2006.0,40807
+Austria,AUT,2007.0,43290
+Austria,AUT,2008.0,44674
+Austria,AUT,2009.0,47177
+Austria,AUT,2010.0,44980
+Austria,AUT,2011.0,40870
+Austria,AUT,2012.0,51209
+Austria,AUT,2013.0,50365
+Austria,AUT,2014.0,49944
+Austria,AUT,2015.0,47243
+Azerbaijan,AZE,1990.0,1658
+Azerbaijan,AZE,1991.0,1758
+Azerbaijan,AZE,1992.0,1747
+Azerbaijan,AZE,1993.0,2426
+Azerbaijan,AZE,1994.0,1829
+Azerbaijan,AZE,1995.0,1556
+Azerbaijan,AZE,1996.0,1538
+Azerbaijan,AZE,1997.0,1712
+Azerbaijan,AZE,1998.0,1951
+Azerbaijan,AZE,1999.0,1506
+Azerbaijan,AZE,2000.0,1534
+Azerbaijan,AZE,2001.0,1301
+Azerbaijan,AZE,2002.0,2020
+Azerbaijan,AZE,2003.0,2469
+Azerbaijan,AZE,2004.0,2755
+Azerbaijan,AZE,2005.0,3009
+Azerbaijan,AZE,2006.0,2518
+Azerbaijan,AZE,2007.0,2364
+Azerbaijan,AZE,2008.0,2232
+Azerbaijan,AZE,2009.0,2310
+Azerbaijan,AZE,2010.0,3447
+Azerbaijan,AZE,2011.0,2676
+Azerbaijan,AZE,2012.0,1821
+Azerbaijan,AZE,2013.0,1558
+Azerbaijan,AZE,2014.0,1392
+Azerbaijan,AZE,2015.0,1738
+"Bahamas, The",BHS,1990.0,0
+"Bahamas, The",BHS,1991.0,0
+"Bahamas, The",BHS,1992.0,0
+"Bahamas, The",BHS,1993.0,0
+"Bahamas, The",BHS,1994.0,0
+"Bahamas, The",BHS,1995.0,0
+"Bahamas, The",BHS,1996.0,0
+"Bahamas, The",BHS,1997.0,0
+"Bahamas, The",BHS,1998.0,0
+"Bahamas, The",BHS,1999.0,0
+"Bahamas, The",BHS,2000.0,0
+"Bahamas, The",BHS,2001.0,0
+"Bahamas, The",BHS,2002.0,0
+"Bahamas, The",BHS,2003.0,0
+"Bahamas, The",BHS,2004.0,0
+"Bahamas, The",BHS,2005.0,0
+"Bahamas, The",BHS,2006.0,0
+"Bahamas, The",BHS,2007.0,0
+"Bahamas, The",BHS,2008.0,0
+"Bahamas, The",BHS,2009.0,0
+"Bahamas, The",BHS,2010.0,0
+"Bahamas, The",BHS,2011.0,0
+"Bahamas, The",BHS,2012.0,0
+"Bahamas, The",BHS,2013.0,0
+"Bahamas, The",BHS,2014.0,0
+"Bahamas, The",BHS,2015.0,0
+Bahrain,BHR,1990.0,0
+Bahrain,BHR,1991.0,0
+Bahrain,BHR,1992.0,0
+Bahrain,BHR,1993.0,0
+Bahrain,BHR,1994.0,0
+Bahrain,BHR,1995.0,0
+Bahrain,BHR,1996.0,0
+Bahrain,BHR,1997.0,0
+Bahrain,BHR,1998.0,0
+Bahrain,BHR,1999.0,0
+Bahrain,BHR,2000.0,0
+Bahrain,BHR,2001.0,0
+Bahrain,BHR,2002.0,0
+Bahrain,BHR,2003.0,0
+Bahrain,BHR,2004.0,0
+Bahrain,BHR,2005.0,0
+Bahrain,BHR,2006.0,0
+Bahrain,BHR,2007.0,0
+Bahrain,BHR,2008.0,0
+Bahrain,BHR,2009.0,0
+Bahrain,BHR,2010.0,0
+Bahrain,BHR,2011.0,0
+Bahrain,BHR,2012.0,0
+Bahrain,BHR,2013.0,0
+Bahrain,BHR,2014.0,0
+Bahrain,BHR,2015.0,0
+Bangladesh,BGD,1990.0,884
+Bangladesh,BGD,1991.0,838
+Bangladesh,BGD,1992.0,796
+Bangladesh,BGD,1993.0,608
+Bangladesh,BGD,1994.0,847
+Bangladesh,BGD,1995.0,372
+Bangladesh,BGD,1996.0,739
+Bangladesh,BGD,1997.0,719
+Bangladesh,BGD,1998.0,865
+Bangladesh,BGD,1999.0,833
+Bangladesh,BGD,2000.0,749
+Bangladesh,BGD,2001.0,993
+Bangladesh,BGD,2002.0,749
+Bangladesh,BGD,2003.0,749
+Bangladesh,BGD,2004.0,749
+Bangladesh,BGD,2005.0,749
+Bangladesh,BGD,2006.0,749
+Bangladesh,BGD,2007.0,749
+Bangladesh,BGD,2008.0,950
+Bangladesh,BGD,2009.0,417
+Bangladesh,BGD,2010.0,729
+Bangladesh,BGD,2011.0,872
+Bangladesh,BGD,2012.0,777
+Bangladesh,BGD,2013.0,1034
+Bangladesh,BGD,2014.0,737
+Bangladesh,BGD,2015.0,724
+Barbados,BRB,1990.0,0
+Barbados,BRB,1991.0,0
+Barbados,BRB,1992.0,0
+Barbados,BRB,1993.0,0
+Barbados,BRB,1994.0,0
+Barbados,BRB,1995.0,0
+Barbados,BRB,1996.0,0
+Barbados,BRB,1997.0,0
+Barbados,BRB,1998.0,0
+Barbados,BRB,1999.0,0
+Barbados,BRB,2000.0,0
+Barbados,BRB,2001.0,0
+Barbados,BRB,2002.0,0
+Barbados,BRB,2003.0,0
+Barbados,BRB,2004.0,0
+Barbados,BRB,2005.0,0
+Barbados,BRB,2006.0,0
+Barbados,BRB,2007.0,0
+Barbados,BRB,2008.0,0
+Barbados,BRB,2009.0,0
+Barbados,BRB,2010.0,0
+Barbados,BRB,2011.0,0
+Barbados,BRB,2012.0,0
+Barbados,BRB,2013.0,0
+Barbados,BRB,2014.0,0
+Barbados,BRB,2015.0,0
+Belarus,BLR,1990.0,20
+Belarus,BLR,1991.0,18
+Belarus,BLR,1992.0,17
+Belarus,BLR,1993.0,19
+Belarus,BLR,1994.0,19
+Belarus,BLR,1995.0,20
+Belarus,BLR,1996.0,16
+Belarus,BLR,1997.0,21
+Belarus,BLR,1998.0,28
+Belarus,BLR,1999.0,19
+Belarus,BLR,2000.0,27
+Belarus,BLR,2001.0,30
+Belarus,BLR,2002.0,29
+Belarus,BLR,2003.0,28
+Belarus,BLR,2004.0,34
+Belarus,BLR,2005.0,37
+Belarus,BLR,2006.0,38
+Belarus,BLR,2007.0,50
+Belarus,BLR,2008.0,73
+Belarus,BLR,2009.0,105
+Belarus,BLR,2010.0,130
+Belarus,BLR,2011.0,138
+Belarus,BLR,2012.0,171
+Belarus,BLR,2013.0,266
+Belarus,BLR,2014.0,251
+Belarus,BLR,2015.0,278
+Belgium,BEL,1990.0,555
+Belgium,BEL,1991.0,536
+Belgium,BEL,1992.0,617
+Belgium,BEL,1993.0,507
+Belgium,BEL,1994.0,600
+Belgium,BEL,1995.0,668
+Belgium,BEL,1996.0,561
+Belgium,BEL,1997.0,588
+Belgium,BEL,1998.0,759
+Belgium,BEL,1999.0,850
+Belgium,BEL,2000.0,1044
+Belgium,BEL,2001.0,1075
+Belgium,BEL,2002.0,1138
+Belgium,BEL,2003.0,1192
+Belgium,BEL,2004.0,1497
+Belgium,BEL,2005.0,2106
+Belgium,BEL,2006.0,2952
+Belgium,BEL,2007.0,3486
+Belgium,BEL,2008.0,4418
+Belgium,BEL,2009.0,5439
+Belgium,BEL,2010.0,6494
+Belgium,BEL,2011.0,8377
+Belgium,BEL,2012.0,10458
+Belgium,BEL,2013.0,11675
+Belgium,BEL,2014.0,12213
+Belgium,BEL,2015.0,14466
+Belize,BLZ,1990.0,0
+Belize,BLZ,1991.0,0
+Belize,BLZ,1992.0,0
+Belize,BLZ,1993.0,0
+Belize,BLZ,1994.0,0
+Belize,BLZ,1995.0,40
+Belize,BLZ,1996.0,61
+Belize,BLZ,1997.0,69
+Belize,BLZ,1998.0,66
+Belize,BLZ,1999.0,76
+Belize,BLZ,2000.0,96
+Belize,BLZ,2001.0,96
+Belize,BLZ,2002.0,94
+Belize,BLZ,2003.0,68
+Belize,BLZ,2004.0,63.85
+Belize,BLZ,2005.0,68.957
+Belize,BLZ,2006.0,179.5
+Belize,BLZ,2007.0,179.177
+Belize,BLZ,2008.0,206.545
+Belize,BLZ,2009.0,187.591389
+Belize,BLZ,2010.0,262.985
+Belize,BLZ,2011.0,244.446111
+Belize,BLZ,2012.0,208.460556
+Belize,BLZ,2013.0,207.07
+Belize,BLZ,2014.0,204.881389
+Belize,BLZ,2015.0,188.630277777778
+Benin,BEN,1990.0,0
+Benin,BEN,1991.0,0
+Benin,BEN,1992.0,0
+Benin,BEN,1993.0,0
+Benin,BEN,1994.0,0
+Benin,BEN,1995.0,0
+Benin,BEN,1996.0,0
+Benin,BEN,1997.0,2
+Benin,BEN,1998.0,2
+Benin,BEN,1999.0,2
+Benin,BEN,2000.0,2
+Benin,BEN,2001.0,2
+Benin,BEN,2002.0,2
+Benin,BEN,2003.0,2
+Benin,BEN,2004.0,1
+Benin,BEN,2005.0,1
+Benin,BEN,2006.0,4
+Benin,BEN,2007.0,3
+Benin,BEN,2008.0,3
+Benin,BEN,2009.0,1
+Benin,BEN,2010.0,1
+Benin,BEN,2011.0,0
+Benin,BEN,2012.0,0
+Benin,BEN,2013.0,0
+Benin,BEN,2014.0,0
+Benin,BEN,2015.0,19
+Bermuda,BMU,1990.0,0
+Bermuda,BMU,1991.0,0
+Bermuda,BMU,1992.0,0
+Bermuda,BMU,1993.0,0
+Bermuda,BMU,1994.0,0
+Bermuda,BMU,1995.0,0
+Bermuda,BMU,1996.0,0
+Bermuda,BMU,1997.0,0
+Bermuda,BMU,1998.0,0
+Bermuda,BMU,1999.0,0
+Bermuda,BMU,2000.0,0
+Bermuda,BMU,2001.0,0
+Bermuda,BMU,2002.0,0
+Bermuda,BMU,2003.0,0
+Bermuda,BMU,2004.0,0
+Bermuda,BMU,2005.0,0
+Bermuda,BMU,2006.0,0
+Bermuda,BMU,2007.0,0
+Bermuda,BMU,2008.0,0
+Bermuda,BMU,2009.0,0
+Bermuda,BMU,2010.0,0
+Bermuda,BMU,2011.0,0
+Bermuda,BMU,2012.0,0
+Bermuda,BMU,2013.0,0
+Bermuda,BMU,2014.0,0
+Bermuda,BMU,2015.0,0
+Bhutan,BTN,1990.0,1557
+Bhutan,BTN,1991.0,1560
+Bhutan,BTN,1992.0,1563
+Bhutan,BTN,1993.0,1683
+Bhutan,BTN,1994.0,1685
+Bhutan,BTN,1995.0,1630
+Bhutan,BTN,1996.0,1972
+Bhutan,BTN,1997.0,1838
+Bhutan,BTN,1998.0,1801
+Bhutan,BTN,1999.0,1800
+Bhutan,BTN,2000.0,1810
+Bhutan,BTN,2001.0,2058.95
+Bhutan,BTN,2002.0,2200
+Bhutan,BTN,2003.0,2527
+Bhutan,BTN,2004.0,2353
+Bhutan,BTN,2005.0,2646
+Bhutan,BTN,2006.0,4519
+Bhutan,BTN,2007.0,6560
+Bhutan,BTN,2008.0,6961
+Bhutan,BTN,2009.0,6998
+Bhutan,BTN,2010.0,7328
+Bhutan,BTN,2011.0,7067.2
+Bhutan,BTN,2012.0,6826.5
+Bhutan,BTN,2013.0,7639.64
+Bhutan,BTN,2014.0,7003.36
+Bhutan,BTN,2015.0,7747.154
+Bolivia,BOL,1990.0,1212
+Bolivia,BOL,1991.0,1340
+Bolivia,BOL,1992.0,1306
+Bolivia,BOL,1993.0,1545
+Bolivia,BOL,1994.0,1360
+Bolivia,BOL,1995.0,1308
+Bolivia,BOL,1996.0,1472
+Bolivia,BOL,1997.0,1613
+Bolivia,BOL,1998.0,1606
+Bolivia,BOL,1999.0,1838
+Bolivia,BOL,2000.0,1999
+Bolivia,BOL,2001.0,2183
+Bolivia,BOL,2002.0,2257
+Bolivia,BOL,2003.0,2041
+Bolivia,BOL,2004.0,2203
+Bolivia,BOL,2005.0,2020
+Bolivia,BOL,2006.0,2219
+Bolivia,BOL,2007.0,2391
+Bolivia,BOL,2008.0,2407
+Bolivia,BOL,2009.0,2417
+Bolivia,BOL,2010.0,2301
+Bolivia,BOL,2011.0,2469
+Bolivia,BOL,2012.0,2475
+Bolivia,BOL,2013.0,2595
+Bolivia,BOL,2014.0,2452
+Bolivia,BOL,2015.0,2678
+Bosnia and Herzegovina,BIH,1990.0,3058
+Bosnia and Herzegovina,BIH,1991.0,5138
+Bosnia and Herzegovina,BIH,1992.0,3408
+Bosnia and Herzegovina,BIH,1993.0,2367
+Bosnia and Herzegovina,BIH,1994.0,3459
+Bosnia and Herzegovina,BIH,1995.0,3643
+Bosnia and Herzegovina,BIH,1996.0,5156
+Bosnia and Herzegovina,BIH,1997.0,4655
+Bosnia and Herzegovina,BIH,1998.0,4557
+Bosnia and Herzegovina,BIH,1999.0,5532
+Bosnia and Herzegovina,BIH,2000.0,5094
+Bosnia and Herzegovina,BIH,2001.0,5181
+Bosnia and Herzegovina,BIH,2002.0,5268
+Bosnia and Herzegovina,BIH,2003.0,4501
+Bosnia and Herzegovina,BIH,2004.0,5979
+Bosnia and Herzegovina,BIH,2005.0,5998
+Bosnia and Herzegovina,BIH,2006.0,5857
+Bosnia and Herzegovina,BIH,2007.0,4001
+Bosnia and Herzegovina,BIH,2008.0,4867
+Bosnia and Herzegovina,BIH,2009.0,6239
+Bosnia and Herzegovina,BIH,2010.0,8026
+Bosnia and Herzegovina,BIH,2011.0,4387
+Bosnia and Herzegovina,BIH,2012.0,4215
+Bosnia and Herzegovina,BIH,2013.0,7236
+Bosnia and Herzegovina,BIH,2014.0,5935
+Bosnia and Herzegovina,BIH,2015.0,5551
+Botswana,BWA,1990.0,0
+Botswana,BWA,1991.0,0
+Botswana,BWA,1992.0,0
+Botswana,BWA,1993.0,0
+Botswana,BWA,1994.0,0
+Botswana,BWA,1995.0,0
+Botswana,BWA,1996.0,0
+Botswana,BWA,1997.0,0
+Botswana,BWA,1998.0,0
+Botswana,BWA,1999.0,0
+Botswana,BWA,2000.0,0
+Botswana,BWA,2001.0,0
+Botswana,BWA,2002.0,0
+Botswana,BWA,2003.0,0
+Botswana,BWA,2004.0,0
+Botswana,BWA,2005.0,0
+Botswana,BWA,2006.0,0
+Botswana,BWA,2007.0,0
+Botswana,BWA,2008.0,0
+Botswana,BWA,2009.0,0
+Botswana,BWA,2010.0,0
+Botswana,BWA,2011.0,0
+Botswana,BWA,2012.0,0
+Botswana,BWA,2013.0,1
+Botswana,BWA,2014.0,1
+Botswana,BWA,2015.0,1
+Brazil,BRA,1990.0,210567
+Brazil,BRA,1991.0,221781
+Brazil,BRA,1992.0,228242
+Brazil,BRA,1993.0,240019
+Brazil,BRA,1994.0,248093
+Brazil,BRA,1995.0,259499
+Brazil,BRA,1996.0,272523
+Brazil,BRA,1997.0,286355
+Brazil,BRA,1998.0,298979
+Brazil,BRA,1999.0,301368
+Brazil,BRA,2000.0,312249
+Brazil,BRA,2001.0,276891
+Brazil,BRA,2002.0,296372
+Brazil,BRA,2003.0,317571
+Brazil,BRA,2004.0,333334
+Brazil,BRA,2005.0,351141
+Brazil,BRA,2006.0,363765
+Brazil,BRA,2007.0,392685
+Brazil,BRA,2008.0,390210
+Brazil,BRA,2009.0,414828
+Brazil,BRA,2010.0,436961
+Brazil,BRA,2011.0,463272
+Brazil,BRA,2012.0,455629
+Brazil,BRA,2013.0,437969
+Brazil,BRA,2014.0,431660
+Brazil,BRA,2015.0,430230
+British Virgin Islands,VGB,1990.0,0
+British Virgin Islands,VGB,1991.0,0
+British Virgin Islands,VGB,1992.0,0
+British Virgin Islands,VGB,1993.0,0
+British Virgin Islands,VGB,1994.0,0
+British Virgin Islands,VGB,1995.0,0
+British Virgin Islands,VGB,1996.0,0
+British Virgin Islands,VGB,1997.0,0
+British Virgin Islands,VGB,1998.0,0
+British Virgin Islands,VGB,1999.0,0
+British Virgin Islands,VGB,2000.0,0
+British Virgin Islands,VGB,2001.0,0
+British Virgin Islands,VGB,2002.0,0
+British Virgin Islands,VGB,2003.0,0
+British Virgin Islands,VGB,2004.0,0
+British Virgin Islands,VGB,2005.0,0
+British Virgin Islands,VGB,2006.0,0
+British Virgin Islands,VGB,2007.0,0
+British Virgin Islands,VGB,2008.0,0
+British Virgin Islands,VGB,2009.0,0
+British Virgin Islands,VGB,2010.0,0
+British Virgin Islands,VGB,2011.0,1.07
+British Virgin Islands,VGB,2012.0,1.07
+British Virgin Islands,VGB,2013.0,1.34
+British Virgin Islands,VGB,2014.0,1.72
+British Virgin Islands,VGB,2015.0,1.72
+Brunei Darussalam,BRN,1990.0,0
+Brunei Darussalam,BRN,1991.0,0
+Brunei Darussalam,BRN,1992.0,0
+Brunei Darussalam,BRN,1993.0,0
+Brunei Darussalam,BRN,1994.0,0
+Brunei Darussalam,BRN,1995.0,0
+Brunei Darussalam,BRN,1996.0,0
+Brunei Darussalam,BRN,1997.0,0
+Brunei Darussalam,BRN,1998.0,0
+Brunei Darussalam,BRN,1999.0,0
+Brunei Darussalam,BRN,2000.0,0
+Brunei Darussalam,BRN,2001.0,0
+Brunei Darussalam,BRN,2002.0,0
+Brunei Darussalam,BRN,2003.0,0
+Brunei Darussalam,BRN,2004.0,0
+Brunei Darussalam,BRN,2005.0,0
+Brunei Darussalam,BRN,2006.0,0
+Brunei Darussalam,BRN,2007.0,0
+Brunei Darussalam,BRN,2008.0,0
+Brunei Darussalam,BRN,2009.0,0
+Brunei Darussalam,BRN,2010.0,0
+Brunei Darussalam,BRN,2011.0,2
+Brunei Darussalam,BRN,2012.0,2
+Brunei Darussalam,BRN,2013.0,2
+Brunei Darussalam,BRN,2014.0,2
+Brunei Darussalam,BRN,2015.0,2
+Bulgaria,BGR,1990.0,1878
+Bulgaria,BGR,1991.0,2441
+Bulgaria,BGR,1992.0,2063
+Bulgaria,BGR,1993.0,1942
+Bulgaria,BGR,1994.0,1468
+Bulgaria,BGR,1995.0,2314
+Bulgaria,BGR,1996.0,2919
+Bulgaria,BGR,1997.0,2754
+Bulgaria,BGR,1998.0,3097
+Bulgaria,BGR,1999.0,2753
+Bulgaria,BGR,2000.0,2673
+Bulgaria,BGR,2001.0,1737
+Bulgaria,BGR,2002.0,2194
+Bulgaria,BGR,2003.0,3029
+Bulgaria,BGR,2004.0,3169
+Bulgaria,BGR,2005.0,4342
+Bulgaria,BGR,2006.0,4258
+Bulgaria,BGR,2007.0,2921
+Bulgaria,BGR,2008.0,2962
+Bulgaria,BGR,2009.0,3718
+Bulgaria,BGR,2010.0,5788
+Bulgaria,BGR,2011.0,3935
+Bulgaria,BGR,2012.0,5327
+Bulgaria,BGR,2013.0,6925
+Bulgaria,BGR,2014.0,7388
+Bulgaria,BGR,2015.0,8768
+Burkina Faso,BFA,1990.0,9
+Burkina Faso,BFA,1991.0,13
+Burkina Faso,BFA,1992.0,20
+Burkina Faso,BFA,1993.0,47
+Burkina Faso,BFA,1994.0,73
+Burkina Faso,BFA,1995.0,94
+Burkina Faso,BFA,1996.0,73.8
+Burkina Faso,BFA,1997.0,61.5
+Burkina Faso,BFA,1998.0,78.3
+Burkina Faso,BFA,1999.0,124.7
+Burkina Faso,BFA,2000.0,98.3
+Burkina Faso,BFA,2001.0,53.8
+Burkina Faso,BFA,2002.0,63.8
+Burkina Faso,BFA,2003.0,95.9
+Burkina Faso,BFA,2004.0,101.5
+Burkina Faso,BFA,2005.0,100.5
+Burkina Faso,BFA,2006.0,80.1
+Burkina Faso,BFA,2007.0,111
+Burkina Faso,BFA,2008.0,135.9
+Burkina Faso,BFA,2009.0,132.3
+Burkina Faso,BFA,2010.0,117.5
+Burkina Faso,BFA,2011.0,81.9
+Burkina Faso,BFA,2012.0,96.6
+Burkina Faso,BFA,2013.0,105.5
+Burkina Faso,BFA,2014.0,90.473
+Burkina Faso,BFA,2015.0,93.462
+Burundi,BDI,1990.0,108
+Burundi,BDI,1991.0,134
+Burundi,BDI,1992.0,105
+Burundi,BDI,1993.0,109
+Burundi,BDI,1994.0,115
+Burundi,BDI,1995.0,118
+Burundi,BDI,1996.0,118
+Burundi,BDI,1997.0,120
+Burundi,BDI,1998.0,110
+Burundi,BDI,1999.0,98
+Burundi,BDI,2000.0,99
+Burundi,BDI,2001.0,115
+Burundi,BDI,2002.0,127.3
+Burundi,BDI,2003.0,101.5
+Burundi,BDI,2004.0,91.6
+Burundi,BDI,2005.0,100.3
+Burundi,BDI,2006.0,93.3
+Burundi,BDI,2007.0,117.459
+Burundi,BDI,2008.0,111.789
+Burundi,BDI,2009.0,116.778
+Burundi,BDI,2010.0,124.495
+Burundi,BDI,2011.0,128.246
+Burundi,BDI,2012.0,138.807
+Burundi,BDI,2013.0,138.468
+Burundi,BDI,2014.0,140.328
+Burundi,BDI,2015.0,137.286
+Cambodia,KHM,1990.0,0
+Cambodia,KHM,1991.0,0
+Cambodia,KHM,1992.0,0
+Cambodia,KHM,1993.0,0
+Cambodia,KHM,1994.0,0
+Cambodia,KHM,1995.0,0
+Cambodia,KHM,1996.0,0
+Cambodia,KHM,1997.0,0
+Cambodia,KHM,1998.0,0
+Cambodia,KHM,1999.0,0
+Cambodia,KHM,2000.0,1
+Cambodia,KHM,2001.0,1
+Cambodia,KHM,2002.0,30
+Cambodia,KHM,2003.0,49
+Cambodia,KHM,2004.0,42
+Cambodia,KHM,2005.0,59
+Cambodia,KHM,2006.0,68
+Cambodia,KHM,2007.0,68
+Cambodia,KHM,2008.0,65
+Cambodia,KHM,2009.0,68
+Cambodia,KHM,2010.0,55
+Cambodia,KHM,2011.0,75
+Cambodia,KHM,2012.0,540
+Cambodia,KHM,2013.0,1030
+Cambodia,KHM,2014.0,1872
+Cambodia,KHM,2015.0,2041
+Cameroon,CMR,1990.0,2656
+Cameroon,CMR,1991.0,2671
+Cameroon,CMR,1992.0,2702
+Cameroon,CMR,1993.0,2802
+Cameroon,CMR,1994.0,2688
+Cameroon,CMR,1995.0,2753
+Cameroon,CMR,1996.0,2868
+Cameroon,CMR,1997.0,3092
+Cameroon,CMR,1998.0,3116
+Cameroon,CMR,1999.0,3334
+Cameroon,CMR,2000.0,3442
+Cameroon,CMR,2001.0,3474
+Cameroon,CMR,2002.0,3182
+Cameroon,CMR,2003.0,3528
+Cameroon,CMR,2004.0,3920
+Cameroon,CMR,2005.0,3772
+Cameroon,CMR,2006.0,4535
+Cameroon,CMR,2007.0,3923
+Cameroon,CMR,2008.0,4309
+Cameroon,CMR,2009.0,4087
+Cameroon,CMR,2010.0,4319
+Cameroon,CMR,2011.0,4458
+Cameroon,CMR,2012.0,3561
+Cameroon,CMR,2013.0,4151
+Cameroon,CMR,2014.0,4634
+Cameroon,CMR,2015.0,5144
+Canada,CAN,1990.0,300691
+Canada,CAN,1991.0,312248
+Canada,CAN,1992.0,320904
+Canada,CAN,1993.0,328435
+Canada,CAN,1994.0,335629
+Canada,CAN,1995.0,341626
+Canada,CAN,1996.0,361553
+Canada,CAN,1997.0,357645
+Canada,CAN,1998.0,339270
+Canada,CAN,1999.0,354220
+Canada,CAN,2000.0,366993
+Canada,CAN,2001.0,342265
+Canada,CAN,2002.0,360012
+Canada,CAN,2003.0,347332
+Canada,CAN,2004.0,350599
+Canada,CAN,2005.0,372497
+Canada,CAN,2006.0,363868
+Canada,CAN,2007.0,379029
+Canada,CAN,2008.0,388424
+Canada,CAN,2009.0,383164
+Canada,CAN,2010.0,370748
+Canada,CAN,2011.0,396672
+Canada,CAN,2012.0,402558
+Canada,CAN,2013.0,421087
+Canada,CAN,2014.0,419681
+Canada,CAN,2015.0,422643
+Cape Verde,CPV,1990.0,0
+Cape Verde,CPV,1991.0,0
+Cape Verde,CPV,1992.0,0
+Cape Verde,CPV,1993.0,2
+Cape Verde,CPV,1994.0,5.4
+Cape Verde,CPV,1995.0,6.3
+Cape Verde,CPV,1996.0,7.1
+Cape Verde,CPV,1997.0,7.2
+Cape Verde,CPV,1998.0,7.6
+Cape Verde,CPV,1999.0,7.8
+Cape Verde,CPV,2000.0,7.9
+Cape Verde,CPV,2001.0,6.43
+Cape Verde,CPV,2002.0,5.66
+Cape Verde,CPV,2003.0,5.37
+Cape Verde,CPV,2004.0,6.43
+Cape Verde,CPV,2005.0,6.45
+Cape Verde,CPV,2006.0,7.44
+Cape Verde,CPV,2007.0,6.87
+Cape Verde,CPV,2008.0,5.51
+Cape Verde,CPV,2009.0,4.66
+Cape Verde,CPV,2010.0,4.1
+Cape Verde,CPV,2011.0,24.57
+Cape Verde,CPV,2012.0,68.89
+Cape Verde,CPV,2013.0,83.1
+Cape Verde,CPV,2014.0,70.69
+Cape Verde,CPV,2015.0,85.1
+Cayman Islands,CYM,1990.0,0
+Cayman Islands,CYM,1991.0,0
+Cayman Islands,CYM,1992.0,0
+Cayman Islands,CYM,1993.0,0
+Cayman Islands,CYM,1994.0,0
+Cayman Islands,CYM,1995.0,0
+Cayman Islands,CYM,1996.0,0
+Cayman Islands,CYM,1997.0,0
+Cayman Islands,CYM,1998.0,0
+Cayman Islands,CYM,1999.0,0
+Cayman Islands,CYM,2000.0,0
+Cayman Islands,CYM,2001.0,0
+Cayman Islands,CYM,2002.0,0
+Cayman Islands,CYM,2003.0,0
+Cayman Islands,CYM,2004.0,0
+Cayman Islands,CYM,2005.0,0
+Cayman Islands,CYM,2006.0,0
+Cayman Islands,CYM,2007.0,0
+Cayman Islands,CYM,2008.0,0
+Cayman Islands,CYM,2009.0,0
+Cayman Islands,CYM,2010.0,0
+Cayman Islands,CYM,2011.0,0
+Cayman Islands,CYM,2012.0,0
+Cayman Islands,CYM,2013.0,0
+Cayman Islands,CYM,2014.0,0
+Cayman Islands,CYM,2015.0,0
+Central African Republic,CAF,1990.0,77
+Central African Republic,CAF,1991.0,76
+Central African Republic,CAF,1992.0,78
+Central African Republic,CAF,1993.0,78
+Central African Republic,CAF,1994.0,80
+Central African Republic,CAF,1995.0,81
+Central African Republic,CAF,1996.0,82
+Central African Republic,CAF,1997.0,82
+Central African Republic,CAF,1998.0,82
+Central African Republic,CAF,1999.0,84
+Central African Republic,CAF,2000.0,84
+Central African Republic,CAF,2001.0,83
+Central African Republic,CAF,2002.0,83
+Central African Republic,CAF,2003.0,84
+Central African Republic,CAF,2004.0,125
+Central African Republic,CAF,2005.0,134
+Central African Republic,CAF,2006.0,140
+Central African Republic,CAF,2007.0,137
+Central African Republic,CAF,2008.0,137
+Central African Republic,CAF,2009.0,136
+Central African Republic,CAF,2010.0,135
+Central African Republic,CAF,2011.0,147
+Central African Republic,CAF,2012.0,149
+Central African Republic,CAF,2013.0,138
+Central African Republic,CAF,2014.0,170
+Central African Republic,CAF,2015.0,170
+Chad,TCD,1990.0,0
+Chad,TCD,1991.0,0
+Chad,TCD,1992.0,0
+Chad,TCD,1993.0,0
+Chad,TCD,1994.0,0
+Chad,TCD,1995.0,0
+Chad,TCD,1996.0,0
+Chad,TCD,1997.0,0
+Chad,TCD,1998.0,0
+Chad,TCD,1999.0,0
+Chad,TCD,2000.0,0
+Chad,TCD,2001.0,0
+Chad,TCD,2002.0,0
+Chad,TCD,2003.0,0
+Chad,TCD,2004.0,0
+Chad,TCD,2005.0,0
+Chad,TCD,2006.0,0
+Chad,TCD,2007.0,0
+Chad,TCD,2008.0,0
+Chad,TCD,2009.0,0
+Chad,TCD,2010.0,0
+Chad,TCD,2011.0,0
+Chad,TCD,2012.0,0
+Chad,TCD,2013.0,0
+Chad,TCD,2014.0,0
+Chad,TCD,2015.0,0
+Channel Islands,CHI,1990.0,0
+Channel Islands,CHI,1991.0,0
+Channel Islands,CHI,1992.0,0
+Channel Islands,CHI,1993.0,0
+Channel Islands,CHI,1994.0,0
+Channel Islands,CHI,1995.0,0
+Channel Islands,CHI,1996.0,0
+Channel Islands,CHI,1997.0,0
+Channel Islands,CHI,1998.0,0
+Channel Islands,CHI,1999.0,0
+Channel Islands,CHI,2000.0,0
+Channel Islands,CHI,2001.0,0
+Channel Islands,CHI,2002.0,0
+Channel Islands,CHI,2003.0,0
+Channel Islands,CHI,2004.0,0
+Channel Islands,CHI,2005.0,0
+Channel Islands,CHI,2006.0,0
+Channel Islands,CHI,2007.0,0
+Channel Islands,CHI,2008.0,0
+Channel Islands,CHI,2009.0,0
+Channel Islands,CHI,2010.0,0
+Channel Islands,CHI,2011.0,0
+Channel Islands,CHI,2012.0,0
+Channel Islands,CHI,2013.0,0
+Channel Islands,CHI,2014.0,0
+Channel Islands,CHI,2015.0,0
+Chile,CHL,1990.0,9891
+Chile,CHL,1991.0,14167
+Chile,CHL,1992.0,18493
+Chile,CHL,1993.0,19602
+Chile,CHL,1994.0,18772
+Chile,CHL,1995.0,20293
+Chile,CHL,1996.0,18579
+Chile,CHL,1997.0,20689
+Chile,CHL,1998.0,17105
+Chile,CHL,1999.0,14600
+Chile,CHL,2000.0,19457
+Chile,CHL,2001.0,23078
+Chile,CHL,2002.0,24216
+Chile,CHL,2003.0,23488
+Chile,CHL,2004.0,24017
+Chile,CHL,2005.0,28280
+Chile,CHL,2006.0,30567
+Chile,CHL,2007.0,25835
+Chile,CHL,2008.0,27314
+Chile,CHL,2009.0,29649
+Chile,CHL,2010.0,24296
+Chile,CHL,2011.0,26020
+Chile,CHL,2012.0,25421
+Chile,CHL,2013.0,26060
+Chile,CHL,2014.0,30349
+Chile,CHL,2015.0,32872
+China,CHN,1990.0,126788
+China,CHN,1991.0,125165
+China,CHN,1992.0,132601
+China,CHN,1993.0,151962
+China,CHN,1994.0,167905
+China,CHN,1995.0,193662
+China,CHN,1996.0,189606
+China,CHN,1997.0,198922
+China,CHN,1998.0,210864
+China,CHN,1999.0,206838
+China,CHN,2000.0,225588
+China,CHN,2001.0,280766
+China,CHN,2002.0,291441
+China,CHN,2003.0,287321
+China,CHN,2004.0,357480
+China,CHN,2005.0,404451
+China,CHN,2006.0,446882
+China,CHN,2007.0,500911
+China,CHN,2008.0,614990
+China,CHN,2009.0,663651
+China,CHN,2010.0,781638
+China,CHN,2011.0,788618
+China,CHN,2012.0,995264
+China,CHN,2013.0,1103418
+China,CHN,2014.0,1280977
+China,CHN,2015.0,1398321
+Colombia,COL,1990.0,27771
+Colombia,COL,1991.0,27995
+Colombia,COL,1992.0,22621
+Colombia,COL,1993.0,28246
+Colombia,COL,1994.0,32503
+Colombia,COL,1995.0,32637
+Colombia,COL,1996.0,35987
+Colombia,COL,1997.0,31957
+Colombia,COL,1998.0,31314
+Colombia,COL,1999.0,34198
+Colombia,COL,2000.0,32570
+Colombia,COL,2001.0,32294
+Colombia,COL,2002.0,34459
+Colombia,COL,2003.0,36669
+Colombia,COL,2004.0,40596
+Colombia,COL,2005.0,40355
+Colombia,COL,2006.0,43335
+Colombia,COL,2007.0,45026
+Colombia,COL,2008.0,46994
+Colombia,COL,2009.0,41649
+Colombia,COL,2010.0,42857
+Colombia,COL,2011.0,50918
+Colombia,COL,2012.0,49590
+Colombia,COL,2013.0,51398
+Colombia,COL,2014.0,51909
+Colombia,COL,2015.0,47095
+Comoros,COM,1990.0,0
+Comoros,COM,1991.0,0
+Comoros,COM,1992.0,0
+Comoros,COM,1993.0,0
+Comoros,COM,1994.0,0
+Comoros,COM,1995.0,0
+Comoros,COM,1996.0,0
+Comoros,COM,1997.0,0
+Comoros,COM,1998.0,0
+Comoros,COM,1999.0,0
+Comoros,COM,2000.0,0
+Comoros,COM,2001.0,0
+Comoros,COM,2002.0,0
+Comoros,COM,2003.0,0
+Comoros,COM,2004.0,0
+Comoros,COM,2005.0,0
+Comoros,COM,2006.0,0
+Comoros,COM,2007.0,0
+Comoros,COM,2008.0,0
+Comoros,COM,2009.0,0
+Comoros,COM,2010.0,0
+Comoros,COM,2011.0,0
+Comoros,COM,2012.0,0
+Comoros,COM,2013.0,0
+Comoros,COM,2014.0,0
+Comoros,COM,2015.0,0
+"Congo, Dem. Rep.",COD,1990.0,5625
+"Congo, Dem. Rep.",COD,1991.0,5259
+"Congo, Dem. Rep.",COD,1992.0,6054
+"Congo, Dem. Rep.",COD,1993.0,5528
+"Congo, Dem. Rep.",COD,1994.0,5294
+"Congo, Dem. Rep.",COD,1995.0,6159
+"Congo, Dem. Rep.",COD,1996.0,6091
+"Congo, Dem. Rep.",COD,1997.0,5024
+"Congo, Dem. Rep.",COD,1998.0,4709
+"Congo, Dem. Rep.",COD,1999.0,5282
+"Congo, Dem. Rep.",COD,2000.0,5979
+"Congo, Dem. Rep.",COD,2001.0,5957
+"Congo, Dem. Rep.",COD,2002.0,6092
+"Congo, Dem. Rep.",COD,2003.0,6140
+"Congo, Dem. Rep.",COD,2004.0,7057
+"Congo, Dem. Rep.",COD,2005.0,7367
+"Congo, Dem. Rep.",COD,2006.0,7497
+"Congo, Dem. Rep.",COD,2007.0,7795
+"Congo, Dem. Rep.",COD,2008.0,7452
+"Congo, Dem. Rep.",COD,2009.0,7768
+"Congo, Dem. Rep.",COD,2010.0,7819
+"Congo, Dem. Rep.",COD,2011.0,7811
+"Congo, Dem. Rep.",COD,2012.0,7603
+"Congo, Dem. Rep.",COD,2013.0,8249
+"Congo, Dem. Rep.",COD,2014.0,8829
+"Congo, Dem. Rep.",COD,2015.0,8926
+"Congo, Rep.",COG,1990.0,490
+"Congo, Rep.",COG,1991.0,480
+"Congo, Rep.",COG,1992.0,424
+"Congo, Rep.",COG,1993.0,359
+"Congo, Rep.",COG,1994.0,322
+"Congo, Rep.",COG,1995.0,352
+"Congo, Rep.",COG,1996.0,456
+"Congo, Rep.",COG,1997.0,451
+"Congo, Rep.",COG,1998.0,342
+"Congo, Rep.",COG,1999.0,95
+"Congo, Rep.",COG,2000.0,295
+"Congo, Rep.",COG,2001.0,334
+"Congo, Rep.",COG,2002.0,396
+"Congo, Rep.",COG,2003.0,342
+"Congo, Rep.",COG,2004.0,330
+"Congo, Rep.",COG,2005.0,355
+"Congo, Rep.",COG,2006.0,372
+"Congo, Rep.",COG,2007.0,335
+"Congo, Rep.",COG,2008.0,375
+"Congo, Rep.",COG,2009.0,330
+"Congo, Rep.",COG,2010.0,429
+"Congo, Rep.",COG,2011.0,791
+"Congo, Rep.",COG,2012.0,987
+"Congo, Rep.",COG,2013.0,971
+"Congo, Rep.",COG,2014.0,952
+"Congo, Rep.",COG,2015.0,925
+Cook Islands,COK,1990.0,0
+Cook Islands,COK,1991.0,0
+Cook Islands,COK,1992.0,0
+Cook Islands,COK,1993.0,0
+Cook Islands,COK,1994.0,0
+Cook Islands,COK,1995.0,0
+Cook Islands,COK,1996.0,0
+Cook Islands,COK,1997.0,0
+Cook Islands,COK,1998.0,0
+Cook Islands,COK,1999.0,0
+Cook Islands,COK,2000.0,0
+Cook Islands,COK,2001.0,0
+Cook Islands,COK,2002.0,0
+Cook Islands,COK,2003.0,0
+Cook Islands,COK,2004.0,0
+Cook Islands,COK,2005.0,0
+Cook Islands,COK,2006.0,0
+Cook Islands,COK,2007.0,0
+Cook Islands,COK,2008.0,0
+Cook Islands,COK,2009.0,0
+Cook Islands,COK,2010.0,0
+Cook Islands,COK,2011.0,0.9
+Cook Islands,COK,2012.0,1.4
+Cook Islands,COK,2013.0,1.4
+Cook Islands,COK,2014.0,2.6
+Cook Islands,COK,2015.0,2.4
+Costa Rica,CRI,1990.0,3382
+Costa Rica,CRI,1991.0,3666
+Costa Rica,CRI,1992.0,4069
+Costa Rica,CRI,1993.0,4417
+Costa Rica,CRI,1994.0,4428
+Costa Rica,CRI,1995.0,4039
+Costa Rica,CRI,1996.0,4356
+Costa Rica,CRI,1997.0,5440
+Costa Rica,CRI,1998.0,4972
+Costa Rica,CRI,1999.0,6045
+Costa Rica,CRI,2000.0,6860
+Costa Rica,CRI,2001.0,6645
+Costa Rica,CRI,2002.0,7403
+Costa Rica,CRI,2003.0,7296
+Costa Rica,CRI,2004.0,8149
+Costa Rica,CRI,2005.0,7989
+Costa Rica,CRI,2006.0,8164
+Costa Rica,CRI,2007.0,8328
+Costa Rica,CRI,2008.0,8797
+Costa Rica,CRI,2009.0,8859
+Costa Rica,CRI,2010.0,8942
+Costa Rica,CRI,2011.0,8969
+Costa Rica,CRI,2012.0,9344
+Costa Rica,CRI,2013.0,9039
+Costa Rica,CRI,2014.0,9174
+Costa Rica,CRI,2015.0,10704
+Cote d'Ivoire,CIV,1990.0,1322
+Cote d'Ivoire,CIV,1991.0,1254
+Cote d'Ivoire,CIV,1992.0,1048
+Cote d'Ivoire,CIV,1993.0,1099
+Cote d'Ivoire,CIV,1994.0,1174
+Cote d'Ivoire,CIV,1995.0,1784
+Cote d'Ivoire,CIV,1996.0,1782
+Cote d'Ivoire,CIV,1997.0,1879
+Cote d'Ivoire,CIV,1998.0,1377
+Cote d'Ivoire,CIV,1999.0,1754
+Cote d'Ivoire,CIV,2000.0,1764
+Cote d'Ivoire,CIV,2001.0,1800
+Cote d'Ivoire,CIV,2002.0,1729
+Cote d'Ivoire,CIV,2003.0,1832
+Cote d'Ivoire,CIV,2004.0,1855
+Cote d'Ivoire,CIV,2005.0,1547
+Cote d'Ivoire,CIV,2006.0,1622
+Cote d'Ivoire,CIV,2007.0,1912
+Cote d'Ivoire,CIV,2008.0,2016
+Cote d'Ivoire,CIV,2009.0,2203
+Cote d'Ivoire,CIV,2010.0,1687
+Cote d'Ivoire,CIV,2011.0,1838
+Cote d'Ivoire,CIV,2012.0,1855
+Cote d'Ivoire,CIV,2013.0,1674
+Cote d'Ivoire,CIV,2014.0,1983
+Cote d'Ivoire,CIV,2015.0,1457
+Croatia,HRV,1990.0,4128
+Croatia,HRV,1991.0,5891
+Croatia,HRV,1992.0,4355
+Croatia,HRV,1993.0,4569
+Croatia,HRV,1994.0,5441
+Croatia,HRV,1995.0,5692
+Croatia,HRV,1996.0,7872
+Croatia,HRV,1997.0,5854
+Croatia,HRV,1998.0,6031
+Croatia,HRV,1999.0,7336
+Croatia,HRV,2000.0,6454
+Croatia,HRV,2001.0,7181
+Croatia,HRV,2002.0,5851
+Croatia,HRV,2003.0,5458
+Croatia,HRV,2004.0,7633
+Croatia,HRV,2005.0,7060
+Croatia,HRV,2006.0,6647
+Croatia,HRV,2007.0,4743
+Croatia,HRV,2008.0,5842
+Croatia,HRV,2009.0,7488
+Croatia,HRV,2010.0,9298
+Croatia,HRV,2011.0,5289
+Croatia,HRV,2012.0,5262
+Croatia,HRV,2013.0,9275
+Croatia,HRV,2014.0,9937
+Croatia,HRV,2015.0,7510
+Cuba,CUB,1990.0,1540
+Cuba,CUB,1991.0,1369
+Cuba,CUB,1992.0,1418
+Cuba,CUB,1993.0,969
+Cuba,CUB,1994.0,946
+Cuba,CUB,1995.0,764
+Cuba,CUB,1996.0,1017
+Cuba,CUB,1997.0,1000
+Cuba,CUB,1998.0,876
+Cuba,CUB,1999.0,984
+Cuba,CUB,2000.0,1033
+Cuba,CUB,2001.0,1005
+Cuba,CUB,2002.0,1045
+Cuba,CUB,2003.0,848
+Cuba,CUB,2004.0,877
+Cuba,CUB,2005.0,488
+Cuba,CUB,2006.0,500
+Cuba,CUB,2007.0,537
+Cuba,CUB,2008.0,702
+Cuba,CUB,2009.0,696
+Cuba,CUB,2010.0,564
+Cuba,CUB,2011.0,573
+Cuba,CUB,2012.0,684
+Cuba,CUB,2013.0,833
+Cuba,CUB,2014.0,778
+Cuba,CUB,2015.0,801
+Curacao,CUW,1990.0,0
+Curacao,CUW,1991.0,0
+Curacao,CUW,1992.0,0
+Curacao,CUW,1993.0,8
+Curacao,CUW,1994.0,8
+Curacao,CUW,1995.0,8
+Curacao,CUW,1996.0,8
+Curacao,CUW,1997.0,8
+Curacao,CUW,1998.0,8
+Curacao,CUW,1999.0,8
+Curacao,CUW,2000.0,8
+Curacao,CUW,2001.0,32
+Curacao,CUW,2002.0,32
+Curacao,CUW,2003.0,32
+Curacao,CUW,2004.0,32
+Curacao,CUW,2005.0,32
+Curacao,CUW,2006.0,32
+Curacao,CUW,2007.0,32
+Curacao,CUW,2008.0,32
+Curacao,CUW,2009.0,32
+Curacao,CUW,2010.0,32
+Curacao,CUW,2011.0,32
+Curacao,CUW,2012.0,32
+Curacao,CUW,2013.0,32
+Curacao,CUW,2014.0,32
+Curacao,CUW,2015.0,32
+Cyprus,CYP,1990.0,0
+Cyprus,CYP,1991.0,0
+Cyprus,CYP,1992.0,0
+Cyprus,CYP,1993.0,0
+Cyprus,CYP,1994.0,0
+Cyprus,CYP,1995.0,0
+Cyprus,CYP,1996.0,0
+Cyprus,CYP,1997.0,0
+Cyprus,CYP,1998.0,0
+Cyprus,CYP,1999.0,0
+Cyprus,CYP,2000.0,0
+Cyprus,CYP,2001.0,0
+Cyprus,CYP,2002.0,0
+Cyprus,CYP,2003.0,0
+Cyprus,CYP,2004.0,0
+Cyprus,CYP,2005.0,1
+Cyprus,CYP,2006.0,1
+Cyprus,CYP,2007.0,3
+Cyprus,CYP,2008.0,15
+Cyprus,CYP,2009.0,31
+Cyprus,CYP,2010.0,73
+Cyprus,CYP,2011.0,178
+Cyprus,CYP,2012.0,257
+Cyprus,CYP,2013.0,327
+Cyprus,CYP,2014.0,317
+Cyprus,CYP,2015.0,398
+Czech Republic,CZE,1990.0,1161
+Czech Republic,CZE,1991.0,1089
+Czech Republic,CZE,1992.0,1402
+Czech Republic,CZE,1993.0,1530
+Czech Republic,CZE,1994.0,1781
+Czech Republic,CZE,1995.0,2407
+Czech Republic,CZE,1996.0,2261
+Czech Republic,CZE,1997.0,2193
+Czech Republic,CZE,1998.0,1983
+Czech Republic,CZE,1999.0,2358
+Czech Republic,CZE,2000.0,2284
+Czech Republic,CZE,2001.0,2577
+Czech Republic,CZE,2002.0,2998
+Czech Republic,CZE,2003.0,1879
+Czech Republic,CZE,2004.0,2741
+Czech Republic,CZE,2005.0,3132
+Czech Republic,CZE,2006.0,3520
+Czech Republic,CZE,2007.0,3410
+Czech Republic,CZE,2008.0,3731
+Czech Republic,CZE,2009.0,4654
+Czech Republic,CZE,2010.0,5902
+Czech Republic,CZE,2011.0,7248
+Czech Republic,CZE,2012.0,8065
+Czech Republic,CZE,2013.0,9309
+Czech Republic,CZE,2014.0,9172
+Czech Republic,CZE,2015.0,9422
+Denmark,DNK,1990.0,825
+Denmark,DNK,1991.0,1057
+Denmark,DNK,1992.0,1352
+Denmark,DNK,1993.0,1607
+Denmark,DNK,1994.0,1743
+Denmark,DNK,1995.0,1851
+Denmark,DNK,1996.0,2079
+Denmark,DNK,1997.0,2929
+Denmark,DNK,1998.0,3925
+Denmark,DNK,1999.0,4379
+Denmark,DNK,2000.0,5572
+Denmark,DNK,2001.0,5846
+Denmark,DNK,2002.0,6789
+Denmark,DNK,2003.0,8078
+Denmark,DNK,2004.0,9525
+Denmark,DNK,2005.0,9812
+Denmark,DNK,2006.0,9201
+Denmark,DNK,2007.0,10305
+Denmark,DNK,2008.0,10096
+Denmark,DNK,2009.0,10063
+Denmark,DNK,2010.0,12429
+Denmark,DNK,2011.0,14181
+Denmark,DNK,2012.0,14837
+Denmark,DNK,2013.0,15968
+Denmark,DNK,2014.0,17991
+Denmark,DNK,2015.0,18962
+Djibouti,DJI,1990.0,0
+Djibouti,DJI,1991.0,0
+Djibouti,DJI,1992.0,0
+Djibouti,DJI,1993.0,0
+Djibouti,DJI,1994.0,0
+Djibouti,DJI,1995.0,0
+Djibouti,DJI,1996.0,0
+Djibouti,DJI,1997.0,0
+Djibouti,DJI,1998.0,0
+Djibouti,DJI,1999.0,0
+Djibouti,DJI,2000.0,0
+Djibouti,DJI,2001.0,0
+Djibouti,DJI,2002.0,0
+Djibouti,DJI,2003.0,0
+Djibouti,DJI,2004.0,0
+Djibouti,DJI,2005.0,0
+Djibouti,DJI,2006.0,0
+Djibouti,DJI,2007.0,0
+Djibouti,DJI,2008.0,0
+Djibouti,DJI,2009.0,0
+Djibouti,DJI,2010.0,0
+Djibouti,DJI,2011.0,0
+Djibouti,DJI,2012.0,0
+Djibouti,DJI,2013.0,0
+Djibouti,DJI,2014.0,0
+Djibouti,DJI,2015.0,0
+Dominica,DMA,1990.0,16
+Dominica,DMA,1991.0,16
+Dominica,DMA,1992.0,16
+Dominica,DMA,1993.0,16
+Dominica,DMA,1994.0,17
+Dominica,DMA,1995.0,29
+Dominica,DMA,1996.0,36
+Dominica,DMA,1997.0,34
+Dominica,DMA,1998.0,33
+Dominica,DMA,1999.0,32
+Dominica,DMA,2000.0,32
+Dominica,DMA,2001.0,27
+Dominica,DMA,2002.0,35.9
+Dominica,DMA,2003.0,28.5
+Dominica,DMA,2004.0,33.7
+Dominica,DMA,2005.0,27.9
+Dominica,DMA,2006.0,27.8
+Dominica,DMA,2007.0,21.9
+Dominica,DMA,2008.0,20.6
+Dominica,DMA,2009.0,23.2
+Dominica,DMA,2010.0,28.9
+Dominica,DMA,2011.0,44.8
+Dominica,DMA,2012.0,33.4
+Dominica,DMA,2013.0,36.71
+Dominica,DMA,2014.0,30.64
+Dominica,DMA,2015.0,24.44
+Dominican Republic,DOM,1990.0,374
+Dominican Republic,DOM,1991.0,532
+Dominican Republic,DOM,1992.0,559
+Dominican Republic,DOM,1993.0,1164
+Dominican Republic,DOM,1994.0,578
+Dominican Republic,DOM,1995.0,645
+Dominican Republic,DOM,1996.0,903
+Dominican Republic,DOM,1997.0,713
+Dominican Republic,DOM,1998.0,1182
+Dominican Republic,DOM,1999.0,1754
+Dominican Republic,DOM,2000.0,1199
+Dominican Republic,DOM,2001.0,955
+Dominican Republic,DOM,2002.0,1240
+Dominican Republic,DOM,2003.0,1740
+Dominican Republic,DOM,2004.0,2003
+Dominican Republic,DOM,2005.0,2392
+Dominican Republic,DOM,2006.0,2227
+Dominican Republic,DOM,2007.0,2122
+Dominican Republic,DOM,2008.0,1750
+Dominican Republic,DOM,2009.0,1838
+Dominican Republic,DOM,2010.0,1792
+Dominican Republic,DOM,2011.0,1948
+Dominican Republic,DOM,2012.0,2492
+Dominican Republic,DOM,2013.0,3047
+Dominican Republic,DOM,2014.0,2356
+Dominican Republic,DOM,2015.0,2147
+Ecuador,ECU,1990.0,4987
+Ecuador,ECU,1991.0,5075
+Ecuador,ECU,1992.0,4974
+Ecuador,ECU,1993.0,5810
+Ecuador,ECU,1994.0,6565
+Ecuador,ECU,1995.0,5161
+Ecuador,ECU,1996.0,6344
+Ecuador,ECU,1997.0,6534
+Ecuador,ECU,1998.0,6506
+Ecuador,ECU,1999.0,7177
+Ecuador,ECU,2000.0,7609
+Ecuador,ECU,2001.0,7071
+Ecuador,ECU,2002.0,7525
+Ecuador,ECU,2003.0,7181
+Ecuador,ECU,2004.0,7412
+Ecuador,ECU,2005.0,6986
+Ecuador,ECU,2006.0,7276
+Ecuador,ECU,2007.0,9257
+Ecuador,ECU,2008.0,11505
+Ecuador,ECU,2009.0,9442
+Ecuador,ECU,2010.0,8875
+Ecuador,ECU,2011.0,11414
+Ecuador,ECU,2012.0,12536
+Ecuador,ECU,2013.0,11396
+Ecuador,ECU,2014.0,11953
+Ecuador,ECU,2015.0,13639
+"Egypt, Arab Rep.",EGY,1990.0,9932
+"Egypt, Arab Rep.",EGY,1991.0,9900
+"Egypt, Arab Rep.",EGY,1992.0,9700
+"Egypt, Arab Rep.",EGY,1993.0,10485
+"Egypt, Arab Rep.",EGY,1994.0,10971
+"Egypt, Arab Rep.",EGY,1995.0,11413
+"Egypt, Arab Rep.",EGY,1996.0,11555
+"Egypt, Arab Rep.",EGY,1997.0,11987
+"Egypt, Arab Rep.",EGY,1998.0,12222
+"Egypt, Arab Rep.",EGY,1999.0,14683
+"Egypt, Arab Rep.",EGY,2000.0,13834
+"Egypt, Arab Rep.",EGY,2001.0,15351
+"Egypt, Arab Rep.",EGY,2002.0,13063
+"Egypt, Arab Rep.",EGY,2003.0,13387
+"Egypt, Arab Rep.",EGY,2004.0,13167
+"Egypt, Arab Rep.",EGY,2005.0,13196
+"Egypt, Arab Rep.",EGY,2006.0,13541
+"Egypt, Arab Rep.",EGY,2007.0,16341
+"Egypt, Arab Rep.",EGY,2008.0,15595
+"Egypt, Arab Rep.",EGY,2009.0,13996
+"Egypt, Arab Rep.",EGY,2010.0,14750
+"Egypt, Arab Rep.",EGY,2011.0,14681
+"Egypt, Arab Rep.",EGY,2012.0,14618
+"Egypt, Arab Rep.",EGY,2013.0,14926
+"Egypt, Arab Rep.",EGY,2014.0,15513
+"Egypt, Arab Rep.",EGY,2015.0,15030
+El Salvador,SLV,1990.0,2067
+El Salvador,SLV,1991.0,1693
+El Salvador,SLV,1992.0,1807
+El Salvador,SLV,1993.0,1898
+El Salvador,SLV,1994.0,1855
+El Salvador,SLV,1995.0,1914
+El Salvador,SLV,1996.0,2314
+El Salvador,SLV,1997.0,1915
+El Salvador,SLV,1998.0,2017
+El Salvador,SLV,1999.0,2365
+El Salvador,SLV,2000.0,1961
+El Salvador,SLV,2001.0,2130
+El Salvador,SLV,2002.0,2132
+El Salvador,SLV,2003.0,2533
+El Salvador,SLV,2004.0,2460
+El Salvador,SLV,2005.0,2809
+El Salvador,SLV,2006.0,3245
+El Salvador,SLV,2007.0,3266
+El Salvador,SLV,2008.0,3731
+El Salvador,SLV,2009.0,3261
+El Salvador,SLV,2010.0,3892
+El Salvador,SLV,2011.0,3828
+El Salvador,SLV,2012.0,3757
+El Salvador,SLV,2013.0,3791
+El Salvador,SLV,2014.0,3715
+El Salvador,SLV,2015.0,3463
+Equatorial Guinea,GNQ,1990.0,2
+Equatorial Guinea,GNQ,1991.0,3
+Equatorial Guinea,GNQ,1992.0,4
+Equatorial Guinea,GNQ,1993.0,5
+Equatorial Guinea,GNQ,1994.0,6
+Equatorial Guinea,GNQ,1995.0,7
+Equatorial Guinea,GNQ,1996.0,7
+Equatorial Guinea,GNQ,1997.0,7
+Equatorial Guinea,GNQ,1998.0,7
+Equatorial Guinea,GNQ,1999.0,7
+Equatorial Guinea,GNQ,2000.0,7
+Equatorial Guinea,GNQ,2001.0,39
+Equatorial Guinea,GNQ,2002.0,39
+Equatorial Guinea,GNQ,2003.0,39
+Equatorial Guinea,GNQ,2004.0,39
+Equatorial Guinea,GNQ,2005.0,39
+Equatorial Guinea,GNQ,2006.0,39
+Equatorial Guinea,GNQ,2007.0,39
+Equatorial Guinea,GNQ,2008.0,39
+Equatorial Guinea,GNQ,2009.0,39
+Equatorial Guinea,GNQ,2010.0,14
+Equatorial Guinea,GNQ,2011.0,14
+Equatorial Guinea,GNQ,2012.0,14
+Equatorial Guinea,GNQ,2013.0,18
+Equatorial Guinea,GNQ,2014.0,543
+Equatorial Guinea,GNQ,2015.0,543
+Eritrea,ERI,1990.0,0
+Eritrea,ERI,1991.0,0
+Eritrea,ERI,1992.0,0
+Eritrea,ERI,1993.0,0
+Eritrea,ERI,1994.0,0
+Eritrea,ERI,1995.0,0
+Eritrea,ERI,1996.0,0
+Eritrea,ERI,1997.0,1
+Eritrea,ERI,1998.0,1
+Eritrea,ERI,1999.0,1
+Eritrea,ERI,2000.0,1
+Eritrea,ERI,2001.0,1
+Eritrea,ERI,2002.0,1
+Eritrea,ERI,2003.0,1
+Eritrea,ERI,2004.0,1
+Eritrea,ERI,2005.0,1
+Eritrea,ERI,2006.0,2
+Eritrea,ERI,2007.0,2
+Eritrea,ERI,2008.0,2
+Eritrea,ERI,2009.0,2
+Eritrea,ERI,2010.0,2
+Eritrea,ERI,2011.0,2
+Eritrea,ERI,2012.0,2
+Eritrea,ERI,2013.0,2
+Eritrea,ERI,2014.0,2
+Eritrea,ERI,2015.0,2
+Estonia,EST,1990.0,0
+Estonia,EST,1991.0,0
+Estonia,EST,1992.0,1
+Estonia,EST,1993.0,1
+Estonia,EST,1994.0,3
+Estonia,EST,1995.0,8
+Estonia,EST,1996.0,7
+Estonia,EST,1997.0,11
+Estonia,EST,1998.0,16
+Estonia,EST,1999.0,16
+Estonia,EST,2000.0,18
+Estonia,EST,2001.0,18
+Estonia,EST,2002.0,30
+Estonia,EST,2003.0,49
+Estonia,EST,2004.0,60
+Estonia,EST,2005.0,111
+Estonia,EST,2006.0,130
+Estonia,EST,2007.0,145
+Estonia,EST,2008.0,197
+Estonia,EST,2009.0,541
+Estonia,EST,2010.0,1044
+Estonia,EST,2011.0,1179
+Estonia,EST,2012.0,1477
+Estonia,EST,2013.0,1220
+Estonia,EST,2014.0,1389
+Estonia,EST,2015.0,1502
+Ethiopia,ETH,1990.0,1062
+Ethiopia,ETH,1991.0,1082
+Ethiopia,ETH,1992.0,1151
+Ethiopia,ETH,1993.0,1263
+Ethiopia,ETH,1994.0,1354
+Ethiopia,ETH,1995.0,1428
+Ethiopia,ETH,1996.0,1510
+Ethiopia,ETH,1997.0,1566
+Ethiopia,ETH,1998.0,1605
+Ethiopia,ETH,1999.0,1625
+Ethiopia,ETH,2000.0,1651
+Ethiopia,ETH,2001.0,1993
+Ethiopia,ETH,2002.0,2023
+Ethiopia,ETH,2003.0,2280
+Ethiopia,ETH,2004.0,2521
+Ethiopia,ETH,2005.0,2833
+Ethiopia,ETH,2006.0,3259
+Ethiopia,ETH,2007.0,3385
+Ethiopia,ETH,2008.0,3310
+Ethiopia,ETH,2009.0,3548
+Ethiopia,ETH,2010.0,4949
+Ethiopia,ETH,2011.0,6299
+Ethiopia,ETH,2012.0,7580
+Ethiopia,ETH,2013.0,8694
+Ethiopia,ETH,2014.0,9512
+Ethiopia,ETH,2015.0,10433
+Faeroe Islands,FRO,1990.0,75
+Faeroe Islands,FRO,1991.0,75
+Faeroe Islands,FRO,1992.0,84
+Faeroe Islands,FRO,1993.0,74.423
+Faeroe Islands,FRO,1994.0,77
+Faeroe Islands,FRO,1995.0,77
+Faeroe Islands,FRO,1996.0,71
+Faeroe Islands,FRO,1997.0,77
+Faeroe Islands,FRO,1998.0,78
+Faeroe Islands,FRO,1999.0,71
+Faeroe Islands,FRO,2000.0,77
+Faeroe Islands,FRO,2001.0,77
+Faeroe Islands,FRO,2002.0,98
+Faeroe Islands,FRO,2003.0,89
+Faeroe Islands,FRO,2004.0,102
+Faeroe Islands,FRO,2005.0,109
+Faeroe Islands,FRO,2006.0,116
+Faeroe Islands,FRO,2007.0,120.211
+Faeroe Islands,FRO,2008.0,108.849
+Faeroe Islands,FRO,2009.0,107.411
+Faeroe Islands,FRO,2010.0,81.022
+Faeroe Islands,FRO,2011.0,107.028
+Faeroe Islands,FRO,2012.0,110.544
+Faeroe Islands,FRO,2013.0,112.439
+Faeroe Islands,FRO,2014.0,155.175
+Faeroe Islands,FRO,2015.0,188.87
+Falkland Islands,FLK,1990.0,0
+Falkland Islands,FLK,1991.0,0
+Falkland Islands,FLK,1992.0,0
+Falkland Islands,FLK,1993.0,0
+Falkland Islands,FLK,1994.0,0
+Falkland Islands,FLK,1995.0,0
+Falkland Islands,FLK,1996.0,0
+Falkland Islands,FLK,1997.0,0
+Falkland Islands,FLK,1998.0,0
+Falkland Islands,FLK,1999.0,0
+Falkland Islands,FLK,2000.0,0.2
+Falkland Islands,FLK,2001.0,0.2
+Falkland Islands,FLK,2002.0,0.2
+Falkland Islands,FLK,2003.0,0.25
+Falkland Islands,FLK,2004.0,0.25
+Falkland Islands,FLK,2005.0,0.25
+Falkland Islands,FLK,2006.0,0.3
+Falkland Islands,FLK,2007.0,0.3
+Falkland Islands,FLK,2008.0,0.3
+Falkland Islands,FLK,2009.0,0.35
+Falkland Islands,FLK,2010.0,5.65
+Falkland Islands,FLK,2011.0,5.67
+Falkland Islands,FLK,2012.0,5.69
+Falkland Islands,FLK,2013.0,5.69
+Falkland Islands,FLK,2014.0,5.69
+Falkland Islands,FLK,2015.0,5.69
+Fiji,FJI,1990.0,385
+Fiji,FJI,1991.0,385
+Fiji,FJI,1992.0,385
+Fiji,FJI,1993.0,365
+Fiji,FJI,1994.0,403
+Fiji,FJI,1995.0,384.481
+Fiji,FJI,1996.0,365.059
+Fiji,FJI,1997.0,403.815
+Fiji,FJI,1998.0,417.922
+Fiji,FJI,1999.0,449.85
+Fiji,FJI,2000.0,414.383
+Fiji,FJI,2001.0,462.957
+Fiji,FJI,2002.0,450.198
+Fiji,FJI,2003.0,343.729
+Fiji,FJI,2004.0,367.357
+Fiji,FJI,2005.0,338.739
+Fiji,FJI,2006.0,341.255
+Fiji,FJI,2007.0,511.836
+Fiji,FJI,2008.0,499.694
+Fiji,FJI,2009.0,467.403
+Fiji,FJI,2010.0,420.039
+Fiji,FJI,2011.0,461.446
+Fiji,FJI,2012.0,532.07
+Fiji,FJI,2013.0,532.745
+Fiji,FJI,2014.0,405.3
+Fiji,FJI,2015.0,411.623
+Finland,FIN,1990.0,16015
+Finland,FIN,1991.0,18197
+Finland,FIN,1992.0,20060
+Finland,FIN,1993.0,19439
+Finland,FIN,1994.0,18260
+Finland,FIN,1995.0,19545
+Finland,FIN,1996.0,17761
+Finland,FIN,1997.0,20151
+Finland,FIN,1998.0,24408
+Finland,FIN,1999.0,21193
+Finland,FIN,2000.0,23379
+Finland,FIN,2001.0,21547
+Finland,FIN,2002.0,19830
+Finland,FIN,2003.0,19065
+Finland,FIN,2004.0,25631
+Finland,FIN,2005.0,23468
+Finland,FIN,2006.0,22466
+Finland,FIN,2007.0,24323
+Finland,FIN,2008.0,27781
+Finland,FIN,2009.0,21699
+Finland,FIN,2010.0,24195
+Finland,FIN,2011.0,24175
+Finland,FIN,2012.0,28560
+Finland,FIN,2013.0,25629
+Finland,FIN,2014.0,26271
+Finland,FIN,2015.0,30525
+France,FRA,1990.0,55779
+France,FRA,1991.0,59704
+France,FRA,1992.0,71090
+France,FRA,1993.0,66871
+France,FRA,1994.0,80957
+France,FRA,1995.0,75454
+France,FRA,1996.0,68475
+France,FRA,1997.0,66452
+France,FRA,1998.0,64767
+France,FRA,1999.0,75406
+France,FRA,2000.0,69402
+France,FRA,2001.0,77738
+France,FRA,2002.0,64206
+France,FRA,2003.0,63057
+France,FRA,2004.0,63940
+France,FRA,2005.0,56325
+France,FRA,2006.0,62339
+France,FRA,2007.0,65909
+France,FRA,2008.0,73826
+France,FRA,2009.0,69661
+France,FRA,2010.0,78195
+France,FRA,2011.0,64399
+France,FRA,2012.0,83036
+France,FRA,2013.0,96672
+France,FRA,2014.0,91807
+France,FRA,2015.0,89357
+French Guyana,GUF,1990.0,0
+French Guyana,GUF,1991.0,0
+French Guyana,GUF,1992.0,0
+French Guyana,GUF,1993.0,0
+French Guyana,GUF,1994.0,96
+French Guyana,GUF,1995.0,130
+French Guyana,GUF,1996.0,190
+French Guyana,GUF,1997.0,220
+French Guyana,GUF,1998.0,53
+French Guyana,GUF,1999.0,270
+French Guyana,GUF,2000.0,270
+French Guyana,GUF,2001.0,369
+French Guyana,GUF,2002.0,466
+French Guyana,GUF,2003.0,281
+French Guyana,GUF,2004.0,365
+French Guyana,GUF,2005.0,427
+French Guyana,GUF,2006.0,538
+French Guyana,GUF,2007.0,508
+French Guyana,GUF,2008.0,524
+French Guyana,GUF,2009.0,362
+French Guyana,GUF,2010.0,470
+French Guyana,GUF,2011.0,500
+French Guyana,GUF,2012.0,608
+French Guyana,GUF,2013.0,534
+French Guyana,GUF,2014.0,552
+French Guyana,GUF,2015.0,546
+French Polynesia,PYF,1990.0,54.134
+French Polynesia,PYF,1991.0,54.212
+French Polynesia,PYF,1992.0,91
+French Polynesia,PYF,1993.0,95
+French Polynesia,PYF,1994.0,97
+French Polynesia,PYF,1995.0,126
+French Polynesia,PYF,1996.0,118
+French Polynesia,PYF,1997.0,121
+French Polynesia,PYF,1998.0,177.576
+French Polynesia,PYF,1999.0,126.059
+French Polynesia,PYF,2000.0,145
+French Polynesia,PYF,2001.0,136
+French Polynesia,PYF,2002.0,132
+French Polynesia,PYF,2003.0,156.551
+French Polynesia,PYF,2004.0,180.163
+French Polynesia,PYF,2005.0,179.913
+French Polynesia,PYF,2006.0,200.11
+French Polynesia,PYF,2007.0,222.747
+French Polynesia,PYF,2008.0,214.425
+French Polynesia,PYF,2009.0,214.1
+French Polynesia,PYF,2010.0,279.605
+French Polynesia,PYF,2011.0,228.136
+French Polynesia,PYF,2012.0,215.155
+French Polynesia,PYF,2013.0,202.12
+French Polynesia,PYF,2014.0,228.69
+French Polynesia,PYF,2015.0,229.69
+Gabon,GAB,1990.0,708
+Gabon,GAB,1991.0,715
+Gabon,GAB,1992.0,720
+Gabon,GAB,1993.0,718
+Gabon,GAB,1994.0,755
+Gabon,GAB,1995.0,800
+Gabon,GAB,1996.0,777
+Gabon,GAB,1997.0,816
+Gabon,GAB,1998.0,819
+Gabon,GAB,1999.0,838
+Gabon,GAB,2000.0,810
+Gabon,GAB,2001.0,885
+Gabon,GAB,2002.0,930
+Gabon,GAB,2003.0,907
+Gabon,GAB,2004.0,901
+Gabon,GAB,2005.0,820
+Gabon,GAB,2006.0,953
+Gabon,GAB,2007.0,809
+Gabon,GAB,2008.0,902
+Gabon,GAB,2009.0,953
+Gabon,GAB,2010.0,916
+Gabon,GAB,2011.0,849
+Gabon,GAB,2012.0,920
+Gabon,GAB,2013.0,943
+Gabon,GAB,2014.0,806
+Gabon,GAB,2015.0,930
+"Gambia, The",GMB,1990.0,0
+"Gambia, The",GMB,1991.0,0
+"Gambia, The",GMB,1992.0,0
+"Gambia, The",GMB,1993.0,0
+"Gambia, The",GMB,1994.0,0
+"Gambia, The",GMB,1995.0,0
+"Gambia, The",GMB,1996.0,0
+"Gambia, The",GMB,1997.0,0
+"Gambia, The",GMB,1998.0,0
+"Gambia, The",GMB,1999.0,0
+"Gambia, The",GMB,2000.0,0
+"Gambia, The",GMB,2001.0,0
+"Gambia, The",GMB,2002.0,0
+"Gambia, The",GMB,2003.0,0
+"Gambia, The",GMB,2004.0,0
+"Gambia, The",GMB,2005.0,0
+"Gambia, The",GMB,2006.0,0
+"Gambia, The",GMB,2007.0,0
+"Gambia, The",GMB,2008.0,0
+"Gambia, The",GMB,2009.0,0
+"Gambia, The",GMB,2010.0,0
+"Gambia, The",GMB,2011.0,0
+"Gambia, The",GMB,2012.0,0
+"Gambia, The",GMB,2013.0,0
+"Gambia, The",GMB,2014.0,0
+"Gambia, The",GMB,2015.0,0
+Georgia,GEO,1990.0,7577
+Georgia,GEO,1991.0,7423
+Georgia,GEO,1992.0,6504
+Georgia,GEO,1993.0,6602
+Georgia,GEO,1994.0,6772
+Georgia,GEO,1995.0,5203
+Georgia,GEO,1996.0,6000
+Georgia,GEO,1997.0,6047
+Georgia,GEO,1998.0,6372
+Georgia,GEO,1999.0,6442
+Georgia,GEO,2000.0,5860
+Georgia,GEO,2001.0,5542
+Georgia,GEO,2002.0,6767
+Georgia,GEO,2003.0,6526
+Georgia,GEO,2004.0,6049
+Georgia,GEO,2005.0,6236
+Georgia,GEO,2006.0,5315
+Georgia,GEO,2007.0,6818
+Georgia,GEO,2008.0,7162
+Georgia,GEO,2009.0,7412
+Georgia,GEO,2010.0,9367
+Georgia,GEO,2011.0,7890
+Georgia,GEO,2012.0,7223
+Georgia,GEO,2013.0,8271
+Georgia,GEO,2014.0,8335
+Georgia,GEO,2015.0,8454
+Germany,DEU,1990.0,19093
+Germany,DEU,1991.0,16979
+Germany,DEU,1992.0,19735
+Germany,DEU,1993.0,20520
+Germany,DEU,1994.0,23433
+Germany,DEU,1995.0,25932
+Germany,DEU,1996.0,26551
+Germany,DEU,1997.0,23062
+Germany,DEU,1998.0,24902
+Germany,DEU,1999.0,28717
+Germany,DEU,2000.0,35475
+Germany,DEU,2001.0,37895
+Germany,DEU,2002.0,44477
+Germany,DEU,2003.0,45590
+Germany,DEU,2004.0,56634
+Germany,DEU,2005.0,62505
+Germany,DEU,2006.0,71638
+Germany,DEU,2007.0,88320
+Germany,DEU,2008.0,93249
+Germany,DEU,2009.0,94858
+Germany,DEU,2010.0,104809
+Germany,DEU,2011.0,123773
+Germany,DEU,2012.0,143458
+Germany,DEU,2013.0,152366
+Germany,DEU,2014.0,162513
+Germany,DEU,2015.0,187366
+Ghana,GHA,1990.0,5721
+Ghana,GHA,1991.0,6109
+Ghana,GHA,1992.0,6602
+Ghana,GHA,1993.0,6291
+Ghana,GHA,1994.0,6082
+Ghana,GHA,1995.0,6097
+Ghana,GHA,1996.0,6625
+Ghana,GHA,1997.0,6851
+Ghana,GHA,1998.0,3830
+Ghana,GHA,1999.0,5169
+Ghana,GHA,2000.0,6609
+Ghana,GHA,2001.0,6609
+Ghana,GHA,2002.0,5036
+Ghana,GHA,2003.0,3886
+Ghana,GHA,2004.0,5281
+Ghana,GHA,2005.0,5629
+Ghana,GHA,2006.0,5619
+Ghana,GHA,2007.0,3727
+Ghana,GHA,2008.0,6195
+Ghana,GHA,2009.0,6877
+Ghana,GHA,2010.0,6996
+Ghana,GHA,2011.0,7561
+Ghana,GHA,2012.0,8071
+Ghana,GHA,2013.0,8236
+Ghana,GHA,2014.0,8391
+Ghana,GHA,2015.0,5848
+Gibraltar,GIB,1990.0,0
+Gibraltar,GIB,1991.0,0
+Gibraltar,GIB,1992.0,0
+Gibraltar,GIB,1993.0,0
+Gibraltar,GIB,1994.0,0
+Gibraltar,GIB,1995.0,0
+Gibraltar,GIB,1996.0,0
+Gibraltar,GIB,1997.0,0
+Gibraltar,GIB,1998.0,0
+Gibraltar,GIB,1999.0,0
+Gibraltar,GIB,2000.0,0
+Gibraltar,GIB,2001.0,0
+Gibraltar,GIB,2002.0,0
+Gibraltar,GIB,2003.0,0
+Gibraltar,GIB,2004.0,0
+Gibraltar,GIB,2005.0,0
+Gibraltar,GIB,2006.0,0
+Gibraltar,GIB,2007.0,0
+Gibraltar,GIB,2008.0,0
+Gibraltar,GIB,2009.0,0
+Gibraltar,GIB,2010.0,0
+Gibraltar,GIB,2011.0,0
+Gibraltar,GIB,2012.0,0
+Gibraltar,GIB,2013.0,0
+Gibraltar,GIB,2014.0,0
+Gibraltar,GIB,2015.0,0
+Greece,GRC,1990.0,1771
+Greece,GRC,1991.0,3101
+Greece,GRC,1992.0,2212
+Greece,GRC,1993.0,2330
+Greece,GRC,1994.0,2637
+Greece,GRC,1995.0,3564
+Greece,GRC,1996.0,4386
+Greece,GRC,1997.0,3918
+Greece,GRC,1998.0,3787
+Greece,GRC,1999.0,4755
+Greece,GRC,2000.0,4144
+Greece,GRC,2001.0,2932
+Greece,GRC,2002.0,3577
+Greece,GRC,2003.0,5892
+Greece,GRC,2004.0,5918
+Greece,GRC,2005.0,6406
+Greece,GRC,2006.0,7679
+Greece,GRC,2007.0,4594
+Greece,GRC,2008.0,5750
+Greece,GRC,2009.0,8185
+Greece,GRC,2010.0,10522
+Greece,GRC,2011.0,8143
+Greece,GRC,2012.0,10151
+Greece,GRC,2013.0,14349
+Greece,GRC,2014.0,12177
+Greece,GRC,2015.0,14850
+Greenland,GRL,1990.0,0
+Greenland,GRL,1991.0,0
+Greenland,GRL,1992.0,0
+Greenland,GRL,1993.0,67
+Greenland,GRL,1994.0,160
+Greenland,GRL,1995.0,165
+Greenland,GRL,1996.0,168
+Greenland,GRL,1997.0,156
+Greenland,GRL,1998.0,164
+Greenland,GRL,1999.0,171.4
+Greenland,GRL,2000.0,171.1
+Greenland,GRL,2001.0,157.5
+Greenland,GRL,2002.0,181.7
+Greenland,GRL,2003.0,179.7
+Greenland,GRL,2004.0,191.9
+Greenland,GRL,2005.0,203.1
+Greenland,GRL,2006.0,196.1
+Greenland,GRL,2007.0,203.9
+Greenland,GRL,2008.0,207.6
+Greenland,GRL,2009.0,265.2245
+Greenland,GRL,2010.0,296
+Greenland,GRL,2011.0,338
+Greenland,GRL,2012.0,344.5633
+Greenland,GRL,2013.0,377.5015
+Greenland,GRL,2014.0,396.3594
+Greenland,GRL,2015.0,422.8573
+Grenada,GRD,1990.0,0
+Grenada,GRD,1991.0,0
+Grenada,GRD,1992.0,0
+Grenada,GRD,1993.0,0
+Grenada,GRD,1994.0,0
+Grenada,GRD,1995.0,0
+Grenada,GRD,1996.0,0
+Grenada,GRD,1997.0,0
+Grenada,GRD,1998.0,0
+Grenada,GRD,1999.0,0
+Grenada,GRD,2000.0,0
+Grenada,GRD,2001.0,0
+Grenada,GRD,2002.0,0
+Grenada,GRD,2003.0,0
+Grenada,GRD,2004.0,0
+Grenada,GRD,2005.0,0
+Grenada,GRD,2006.0,0
+Grenada,GRD,2007.0,0
+Grenada,GRD,2008.0,0
+Grenada,GRD,2009.0,0
+Grenada,GRD,2010.0,0
+Grenada,GRD,2011.0,0
+Grenada,GRD,2012.0,0
+Grenada,GRD,2013.0,0
+Grenada,GRD,2014.0,0
+Grenada,GRD,2015.0,0
+Guadeloupe,GLP,1990.0,15
+Guadeloupe,GLP,1991.0,15
+Guadeloupe,GLP,1992.0,15
+Guadeloupe,GLP,1993.0,15
+Guadeloupe,GLP,1994.0,15
+Guadeloupe,GLP,1995.0,15
+Guadeloupe,GLP,1996.0,21.4
+Guadeloupe,GLP,1997.0,20.6
+Guadeloupe,GLP,1998.0,46.5
+Guadeloupe,GLP,1999.0,41
+Guadeloupe,GLP,2000.0,40.2
+Guadeloupe,GLP,2001.0,44.6
+Guadeloupe,GLP,2002.0,63.6
+Guadeloupe,GLP,2003.0,72.2
+Guadeloupe,GLP,2004.0,87
+Guadeloupe,GLP,2005.0,144
+Guadeloupe,GLP,2006.0,132.8
+Guadeloupe,GLP,2007.0,160.2
+Guadeloupe,GLP,2008.0,162
+Guadeloupe,GLP,2009.0,126.7
+Guadeloupe,GLP,2010.0,88.4
+Guadeloupe,GLP,2011.0,149.1
+Guadeloupe,GLP,2012.0,207.3
+Guadeloupe,GLP,2013.0,255.9
+Guadeloupe,GLP,2014.0,259.3
+Guadeloupe,GLP,2015.0,257.3
+Guam,GUM,1990.0,0
+Guam,GUM,1991.0,0
+Guam,GUM,1992.0,0
+Guam,GUM,1993.0,0
+Guam,GUM,1994.0,0
+Guam,GUM,1995.0,0
+Guam,GUM,1996.0,0
+Guam,GUM,1997.0,0
+Guam,GUM,1998.0,0
+Guam,GUM,1999.0,0
+Guam,GUM,2000.0,0
+Guam,GUM,2001.0,0
+Guam,GUM,2002.0,0
+Guam,GUM,2003.0,0
+Guam,GUM,2004.0,0
+Guam,GUM,2005.0,0
+Guam,GUM,2006.0,0
+Guam,GUM,2007.0,0
+Guam,GUM,2008.0,0
+Guam,GUM,2009.0,0
+Guam,GUM,2010.0,0
+Guam,GUM,2011.0,0
+Guam,GUM,2012.0,0
+Guam,GUM,2013.0,0
+Guam,GUM,2014.0,0
+Guam,GUM,2015.0,0
+Guatemala,GTM,1990.0,2003
+Guatemala,GTM,1991.0,2048
+Guatemala,GTM,1992.0,1811
+Guatemala,GTM,1993.0,1906
+Guatemala,GTM,1994.0,2020
+Guatemala,GTM,1995.0,2344
+Guatemala,GTM,1996.0,2314
+Guatemala,GTM,1997.0,2368
+Guatemala,GTM,1998.0,2483
+Guatemala,GTM,1999.0,2955
+Guatemala,GTM,2000.0,3128
+Guatemala,GTM,2001.0,2810
+Guatemala,GTM,2002.0,2584
+Guatemala,GTM,2003.0,3476
+Guatemala,GTM,2004.0,3444
+Guatemala,GTM,2005.0,3822
+Guatemala,GTM,2006.0,4243
+Guatemala,GTM,2007.0,4170
+Guatemala,GTM,2008.0,4831
+Guatemala,GTM,2009.0,4443
+Guatemala,GTM,2010.0,5678
+Guatemala,GTM,2011.0,5916
+Guatemala,GTM,2012.0,6295
+Guatemala,GTM,2013.0,6663
+Guatemala,GTM,2014.0,7358
+Guatemala,GTM,2015.0,6678
+Guinea,GIN,1990.0,175
+Guinea,GIN,1991.0,178
+Guinea,GIN,1992.0,180
+Guinea,GIN,1993.0,182
+Guinea,GIN,1994.0,184
+Guinea,GIN,1995.0,185
+Guinea,GIN,1996.0,275
+Guinea,GIN,1997.0,288
+Guinea,GIN,1998.0,413
+Guinea,GIN,1999.0,431
+Guinea,GIN,2000.0,511
+Guinea,GIN,2001.0,552
+Guinea,GIN,2002.0,595
+Guinea,GIN,2003.0,400
+Guinea,GIN,2004.0,555
+Guinea,GIN,2005.0,494
+Guinea,GIN,2006.0,461
+Guinea,GIN,2007.0,538
+Guinea,GIN,2008.0,495
+Guinea,GIN,2009.0,462
+Guinea,GIN,2010.0,474.7
+Guinea,GIN,2011.0,414.3
+Guinea,GIN,2012.0,490.5
+Guinea,GIN,2013.0,482.2
+Guinea,GIN,2014.0,425.8
+Guinea,GIN,2015.0,880.6
+Guinea-Bissau,GNB,1990.0,0
+Guinea-Bissau,GNB,1991.0,0
+Guinea-Bissau,GNB,1992.0,0
+Guinea-Bissau,GNB,1993.0,0
+Guinea-Bissau,GNB,1994.0,0
+Guinea-Bissau,GNB,1995.0,0
+Guinea-Bissau,GNB,1996.0,0
+Guinea-Bissau,GNB,1997.0,0
+Guinea-Bissau,GNB,1998.0,0
+Guinea-Bissau,GNB,1999.0,0
+Guinea-Bissau,GNB,2000.0,0
+Guinea-Bissau,GNB,2001.0,0
+Guinea-Bissau,GNB,2002.0,0
+Guinea-Bissau,GNB,2003.0,0
+Guinea-Bissau,GNB,2004.0,0
+Guinea-Bissau,GNB,2005.0,0
+Guinea-Bissau,GNB,2006.0,0
+Guinea-Bissau,GNB,2007.0,0
+Guinea-Bissau,GNB,2008.0,0
+Guinea-Bissau,GNB,2009.0,0
+Guinea-Bissau,GNB,2010.0,0
+Guinea-Bissau,GNB,2011.0,0
+Guinea-Bissau,GNB,2012.0,0
+Guinea-Bissau,GNB,2013.0,0
+Guinea-Bissau,GNB,2014.0,0
+Guinea-Bissau,GNB,2015.0,0
+Guyana,GUY,1990.0,5
+Guyana,GUY,1991.0,5
+Guyana,GUY,1992.0,5
+Guyana,GUY,1993.0,5
+Guyana,GUY,1994.0,5
+Guyana,GUY,1995.0,5
+Guyana,GUY,1996.0,5
+Guyana,GUY,1997.0,5
+Guyana,GUY,1998.0,5
+Guyana,GUY,1999.0,0
+Guyana,GUY,2000.0,0
+Guyana,GUY,2001.0,0
+Guyana,GUY,2002.0,0
+Guyana,GUY,2003.0,0
+Guyana,GUY,2004.0,0
+Guyana,GUY,2005.0,0
+Guyana,GUY,2006.0,0
+Guyana,GUY,2007.0,0
+Guyana,GUY,2008.0,0
+Guyana,GUY,2009.0,0
+Guyana,GUY,2010.0,0
+Guyana,GUY,2011.0,0
+Guyana,GUY,2012.0,0
+Guyana,GUY,2013.0,0
+Guyana,GUY,2014.0,0
+Guyana,GUY,2015.0,0
+Haiti,HTI,1990.0,474
+Haiti,HTI,1991.0,349
+Haiti,HTI,1992.0,321
+Haiti,HTI,1993.0,274
+Haiti,HTI,1994.0,233
+Haiti,HTI,1995.0,253
+Haiti,HTI,1996.0,272
+Haiti,HTI,1997.0,200
+Haiti,HTI,1998.0,306
+Haiti,HTI,1999.0,405
+Haiti,HTI,2000.0,283
+Haiti,HTI,2001.0,283
+Haiti,HTI,2002.0,260
+Haiti,HTI,2003.0,255
+Haiti,HTI,2004.0,260
+Haiti,HTI,2005.0,265
+Haiti,HTI,2006.0,271
+Haiti,HTI,2007.0,154
+Haiti,HTI,2008.0,181
+Haiti,HTI,2009.0,207
+Haiti,HTI,2010.0,177
+Haiti,HTI,2011.0,121
+Haiti,HTI,2012.0,221
+Haiti,HTI,2013.0,141
+Haiti,HTI,2014.0,90
+Haiti,HTI,2015.0,83
+Honduras,HND,1990.0,2279
+Honduras,HND,1991.0,2312
+Honduras,HND,1992.0,2192
+Honduras,HND,1993.0,2258
+Honduras,HND,1994.0,1817
+Honduras,HND,1995.0,1673
+Honduras,HND,1996.0,2039
+Honduras,HND,1997.0,2085
+Honduras,HND,1998.0,1923
+Honduras,HND,1999.0,2136
+Honduras,HND,2000.0,2261
+Honduras,HND,2001.0,1913
+Honduras,HND,2002.0,1641
+Honduras,HND,2003.0,1777
+Honduras,HND,2004.0,1454
+Honduras,HND,2005.0,1846
+Honduras,HND,2006.0,2212
+Honduras,HND,2007.0,2382
+Honduras,HND,2008.0,2488
+Honduras,HND,2009.0,2965
+Honduras,HND,2010.0,3240
+Honduras,HND,2011.0,3580
+Honduras,HND,2012.0,3816
+Honduras,HND,2013.0,3775
+Honduras,HND,2014.0,3523
+Honduras,HND,2015.0,3790
+"Hong Kong SAR, China",HKG,1990.0,0
+"Hong Kong SAR, China",HKG,1991.0,0
+"Hong Kong SAR, China",HKG,1992.0,0
+"Hong Kong SAR, China",HKG,1993.0,0
+"Hong Kong SAR, China",HKG,1994.0,0
+"Hong Kong SAR, China",HKG,1995.0,0
+"Hong Kong SAR, China",HKG,1996.0,0
+"Hong Kong SAR, China",HKG,1997.0,0
+"Hong Kong SAR, China",HKG,1998.0,0
+"Hong Kong SAR, China",HKG,1999.0,0
+"Hong Kong SAR, China",HKG,2000.0,0
+"Hong Kong SAR, China",HKG,2001.0,0
+"Hong Kong SAR, China",HKG,2002.0,0
+"Hong Kong SAR, China",HKG,2003.0,0
+"Hong Kong SAR, China",HKG,2004.0,0
+"Hong Kong SAR, China",HKG,2005.0,0
+"Hong Kong SAR, China",HKG,2006.0,1
+"Hong Kong SAR, China",HKG,2007.0,1
+"Hong Kong SAR, China",HKG,2008.0,1
+"Hong Kong SAR, China",HKG,2009.0,1
+"Hong Kong SAR, China",HKG,2010.0,93
+"Hong Kong SAR, China",HKG,2011.0,80
+"Hong Kong SAR, China",HKG,2012.0,91
+"Hong Kong SAR, China",HKG,2013.0,95
+"Hong Kong SAR, China",HKG,2014.0,106
+"Hong Kong SAR, China",HKG,2015.0,106
+Hungary,HUN,1990.0,195
+Hungary,HUN,1991.0,218
+Hungary,HUN,1992.0,204
+Hungary,HUN,1993.0,205
+Hungary,HUN,1994.0,206
+Hungary,HUN,1995.0,219
+Hungary,HUN,1996.0,257
+Hungary,HUN,1997.0,269
+Hungary,HUN,1998.0,215
+Hungary,HUN,1999.0,246
+Hungary,HUN,2000.0,243
+Hungary,HUN,2001.0,257
+Hungary,HUN,2002.0,237
+Hungary,HUN,2003.0,336
+Hungary,HUN,2004.0,936
+Hungary,HUN,2005.0,1870
+Hungary,HUN,2006.0,1493
+Hungary,HUN,2007.0,1883
+Hungary,HUN,2008.0,2357
+Hungary,HUN,2009.0,2895
+Hungary,HUN,2010.0,3020
+Hungary,HUN,2011.0,2708
+Hungary,HUN,2012.0,2646
+Hungary,HUN,2013.0,2788
+Hungary,HUN,2014.0,3140
+Hungary,HUN,2015.0,3211
+Iceland,ISL,1990.0,4504
+Iceland,ISL,1991.0,4487
+Iceland,ISL,1992.0,4540
+Iceland,ISL,1993.0,4722
+Iceland,ISL,1994.0,4775
+Iceland,ISL,1995.0,4972
+Iceland,ISL,1996.0,5118
+Iceland,ISL,1997.0,5582
+Iceland,ISL,1998.0,6276
+Iceland,ISL,1999.0,7183
+Iceland,ISL,2000.0,7679
+Iceland,ISL,2001.0,8029
+Iceland,ISL,2002.0,8410
+Iceland,ISL,2003.0,8494
+Iceland,ISL,2004.0,8619
+Iceland,ISL,2005.0,8681
+Iceland,ISL,2006.0,9926
+Iceland,ISL,2007.0,11974
+Iceland,ISL,2008.0,16465
+Iceland,ISL,2009.0,16832
+Iceland,ISL,2010.0,17057
+Iceland,ISL,2011.0,17209
+Iceland,ISL,2012.0,17546
+Iceland,ISL,2013.0,18111
+Iceland,ISL,2014.0,18120
+Iceland,ISL,2015.0,18795
+India,IND,1990.0,71688
+India,IND,1991.0,72814
+India,IND,1992.0,69974
+India,IND,1993.0,70577
+India,IND,1994.0,82927
+India,IND,1995.0,73126
+India,IND,1996.0,69854
+India,IND,1997.0,75700
+India,IND,1998.0,84132
+India,IND,1999.0,83274
+India,IND,2000.0,77426
+India,IND,2001.0,77680
+India,IND,2002.0,73597
+India,IND,2003.0,87664
+India,IND,2004.0,99059
+India,IND,2005.0,118935
+India,IND,2006.0,135725
+India,IND,2007.0,147122
+India,IND,2008.0,140062
+India,IND,2009.0,143650
+India,IND,2010.0,157135
+India,IND,2011.0,186077
+India,IND,2012.0,176689
+India,IND,2013.0,206622
+India,IND,2014.0,210273
+India,IND,2015.0,212195
+Indonesia,IDN,1990.0,6833
+Indonesia,IDN,1991.0,7676
+Indonesia,IDN,1992.0,9896
+Indonesia,IDN,1993.0,8978
+Indonesia,IDN,1994.0,8041
+Indonesia,IDN,1995.0,9745
+Indonesia,IDN,1996.0,10518
+Indonesia,IDN,1997.0,7716
+Indonesia,IDN,1998.0,12303
+Indonesia,IDN,1999.0,12134
+Indonesia,IDN,2000.0,14891
+Indonesia,IDN,2001.0,17694
+Indonesia,IDN,2002.0,16182
+Indonesia,IDN,2003.0,15408
+Indonesia,IDN,2004.0,16350
+Indonesia,IDN,2005.0,17351
+Indonesia,IDN,2006.0,16313
+Indonesia,IDN,2007.0,18343
+Indonesia,IDN,2008.0,19884
+Indonesia,IDN,2009.0,20746
+Indonesia,IDN,2010.0,26913
+Indonesia,IDN,2011.0,21997
+Indonesia,IDN,2012.0,22477
+Indonesia,IDN,2013.0,26506
+Indonesia,IDN,2014.0,26149
+Indonesia,IDN,2015.0,24922
+"Iran, Islamic Rep.",IRN,1990.0,6083
+"Iran, Islamic Rep.",IRN,1991.0,7056
+"Iran, Islamic Rep.",IRN,1992.0,9530
+"Iran, Islamic Rep.",IRN,1993.0,9823
+"Iran, Islamic Rep.",IRN,1994.0,7445
+"Iran, Islamic Rep.",IRN,1995.0,7288
+"Iran, Islamic Rep.",IRN,1996.0,7392
+"Iran, Islamic Rep.",IRN,1997.0,6929
+"Iran, Islamic Rep.",IRN,1998.0,7040
+"Iran, Islamic Rep.",IRN,1999.0,4978
+"Iran, Islamic Rep.",IRN,2000.0,3687
+"Iran, Islamic Rep.",IRN,2001.0,5091
+"Iran, Islamic Rep.",IRN,2002.0,8080
+"Iran, Islamic Rep.",IRN,2003.0,11125
+"Iran, Islamic Rep.",IRN,2004.0,10674
+"Iran, Islamic Rep.",IRN,2005.0,16171
+"Iran, Islamic Rep.",IRN,2006.0,18391
+"Iran, Islamic Rep.",IRN,2007.0,18130
+"Iran, Islamic Rep.",IRN,2008.0,5199
+"Iran, Islamic Rep.",IRN,2009.0,7460
+"Iran, Islamic Rep.",IRN,2010.0,9699
+"Iran, Islamic Rep.",IRN,2011.0,12297
+"Iran, Islamic Rep.",IRN,2012.0,12677
+"Iran, Islamic Rep.",IRN,2013.0,14979
+"Iran, Islamic Rep.",IRN,2014.0,14267
+"Iran, Islamic Rep.",IRN,2015.0,14326
+Iraq,IRQ,1990.0,2600
+Iraq,IRQ,1991.0,900
+Iraq,IRQ,1992.0,700
+Iraq,IRQ,1993.0,600
+Iraq,IRQ,1994.0,560
+Iraq,IRQ,1995.0,570
+Iraq,IRQ,1996.0,570
+Iraq,IRQ,1997.0,581
+Iraq,IRQ,1998.0,593
+Iraq,IRQ,1999.0,605
+Iraq,IRQ,2000.0,611
+Iraq,IRQ,2001.0,618
+Iraq,IRQ,2002.0,517
+Iraq,IRQ,2003.0,433
+Iraq,IRQ,2004.0,493
+Iraq,IRQ,2005.0,6000
+Iraq,IRQ,2006.0,6096
+Iraq,IRQ,2007.0,5736
+Iraq,IRQ,2008.0,3485
+Iraq,IRQ,2009.0,3227
+Iraq,IRQ,2010.0,4767
+Iraq,IRQ,2011.0,3397
+Iraq,IRQ,2012.0,4392
+Iraq,IRQ,2013.0,4757
+Iraq,IRQ,2014.0,2931
+Iraq,IRQ,2015.0,2572
+Ireland,IRL,1990.0,697
+Ireland,IRL,1991.0,746
+Ireland,IRL,1992.0,822
+Ireland,IRL,1993.0,780
+Ireland,IRL,1994.0,939
+Ireland,IRL,1995.0,729
+Ireland,IRL,1996.0,763
+Ireland,IRL,1997.0,809
+Ireland,IRL,1998.0,1170
+Ireland,IRL,1999.0,1124
+Ireland,IRL,2000.0,1185
+Ireland,IRL,2001.0,1027
+Ireland,IRL,2002.0,1382
+Ireland,IRL,2003.0,1138
+Ireland,IRL,2004.0,1394
+Ireland,IRL,2005.0,1873
+Ireland,IRL,2006.0,2475
+Ireland,IRL,2007.0,2794
+Ireland,IRL,2008.0,3588
+Ireland,IRL,2009.0,4108
+Ireland,IRL,2010.0,3728
+Ireland,IRL,2011.0,5423
+Ireland,IRL,2012.0,5256
+Ireland,IRL,2013.0,5628
+Ireland,IRL,2014.0,6390
+Ireland,IRL,2015.0,7858
+Isle of Man,IMN,1990.0,0
+Isle of Man,IMN,1991.0,0
+Isle of Man,IMN,1992.0,0
+Isle of Man,IMN,1993.0,0
+Isle of Man,IMN,1994.0,0
+Isle of Man,IMN,1995.0,0
+Isle of Man,IMN,1996.0,0
+Isle of Man,IMN,1997.0,0
+Isle of Man,IMN,1998.0,0
+Isle of Man,IMN,1999.0,0
+Isle of Man,IMN,2000.0,0
+Isle of Man,IMN,2001.0,0
+Isle of Man,IMN,2002.0,3
+Isle of Man,IMN,2003.0,2.3
+Isle of Man,IMN,2004.0,3.3
+Isle of Man,IMN,2005.0,2.6
+Isle of Man,IMN,2006.0,3.5
+Isle of Man,IMN,2007.0,2.1
+Isle of Man,IMN,2008.0,3.2
+Isle of Man,IMN,2009.0,3.4
+Isle of Man,IMN,2010.0,3
+Isle of Man,IMN,2011.0,3.1
+Isle of Man,IMN,2012.0,4.4
+Isle of Man,IMN,2013.0,4
+Isle of Man,IMN,2014.0,4
+Isle of Man,IMN,2015.0,4.2
+Israel,ISR,1990.0,3
+Israel,ISR,1991.0,6
+Israel,ISR,1992.0,29
+Israel,ISR,1993.0,26
+Israel,ISR,1994.0,23
+Israel,ISR,1995.0,25
+Israel,ISR,1996.0,24
+Israel,ISR,1997.0,25
+Israel,ISR,1998.0,25
+Israel,ISR,1999.0,33
+Israel,ISR,2000.0,31
+Israel,ISR,2001.0,20
+Israel,ISR,2002.0,32
+Israel,ISR,2003.0,43
+Israel,ISR,2004.0,39
+Israel,ISR,2005.0,39
+Israel,ISR,2006.0,25
+Israel,ISR,2007.0,24
+Israel,ISR,2008.0,32
+Israel,ISR,2009.0,99
+Israel,ISR,2010.0,170
+Israel,ISR,2011.0,301
+Israel,ISR,2012.0,484
+Israel,ISR,2013.0,571
+Israel,ISR,2014.0,921
+Israel,ISR,2015.0,1214
+Italy,ITA,1990.0,34905
+Italy,ITA,1991.0,45539
+Italy,ITA,1992.0,45767
+Italy,ITA,1993.0,45223
+Italy,ITA,1994.0,48240
+Italy,ITA,1995.0,41458
+Italy,ITA,1996.0,46223
+Italy,ITA,1997.0,46206
+Italy,ITA,1998.0,46476
+Italy,ITA,1999.0,51315
+Italy,ITA,2000.0,50879
+Italy,ITA,2001.0,54348
+Italy,ITA,2002.0,48315
+Italy,ITA,2003.0,46866
+Italy,ITA,2004.0,53871
+Italy,ITA,2005.0,48439
+Italy,ITA,2006.0,50635
+Italy,ITA,2007.0,47715
+Italy,ITA,2008.0,58163
+Italy,ITA,2009.0,69255
+Italy,ITA,2010.0,76965
+Italy,ITA,2011.0,82963
+Italy,ITA,2012.0,92223
+Italy,ITA,2013.0,112012
+Italy,ITA,2014.0,120679
+Italy,ITA,2015.0,108906
+Jamaica,JAM,1990.0,186
+Jamaica,JAM,1991.0,143
+Jamaica,JAM,1992.0,179
+Jamaica,JAM,1993.0,199
+Jamaica,JAM,1994.0,263
+Jamaica,JAM,1995.0,301
+Jamaica,JAM,1996.0,355
+Jamaica,JAM,1997.0,371
+Jamaica,JAM,1998.0,319
+Jamaica,JAM,1999.0,319
+Jamaica,JAM,2000.0,320
+Jamaica,JAM,2001.0,230
+Jamaica,JAM,2002.0,156
+Jamaica,JAM,2003.0,180
+Jamaica,JAM,2004.0,237
+Jamaica,JAM,2005.0,274
+Jamaica,JAM,2006.0,295
+Jamaica,JAM,2007.0,298
+Jamaica,JAM,2008.0,260
+Jamaica,JAM,2009.0,324
+Jamaica,JAM,2010.0,332
+Jamaica,JAM,2011.0,381
+Jamaica,JAM,2012.0,435
+Jamaica,JAM,2013.0,393
+Jamaica,JAM,2014.0,404
+Jamaica,JAM,2015.0,423
+Japan,JPN,1990.0,98204
+Japan,JPN,1991.0,106821
+Japan,JPN,1992.0,92259
+Japan,JPN,1993.0,104689
+Japan,JPN,1994.0,77893
+Japan,JPN,1995.0,94146
+Japan,JPN,1996.0,93206
+Japan,JPN,1997.0,102686
+Japan,JPN,1998.0,103998
+Japan,JPN,1999.0,98515
+Japan,JPN,2000.0,99191
+Japan,JPN,2001.0,96067
+Japan,JPN,2002.0,95084
+Japan,JPN,2003.0,108337
+Japan,JPN,2004.0,108728
+Japan,JPN,2005.0,94947
+Japan,JPN,2006.0,106811
+Japan,JPN,2007.0,94599
+Japan,JPN,2008.0,96782
+Japan,JPN,2009.0,97710
+Japan,JPN,2010.0,120069
+Japan,JPN,2011.0,123156
+Japan,JPN,2012.0,118282
+Japan,JPN,2013.0,129323
+Japan,JPN,2014.0,148217
+Japan,JPN,2015.0,165485
+Jordan,JOR,1990.0,12
+Jordan,JOR,1991.0,8
+Jordan,JOR,1992.0,16
+Jordan,JOR,1993.0,23
+Jordan,JOR,1994.0,15
+Jordan,JOR,1995.0,19
+Jordan,JOR,1996.0,23
+Jordan,JOR,1997.0,20
+Jordan,JOR,1998.0,16
+Jordan,JOR,1999.0,17
+Jordan,JOR,2000.0,42
+Jordan,JOR,2001.0,51
+Jordan,JOR,2002.0,61
+Jordan,JOR,2003.0,50
+Jordan,JOR,2004.0,62
+Jordan,JOR,2005.0,65
+Jordan,JOR,2006.0,60
+Jordan,JOR,2007.0,74
+Jordan,JOR,2008.0,74
+Jordan,JOR,2009.0,69
+Jordan,JOR,2010.0,73
+Jordan,JOR,2011.0,66
+Jordan,JOR,2012.0,70
+Jordan,JOR,2013.0,64
+Jordan,JOR,2014.0,66
+Jordan,JOR,2015.0,184
+Kazakhstan,KAZ,1990.0,7366
+Kazakhstan,KAZ,1991.0,7200
+Kazakhstan,KAZ,1992.0,6866
+Kazakhstan,KAZ,1993.0,7629
+Kazakhstan,KAZ,1994.0,9179
+Kazakhstan,KAZ,1995.0,8331
+Kazakhstan,KAZ,1996.0,7331
+Kazakhstan,KAZ,1997.0,6499
+Kazakhstan,KAZ,1998.0,6141
+Kazakhstan,KAZ,1999.0,6132
+Kazakhstan,KAZ,2000.0,7531
+Kazakhstan,KAZ,2001.0,8081
+Kazakhstan,KAZ,2002.0,8890
+Kazakhstan,KAZ,2003.0,8625
+Kazakhstan,KAZ,2004.0,8057
+Kazakhstan,KAZ,2005.0,7856
+Kazakhstan,KAZ,2006.0,7768
+Kazakhstan,KAZ,2007.0,8171
+Kazakhstan,KAZ,2008.0,7460
+Kazakhstan,KAZ,2009.0,6879
+Kazakhstan,KAZ,2010.0,8022
+Kazakhstan,KAZ,2011.0,7883
+Kazakhstan,KAZ,2012.0,7640
+Kazakhstan,KAZ,2013.0,7737
+Kazakhstan,KAZ,2014.0,8277
+Kazakhstan,KAZ,2015.0,9448
+Kenya,KEN,1990.0,3004
+Kenya,KEN,1991.0,3274
+Kenya,KEN,1992.0,3282
+Kenya,KEN,1993.0,3485
+Kenya,KEN,1994.0,3451
+Kenya,KEN,1995.0,3675
+Kenya,KEN,1996.0,3869
+Kenya,KEN,1997.0,3747
+Kenya,KEN,1998.0,3786
+Kenya,KEN,1999.0,2940
+Kenya,KEN,2000.0,1882
+Kenya,KEN,2001.0,3006
+Kenya,KEN,2002.0,3627
+Kenya,KEN,2003.0,4169
+Kenya,KEN,2004.0,4026
+Kenya,KEN,2005.0,4160
+Kenya,KEN,2006.0,4416
+Kenya,KEN,2007.0,4639
+Kenya,KEN,2008.0,4154
+Kenya,KEN,2009.0,3746
+Kenya,KEN,2010.0,5107
+Kenya,KEN,2011.0,5186
+Kenya,KEN,2012.0,6107
+Kenya,KEN,2013.0,6150
+Kenya,KEN,2014.0,7544
+Kenya,KEN,2015.0,8446
+Kiribati,KIR,1990.0,0
+Kiribati,KIR,1991.0,0
+Kiribati,KIR,1992.0,0
+Kiribati,KIR,1993.0,0
+Kiribati,KIR,1994.0,0
+Kiribati,KIR,1995.0,0
+Kiribati,KIR,1996.0,0
+Kiribati,KIR,1997.0,0
+Kiribati,KIR,1998.0,0
+Kiribati,KIR,1999.0,0
+Kiribati,KIR,2000.0,0
+Kiribati,KIR,2001.0,0
+Kiribati,KIR,2002.0,0
+Kiribati,KIR,2003.0,0
+Kiribati,KIR,2004.0,0
+Kiribati,KIR,2005.0,0
+Kiribati,KIR,2006.0,0
+Kiribati,KIR,2007.0,0
+Kiribati,KIR,2008.0,0
+Kiribati,KIR,2009.0,0
+Kiribati,KIR,2010.0,0
+Kiribati,KIR,2011.0,0
+Kiribati,KIR,2012.0,0
+Kiribati,KIR,2013.0,0
+Kiribati,KIR,2014.0,0
+Kiribati,KIR,2015.0,2
+"Korea, Dem. Rep.",PRK,1990.0,15600
+"Korea, Dem. Rep.",PRK,1991.0,15000
+"Korea, Dem. Rep.",PRK,1992.0,14200
+"Korea, Dem. Rep.",PRK,1993.0,13300
+"Korea, Dem. Rep.",PRK,1994.0,13800
+"Korea, Dem. Rep.",PRK,1995.0,14200
+"Korea, Dem. Rep.",PRK,1996.0,12500
+"Korea, Dem. Rep.",PRK,1997.0,10700
+"Korea, Dem. Rep.",PRK,1998.0,10200
+"Korea, Dem. Rep.",PRK,1999.0,10300
+"Korea, Dem. Rep.",PRK,2000.0,10200
+"Korea, Dem. Rep.",PRK,2001.0,10600
+"Korea, Dem. Rep.",PRK,2002.0,10620
+"Korea, Dem. Rep.",PRK,2003.0,11720
+"Korea, Dem. Rep.",PRK,2004.0,12500
+"Korea, Dem. Rep.",PRK,2005.0,13132
+"Korea, Dem. Rep.",PRK,2006.0,12620
+"Korea, Dem. Rep.",PRK,2007.0,13280
+"Korea, Dem. Rep.",PRK,2008.0,14068
+"Korea, Dem. Rep.",PRK,2009.0,12500
+"Korea, Dem. Rep.",PRK,2010.0,13400
+"Korea, Dem. Rep.",PRK,2011.0,13200
+"Korea, Dem. Rep.",PRK,2012.0,13500
+"Korea, Dem. Rep.",PRK,2013.0,13900
+"Korea, Dem. Rep.",PRK,2014.0,13000
+"Korea, Dem. Rep.",PRK,2015.0,10000
+"Korea, Rep.",KOR,1990.0,6362
+"Korea, Rep.",KOR,1991.0,3487
+"Korea, Rep.",KOR,1992.0,3099
+"Korea, Rep.",KOR,1993.0,4230
+"Korea, Rep.",KOR,1994.0,2349
+"Korea, Rep.",KOR,1995.0,3012
+"Korea, Rep.",KOR,1996.0,2830
+"Korea, Rep.",KOR,1997.0,2895
+"Korea, Rep.",KOR,1998.0,4343
+"Korea, Rep.",KOR,1999.0,4257
+"Korea, Rep.",KOR,2000.0,4111
+"Korea, Rep.",KOR,2001.0,4258
+"Korea, Rep.",KOR,2002.0,3434
+"Korea, Rep.",KOR,2003.0,5123
+"Korea, Rep.",KOR,2004.0,4631
+"Korea, Rep.",KOR,2005.0,4052
+"Korea, Rep.",KOR,2006.0,4018
+"Korea, Rep.",KOR,2007.0,4557
+"Korea, Rep.",KOR,2008.0,4376
+"Korea, Rep.",KOR,2009.0,4687
+"Korea, Rep.",KOR,2010.0,6186
+"Korea, Rep.",KOR,2011.0,7479
+"Korea, Rep.",KOR,2012.0,7093
+"Korea, Rep.",KOR,2013.0,8783
+"Korea, Rep.",KOR,2014.0,8553
+"Korea, Rep.",KOR,2015.0,10406
+Kosovo,XKX,1990.0,0
+Kosovo,XKX,1991.0,0
+Kosovo,XKX,1992.0,0
+Kosovo,XKX,1993.0,0
+Kosovo,XKX,1994.0,0
+Kosovo,XKX,1995.0,0
+Kosovo,XKX,1996.0,0
+Kosovo,XKX,1997.0,0
+Kosovo,XKX,1998.0,0
+Kosovo,XKX,1999.0,0
+Kosovo,XKX,2000.0,52
+Kosovo,XKX,2001.0,52
+Kosovo,XKX,2002.0,52
+Kosovo,XKX,2003.0,52
+Kosovo,XKX,2004.0,113
+Kosovo,XKX,2005.0,112
+Kosovo,XKX,2006.0,101
+Kosovo,XKX,2007.0,94
+Kosovo,XKX,2008.0,76
+Kosovo,XKX,2009.0,120
+Kosovo,XKX,2010.0,157
+Kosovo,XKX,2011.0,105
+Kosovo,XKX,2012.0,96
+Kosovo,XKX,2013.0,143
+Kosovo,XKX,2014.0,151
+Kosovo,XKX,2015.0,140
+Kuwait,KWT,1990.0,0
+Kuwait,KWT,1991.0,0
+Kuwait,KWT,1992.0,0
+Kuwait,KWT,1993.0,0
+Kuwait,KWT,1994.0,0
+Kuwait,KWT,1995.0,0
+Kuwait,KWT,1996.0,0
+Kuwait,KWT,1997.0,0
+Kuwait,KWT,1998.0,0
+Kuwait,KWT,1999.0,0
+Kuwait,KWT,2000.0,0
+Kuwait,KWT,2001.0,0
+Kuwait,KWT,2002.0,0
+Kuwait,KWT,2003.0,0
+Kuwait,KWT,2004.0,0
+Kuwait,KWT,2005.0,0
+Kuwait,KWT,2006.0,0
+Kuwait,KWT,2007.0,0
+Kuwait,KWT,2008.0,0
+Kuwait,KWT,2009.0,0
+Kuwait,KWT,2010.0,0
+Kuwait,KWT,2011.0,0
+Kuwait,KWT,2012.0,0
+Kuwait,KWT,2013.0,0
+Kuwait,KWT,2014.0,0
+Kuwait,KWT,2015.0,0
+Kyrgyz Republic,KGZ,1990.0,9986
+Kyrgyz Republic,KGZ,1991.0,10058
+Kyrgyz Republic,KGZ,1992.0,9200
+Kyrgyz Republic,KGZ,1993.0,9085
+Kyrgyz Republic,KGZ,1994.0,11724
+Kyrgyz Republic,KGZ,1995.0,11118
+Kyrgyz Republic,KGZ,1996.0,12255
+Kyrgyz Republic,KGZ,1997.0,10934
+Kyrgyz Republic,KGZ,1998.0,9943
+Kyrgyz Republic,KGZ,1999.0,12142
+Kyrgyz Republic,KGZ,2000.0,12825
+Kyrgyz Republic,KGZ,2001.0,11741
+Kyrgyz Republic,KGZ,2002.0,10242
+Kyrgyz Republic,KGZ,2003.0,12045
+Kyrgyz Republic,KGZ,2004.0,13003
+Kyrgyz Republic,KGZ,2005.0,12788
+Kyrgyz Republic,KGZ,2006.0,12472
+Kyrgyz Republic,KGZ,2007.0,12736
+Kyrgyz Republic,KGZ,2008.0,10124
+Kyrgyz Republic,KGZ,2009.0,10217
+Kyrgyz Republic,KGZ,2010.0,11108
+Kyrgyz Republic,KGZ,2011.0,14139
+Kyrgyz Republic,KGZ,2012.0,14179
+Kyrgyz Republic,KGZ,2013.0,13097
+Kyrgyz Republic,KGZ,2014.0,13298
+Kyrgyz Republic,KGZ,2015.0,11100
+Lao PDR,LAO,1990.0,833.4893
+Lao PDR,LAO,1991.0,833.9267
+Lao PDR,LAO,1992.0,751.8122
+Lao PDR,LAO,1993.0,919.8637
+Lao PDR,LAO,1994.0,1198.5498
+Lao PDR,LAO,1995.0,1084.9894
+Lao PDR,LAO,1996.0,1247.8368
+Lao PDR,LAO,1997.0,1218.7388
+Lao PDR,LAO,1998.0,2157.6195
+Lao PDR,LAO,1999.0,2800.8003
+Lao PDR,LAO,2000.0,3679.8874
+Lao PDR,LAO,2001.0,3632.1846
+Lao PDR,LAO,2002.0,3469.4535
+Lao PDR,LAO,2003.0,3178.0044
+Lao PDR,LAO,2004.0,3345.4588
+Lao PDR,LAO,2005.0,3510
+Lao PDR,LAO,2006.0,3595.8
+Lao PDR,LAO,2007.0,3373.6
+Lao PDR,LAO,2008.0,3717
+Lao PDR,LAO,2009.0,3384.3
+Lao PDR,LAO,2010.0,8449
+Lao PDR,LAO,2011.0,12980.1
+Lao PDR,LAO,2012.0,12760.1
+Lao PDR,LAO,2013.0,15506.2
+Lao PDR,LAO,2014.0,15633.3
+Lao PDR,LAO,2015.0,14252
+Latvia,LVA,1990.0,4496
+Latvia,LVA,1991.0,3275
+Latvia,LVA,1992.0,2521
+Latvia,LVA,1993.0,2876
+Latvia,LVA,1994.0,3305
+Latvia,LVA,1995.0,2937
+Latvia,LVA,1996.0,1861
+Latvia,LVA,1997.0,2955
+Latvia,LVA,1998.0,4318
+Latvia,LVA,1999.0,2759
+Latvia,LVA,2000.0,2823
+Latvia,LVA,2001.0,2839
+Latvia,LVA,2002.0,2485
+Latvia,LVA,2003.0,2338
+Latvia,LVA,2004.0,3196
+Latvia,LVA,2005.0,3414
+Latvia,LVA,2006.0,2786
+Latvia,LVA,2007.0,2828
+Latvia,LVA,2008.0,3212
+Latvia,LVA,2009.0,3556
+Latvia,LVA,2010.0,3635
+Latvia,LVA,2011.0,3077
+Latvia,LVA,2012.0,4109
+Latvia,LVA,2013.0,3534
+Latvia,LVA,2014.0,2804
+Latvia,LVA,2015.0,2776
+Lebanon,LBN,1990.0,500
+Lebanon,LBN,1991.0,560
+Lebanon,LBN,1992.0,720
+Lebanon,LBN,1993.0,708
+Lebanon,LBN,1994.0,817
+Lebanon,LBN,1995.0,717
+Lebanon,LBN,1996.0,798
+Lebanon,LBN,1997.0,901
+Lebanon,LBN,1998.0,785
+Lebanon,LBN,1999.0,332
+Lebanon,LBN,2000.0,449
+Lebanon,LBN,2001.0,333
+Lebanon,LBN,2002.0,678
+Lebanon,LBN,2003.0,1363
+Lebanon,LBN,2004.0,1120
+Lebanon,LBN,2005.0,1046
+Lebanon,LBN,2006.0,695
+Lebanon,LBN,2007.0,585
+Lebanon,LBN,2008.0,373
+Lebanon,LBN,2009.0,622
+Lebanon,LBN,2010.0,839
+Lebanon,LBN,2011.0,805
+Lebanon,LBN,2012.0,1007
+Lebanon,LBN,2013.0,1269
+Lebanon,LBN,2014.0,193
+Lebanon,LBN,2015.0,479
+Lesotho,LSO,1990.0,0
+Lesotho,LSO,1991.0,0
+Lesotho,LSO,1992.0,0
+Lesotho,LSO,1993.0,0
+Lesotho,LSO,1994.0,0
+Lesotho,LSO,1995.0,0
+Lesotho,LSO,1996.0,0
+Lesotho,LSO,1997.0,0
+Lesotho,LSO,1998.0,0
+Lesotho,LSO,1999.0,386.4
+Lesotho,LSO,2000.0,371.6
+Lesotho,LSO,2001.0,373
+Lesotho,LSO,2002.0,377.9
+Lesotho,LSO,2003.0,428.8
+Lesotho,LSO,2004.0,403.9
+Lesotho,LSO,2005.0,457.2
+Lesotho,LSO,2006.0,481.6
+Lesotho,LSO,2007.0,507.3
+Lesotho,LSO,2008.0,503.4
+Lesotho,LSO,2009.0,505.3
+Lesotho,LSO,2010.0,500.6
+Lesotho,LSO,2011.0,489.5
+Lesotho,LSO,2012.0,485.4
+Lesotho,LSO,2013.0,515.3
+Lesotho,LSO,2014.0,515.2
+Lesotho,LSO,2015.0,532.2
+Liberia,LBR,1990.0,0
+Liberia,LBR,1991.0,0
+Liberia,LBR,1992.0,0
+Liberia,LBR,1993.0,0
+Liberia,LBR,1994.0,0
+Liberia,LBR,1995.0,0
+Liberia,LBR,1996.0,0
+Liberia,LBR,1997.0,0
+Liberia,LBR,1998.0,0
+Liberia,LBR,1999.0,0
+Liberia,LBR,2000.0,0
+Liberia,LBR,2001.0,0
+Liberia,LBR,2002.0,0
+Liberia,LBR,2003.0,0
+Liberia,LBR,2004.0,0
+Liberia,LBR,2005.0,0
+Liberia,LBR,2006.0,0
+Liberia,LBR,2007.0,0
+Liberia,LBR,2008.0,0
+Liberia,LBR,2009.0,0
+Liberia,LBR,2010.0,0
+Liberia,LBR,2011.0,0
+Liberia,LBR,2012.0,0
+Liberia,LBR,2013.0,0
+Liberia,LBR,2014.0,0
+Liberia,LBR,2015.0,0
+Libya,LBY,1990.0,0
+Libya,LBY,1991.0,0
+Libya,LBY,1992.0,0
+Libya,LBY,1993.0,0
+Libya,LBY,1994.0,0
+Libya,LBY,1995.0,0
+Libya,LBY,1996.0,0
+Libya,LBY,1997.0,0
+Libya,LBY,1998.0,0
+Libya,LBY,1999.0,0
+Libya,LBY,2000.0,0
+Libya,LBY,2001.0,0
+Libya,LBY,2002.0,0
+Libya,LBY,2003.0,0
+Libya,LBY,2004.0,0
+Libya,LBY,2005.0,0
+Libya,LBY,2006.0,0
+Libya,LBY,2007.0,0
+Libya,LBY,2008.0,0
+Libya,LBY,2009.0,0
+Libya,LBY,2010.0,0
+Libya,LBY,2011.0,0
+Libya,LBY,2012.0,0
+Libya,LBY,2013.0,0
+Libya,LBY,2014.0,0
+Libya,LBY,2015.0,0
+Liechtenstein,LIE,1990.0,0
+Liechtenstein,LIE,1991.0,0
+Liechtenstein,LIE,1992.0,0
+Liechtenstein,LIE,1993.0,0
+Liechtenstein,LIE,1994.0,0
+Liechtenstein,LIE,1995.0,0
+Liechtenstein,LIE,1996.0,0
+Liechtenstein,LIE,1997.0,0
+Liechtenstein,LIE,1998.0,0
+Liechtenstein,LIE,1999.0,0
+Liechtenstein,LIE,2000.0,0
+Liechtenstein,LIE,2001.0,0
+Liechtenstein,LIE,2002.0,0
+Liechtenstein,LIE,2003.0,0
+Liechtenstein,LIE,2004.0,0
+Liechtenstein,LIE,2005.0,0
+Liechtenstein,LIE,2006.0,0
+Liechtenstein,LIE,2007.0,68.7
+Liechtenstein,LIE,2008.0,67.5
+Liechtenstein,LIE,2009.0,66.9
+Liechtenstein,LIE,2010.0,74.7
+Liechtenstein,LIE,2011.0,68.4
+Liechtenstein,LIE,2012.0,82.2
+Liechtenstein,LIE,2013.0,81.9
+Liechtenstein,LIE,2014.0,38.9
+Liechtenstein,LIE,2015.0,67.8
+Lithuania,LTU,1990.0,414
+Lithuania,LTU,1991.0,338
+Lithuania,LTU,1992.0,311
+Lithuania,LTU,1993.0,393
+Lithuania,LTU,1994.0,452
+Lithuania,LTU,1995.0,373
+Lithuania,LTU,1996.0,326
+Lithuania,LTU,1997.0,296
+Lithuania,LTU,1998.0,417
+Lithuania,LTU,1999.0,415
+Lithuania,LTU,2000.0,340
+Lithuania,LTU,2001.0,328
+Lithuania,LTU,2002.0,358
+Lithuania,LTU,2003.0,332
+Lithuania,LTU,2004.0,428
+Lithuania,LTU,2005.0,460
+Lithuania,LTU,2006.0,435
+Lithuania,LTU,2007.0,581
+Lithuania,LTU,2008.0,602
+Lithuania,LTU,2009.0,684
+Lithuania,LTU,2010.0,911
+Lithuania,LTU,2011.0,1112
+Lithuania,LTU,2012.0,1183
+Lithuania,LTU,2013.0,1526
+Lithuania,LTU,2014.0,1511
+Lithuania,LTU,2015.0,1678
+Luxembourg,LUX,1990.0,83
+Luxembourg,LUX,1991.0,98
+Luxembourg,LUX,1992.0,82
+Luxembourg,LUX,1993.0,82
+Luxembourg,LUX,1994.0,101
+Luxembourg,LUX,1995.0,107
+Luxembourg,LUX,1996.0,75
+Luxembourg,LUX,1997.0,103
+Luxembourg,LUX,1998.0,143
+Luxembourg,LUX,1999.0,122
+Luxembourg,LUX,2000.0,173
+Luxembourg,LUX,2001.0,168
+Luxembourg,LUX,2002.0,150
+Luxembourg,LUX,2003.0,140
+Luxembourg,LUX,2004.0,195
+Luxembourg,LUX,2005.0,211
+Luxembourg,LUX,2006.0,246
+Luxembourg,LUX,2007.0,265
+Luxembourg,LUX,2008.0,283
+Luxembourg,LUX,2009.0,267
+Luxembourg,LUX,2010.0,267
+Luxembourg,LUX,2011.0,246
+Luxembourg,LUX,2012.0,308
+Luxembourg,LUX,2013.0,370
+Luxembourg,LUX,2014.0,399
+Luxembourg,LUX,2015.0,431
+"Macao SAR, China",MAC,1990.0,0
+"Macao SAR, China",MAC,1991.0,0
+"Macao SAR, China",MAC,1992.0,0
+"Macao SAR, China",MAC,1993.0,0
+"Macao SAR, China",MAC,1994.0,0
+"Macao SAR, China",MAC,1995.0,0
+"Macao SAR, China",MAC,1996.0,0
+"Macao SAR, China",MAC,1997.0,0
+"Macao SAR, China",MAC,1998.0,0
+"Macao SAR, China",MAC,1999.0,0
+"Macao SAR, China",MAC,2000.0,0
+"Macao SAR, China",MAC,2001.0,0
+"Macao SAR, China",MAC,2002.0,0
+"Macao SAR, China",MAC,2003.0,0
+"Macao SAR, China",MAC,2004.0,0
+"Macao SAR, China",MAC,2005.0,0
+"Macao SAR, China",MAC,2006.0,0
+"Macao SAR, China",MAC,2007.0,0
+"Macao SAR, China",MAC,2008.0,0
+"Macao SAR, China",MAC,2009.0,0
+"Macao SAR, China",MAC,2010.0,0
+"Macao SAR, China",MAC,2011.0,0
+"Macao SAR, China",MAC,2012.0,0
+"Macao SAR, China",MAC,2013.0,0
+"Macao SAR, China",MAC,2014.0,0
+"Macao SAR, China",MAC,2015.0,0
+"Macedonia, FYR",MKD,1990.0,491
+"Macedonia, FYR",MKD,1991.0,848
+"Macedonia, FYR",MKD,1992.0,848
+"Macedonia, FYR",MKD,1993.0,522
+"Macedonia, FYR",MKD,1994.0,695
+"Macedonia, FYR",MKD,1995.0,801
+"Macedonia, FYR",MKD,1996.0,850
+"Macedonia, FYR",MKD,1997.0,900
+"Macedonia, FYR",MKD,1998.0,1083
+"Macedonia, FYR",MKD,1999.0,1389
+"Macedonia, FYR",MKD,2000.0,1170
+"Macedonia, FYR",MKD,2001.0,626
+"Macedonia, FYR",MKD,2002.0,757
+"Macedonia, FYR",MKD,2003.0,1374
+"Macedonia, FYR",MKD,2004.0,1482
+"Macedonia, FYR",MKD,2005.0,1492
+"Macedonia, FYR",MKD,2006.0,1650
+"Macedonia, FYR",MKD,2007.0,1010
+"Macedonia, FYR",MKD,2008.0,840
+"Macedonia, FYR",MKD,2009.0,1270
+"Macedonia, FYR",MKD,2010.0,2431
+"Macedonia, FYR",MKD,2011.0,1434
+"Macedonia, FYR",MKD,2012.0,1044
+"Macedonia, FYR",MKD,2013.0,1593
+"Macedonia, FYR",MKD,2014.0,1292
+"Macedonia, FYR",MKD,2015.0,2029
+Madagascar,MDG,1990.0,341.3384
+Madagascar,MDG,1991.0,335.5091
+Madagascar,MDG,1992.0,335.2674
+Madagascar,MDG,1993.0,383.4206
+Madagascar,MDG,1994.0,389.2227
+Madagascar,MDG,1995.0,410.7864
+Madagascar,MDG,1996.0,442.4358
+Madagascar,MDG,1997.0,488.7175
+Madagascar,MDG,1998.0,510.6458
+Madagascar,MDG,1999.0,515.3744
+Madagascar,MDG,2000.0,539.6487
+Madagascar,MDG,2001.0,563.9627
+Madagascar,MDG,2002.0,535.4031
+Madagascar,MDG,2003.0,611.673
+Madagascar,MDG,2004.0,638.095
+Madagascar,MDG,2005.0,647.9033
+Madagascar,MDG,2006.0,637.9218
+Madagascar,MDG,2007.0,719.0824
+Madagascar,MDG,2008.0,700.1221
+Madagascar,MDG,2009.0,740.985
+Madagascar,MDG,2010.0,710.968
+Madagascar,MDG,2011.0,690.344
+Madagascar,MDG,2012.0,755.36
+Madagascar,MDG,2013.0,809
+Madagascar,MDG,2014.0,883.566
+Madagascar,MDG,2015.0,934.818
+Malawi,MWI,1990.0,704
+Malawi,MWI,1991.0,751
+Malawi,MWI,1992.0,777
+Malawi,MWI,1993.0,777
+Malawi,MWI,1994.0,802
+Malawi,MWI,1995.0,792
+Malawi,MWI,1996.0,805
+Malawi,MWI,1997.0,896
+Malawi,MWI,1998.0,948
+Malawi,MWI,1999.0,977
+Malawi,MWI,2000.0,1033
+Malawi,MWI,2001.0,1074.8
+Malawi,MWI,2002.0,1123
+Malawi,MWI,2003.0,1166
+Malawi,MWI,2004.0,1267.3
+Malawi,MWI,2005.0,1324.5
+Malawi,MWI,2006.0,1356.6
+Malawi,MWI,2007.0,1403.2
+Malawi,MWI,2008.0,1615.13
+Malawi,MWI,2009.0,1763.13
+Malawi,MWI,2010.0,1842.63
+Malawi,MWI,2011.0,1797.6
+Malawi,MWI,2012.0,1911
+Malawi,MWI,2013.0,1838
+Malawi,MWI,2014.0,1901
+Malawi,MWI,2015.0,1920
+Malaysia,MYS,1990.0,3989
+Malaysia,MYS,1991.0,4408
+Malaysia,MYS,1992.0,4361
+Malaysia,MYS,1993.0,4873
+Malaysia,MYS,1994.0,6524
+Malaysia,MYS,1995.0,6222
+Malaysia,MYS,1996.0,5187
+Malaysia,MYS,1997.0,3873
+Malaysia,MYS,1998.0,4855
+Malaysia,MYS,1999.0,7525
+Malaysia,MYS,2000.0,6966
+Malaysia,MYS,2001.0,7058
+Malaysia,MYS,2002.0,5305
+Malaysia,MYS,2003.0,5056
+Malaysia,MYS,2004.0,5831
+Malaysia,MYS,2005.0,5192
+Malaysia,MYS,2006.0,6443
+Malaysia,MYS,2007.0,6491
+Malaysia,MYS,2008.0,7461
+Malaysia,MYS,2009.0,8127
+Malaysia,MYS,2010.0,7478
+Malaysia,MYS,2011.0,8680
+Malaysia,MYS,2012.0,9922
+Malaysia,MYS,2013.0,11867
+Malaysia,MYS,2014.0,14316
+Malaysia,MYS,2015.0,14948
+Maldives,MDV,1990.0,0
+Maldives,MDV,1991.0,0
+Maldives,MDV,1992.0,0
+Maldives,MDV,1993.0,0
+Maldives,MDV,1994.0,0
+Maldives,MDV,1995.0,0
+Maldives,MDV,1996.0,0
+Maldives,MDV,1997.0,0
+Maldives,MDV,1998.0,0
+Maldives,MDV,1999.0,0
+Maldives,MDV,2000.0,0
+Maldives,MDV,2001.0,0
+Maldives,MDV,2002.0,0
+Maldives,MDV,2003.0,0
+Maldives,MDV,2004.0,0
+Maldives,MDV,2005.0,0
+Maldives,MDV,2006.0,0
+Maldives,MDV,2007.0,0
+Maldives,MDV,2008.0,0
+Maldives,MDV,2009.0,0
+Maldives,MDV,2010.0,0.81
+Maldives,MDV,2011.0,0.92
+Maldives,MDV,2012.0,1.8
+Maldives,MDV,2013.0,1
+Maldives,MDV,2014.0,2
+Maldives,MDV,2015.0,5
+Mali,MLI,1990.0,183
+Mali,MLI,1991.0,184
+Mali,MLI,1992.0,210
+Mali,MLI,1993.0,220
+Mali,MLI,1994.0,217
+Mali,MLI,1995.0,225
+Mali,MLI,1996.0,212
+Mali,MLI,1997.0,229
+Mali,MLI,1998.0,231
+Mali,MLI,1999.0,232
+Mali,MLI,2000.0,245
+Mali,MLI,2001.0,360
+Mali,MLI,2002.0,480
+Mali,MLI,2003.0,630
+Mali,MLI,2004.0,640
+Mali,MLI,2005.0,643
+Mali,MLI,2006.0,650
+Mali,MLI,2007.0,658
+Mali,MLI,2008.0,666
+Mali,MLI,2009.0,851.06
+Mali,MLI,2010.0,695.05
+Mali,MLI,2011.0,727.01
+Mali,MLI,2012.0,783.34
+Mali,MLI,2013.0,978.34
+Mali,MLI,2014.0,720.02
+Mali,MLI,2015.0,745
+Malta,MLT,1990.0,0
+Malta,MLT,1991.0,0
+Malta,MLT,1992.0,0
+Malta,MLT,1993.0,0
+Malta,MLT,1994.0,0
+Malta,MLT,1995.0,0
+Malta,MLT,1996.0,0
+Malta,MLT,1997.0,0
+Malta,MLT,1998.0,0
+Malta,MLT,1999.0,0
+Malta,MLT,2000.0,0
+Malta,MLT,2001.0,0
+Malta,MLT,2002.0,0
+Malta,MLT,2003.0,0
+Malta,MLT,2004.0,0
+Malta,MLT,2005.0,0
+Malta,MLT,2006.0,0
+Malta,MLT,2007.0,0
+Malta,MLT,2008.0,0
+Malta,MLT,2009.0,0
+Malta,MLT,2010.0,1
+Malta,MLT,2011.0,10
+Malta,MLT,2012.0,26
+Malta,MLT,2013.0,35
+Malta,MLT,2014.0,75
+Malta,MLT,2015.0,100
+Marshall Islands,MHL,1990.0,0
+Marshall Islands,MHL,1991.0,0
+Marshall Islands,MHL,1992.0,0
+Marshall Islands,MHL,1993.0,0
+Marshall Islands,MHL,1994.0,0
+Marshall Islands,MHL,1995.0,0
+Marshall Islands,MHL,1996.0,0
+Marshall Islands,MHL,1997.0,0
+Marshall Islands,MHL,1998.0,0
+Marshall Islands,MHL,1999.0,0
+Marshall Islands,MHL,2000.0,0
+Marshall Islands,MHL,2001.0,0
+Marshall Islands,MHL,2002.0,0
+Marshall Islands,MHL,2003.0,0
+Marshall Islands,MHL,2004.0,0
+Marshall Islands,MHL,2005.0,0
+Marshall Islands,MHL,2006.0,0
+Marshall Islands,MHL,2007.0,0
+Marshall Islands,MHL,2008.0,0
+Marshall Islands,MHL,2009.0,0
+Marshall Islands,MHL,2010.0,0
+Marshall Islands,MHL,2011.0,0
+Marshall Islands,MHL,2012.0,0.2
+Marshall Islands,MHL,2013.0,0.23
+Marshall Islands,MHL,2014.0,0.2
+Marshall Islands,MHL,2015.0,0.2
+Martinique,MTQ,1990.0,0
+Martinique,MTQ,1991.0,0
+Martinique,MTQ,1992.0,0
+Martinique,MTQ,1993.0,0
+Martinique,MTQ,1994.0,0
+Martinique,MTQ,1995.0,0
+Martinique,MTQ,1996.0,0
+Martinique,MTQ,1997.0,0.774
+Martinique,MTQ,1998.0,1.605
+Martinique,MTQ,1999.0,22.297
+Martinique,MTQ,2000.0,25.939
+Martinique,MTQ,2001.0,29.581
+Martinique,MTQ,2002.0,33.023
+Martinique,MTQ,2003.0,28.384
+Martinique,MTQ,2004.0,31.122
+Martinique,MTQ,2005.0,34.86
+Martinique,MTQ,2006.0,34.07
+Martinique,MTQ,2007.0,36.616
+Martinique,MTQ,2008.0,40.802
+Martinique,MTQ,2009.0,46.821
+Martinique,MTQ,2010.0,44.565
+Martinique,MTQ,2011.0,44.565
+Martinique,MTQ,2012.0,44.565
+Martinique,MTQ,2013.0,45.665
+Martinique,MTQ,2014.0,45.665
+Martinique,MTQ,2015.0,48
+Mauritania,MRT,1990.0,25
+Mauritania,MRT,1991.0,25
+Mauritania,MRT,1992.0,26
+Mauritania,MRT,1993.0,26
+Mauritania,MRT,1994.0,28
+Mauritania,MRT,1995.0,28
+Mauritania,MRT,1996.0,30
+Mauritania,MRT,1997.0,30
+Mauritania,MRT,1998.0,32
+Mauritania,MRT,1999.0,0
+Mauritania,MRT,2000.0,0
+Mauritania,MRT,2001.0,0
+Mauritania,MRT,2002.0,0
+Mauritania,MRT,2003.0,0
+Mauritania,MRT,2004.0,0
+Mauritania,MRT,2005.0,0
+Mauritania,MRT,2006.0,0
+Mauritania,MRT,2007.0,0
+Mauritania,MRT,2008.0,0
+Mauritania,MRT,2009.0,0
+Mauritania,MRT,2010.0,0
+Mauritania,MRT,2011.0,0
+Mauritania,MRT,2012.0,0
+Mauritania,MRT,2013.0,39
+Mauritania,MRT,2014.0,43
+Mauritania,MRT,2015.0,134
+Mauritius,MUS,1990.0,243
+Mauritius,MUS,1991.0,258
+Mauritius,MUS,1992.0,304
+Mauritius,MUS,1993.0,274
+Mauritius,MUS,1994.0,239
+Mauritius,MUS,1995.0,313
+Mauritius,MUS,1996.0,330
+Mauritius,MUS,1997.0,343
+Mauritius,MUS,1998.0,425
+Mauritius,MUS,1999.0,329
+Mauritius,MUS,2000.0,527
+Mauritius,MUS,2001.0,549
+Mauritius,MUS,2002.0,538
+Mauritius,MUS,2003.0,567
+Mauritius,MUS,2004.0,592
+Mauritius,MUS,2005.0,568
+Mauritius,MUS,2006.0,523
+Mauritius,MUS,2007.0,552
+Mauritius,MUS,2008.0,594
+Mauritius,MUS,2009.0,609
+Mauritius,MUS,2010.0,654
+Mauritius,MUS,2011.0,552
+Mauritius,MUS,2012.0,579
+Mauritius,MUS,2013.0,595
+Mauritius,MUS,2014.0,596
+Mauritius,MUS,2015.0,681
+Mayotte,MYT,1990.0,0
+Mayotte,MYT,1991.0,0
+Mayotte,MYT,1992.0,0
+Mayotte,MYT,1993.0,0
+Mayotte,MYT,1994.0,0
+Mayotte,MYT,1995.0,0
+Mayotte,MYT,1996.0,0
+Mayotte,MYT,1997.0,0
+Mayotte,MYT,1998.0,0
+Mayotte,MYT,1999.0,0
+Mayotte,MYT,2000.0,0
+Mayotte,MYT,2001.0,0
+Mayotte,MYT,2002.0,0
+Mayotte,MYT,2003.0,0
+Mayotte,MYT,2004.0,0
+Mayotte,MYT,2005.0,0
+Mayotte,MYT,2006.0,0
+Mayotte,MYT,2007.0,0
+Mayotte,MYT,2008.0,0.23
+Mayotte,MYT,2009.0,1.3
+Mayotte,MYT,2010.0,6.1
+Mayotte,MYT,2011.0,13.9
+Mayotte,MYT,2012.0,15.4
+Mayotte,MYT,2013.0,16.8
+Mayotte,MYT,2014.0,16.6
+Mayotte,MYT,2015.0,16.8
+Mexico,MEX,1990.0,28604
+Mexico,MEX,1991.0,28785
+Mexico,MEX,1992.0,34087
+Mexico,MEX,1993.0,34456
+Mexico,MEX,1994.0,27987
+Mexico,MEX,1995.0,36007
+Mexico,MEX,1996.0,38894
+Mexico,MEX,1997.0,33427
+Mexico,MEX,1998.0,32061
+Mexico,MEX,1999.0,40040
+Mexico,MEX,2000.0,40732
+Mexico,MEX,2001.0,36604
+Mexico,MEX,2002.0,32855
+Mexico,MEX,2003.0,28643
+Mexico,MEX,2004.0,34327
+Mexico,MEX,2005.0,38110
+Mexico,MEX,2006.0,39532
+Mexico,MEX,2007.0,37378
+Mexico,MEX,2008.0,47246
+Mexico,MEX,2009.0,34667
+Mexico,MEX,2010.0,45747
+Mexico,MEX,2011.0,45076
+Mexico,MEX,2012.0,42361
+Mexico,MEX,2013.0,39543
+Mexico,MEX,2014.0,52893
+Mexico,MEX,2015.0,47897
+"Micronesia, Fed. Sts.",FSM,1990.0,0
+"Micronesia, Fed. Sts.",FSM,1991.0,0
+"Micronesia, Fed. Sts.",FSM,1992.0,0
+"Micronesia, Fed. Sts.",FSM,1993.0,0
+"Micronesia, Fed. Sts.",FSM,1994.0,0
+"Micronesia, Fed. Sts.",FSM,1995.0,0
+"Micronesia, Fed. Sts.",FSM,1996.0,0
+"Micronesia, Fed. Sts.",FSM,1997.0,0
+"Micronesia, Fed. Sts.",FSM,1998.0,0.2
+"Micronesia, Fed. Sts.",FSM,1999.0,0.2
+"Micronesia, Fed. Sts.",FSM,2000.0,0.2
+"Micronesia, Fed. Sts.",FSM,2001.0,0.2
+"Micronesia, Fed. Sts.",FSM,2002.0,0.2
+"Micronesia, Fed. Sts.",FSM,2003.0,0.2
+"Micronesia, Fed. Sts.",FSM,2004.0,0.2
+"Micronesia, Fed. Sts.",FSM,2005.0,0.2
+"Micronesia, Fed. Sts.",FSM,2006.0,0.2
+"Micronesia, Fed. Sts.",FSM,2007.0,0.2
+"Micronesia, Fed. Sts.",FSM,2008.0,0.4
+"Micronesia, Fed. Sts.",FSM,2009.0,0.6
+"Micronesia, Fed. Sts.",FSM,2010.0,0.6
+"Micronesia, Fed. Sts.",FSM,2011.0,0.7
+"Micronesia, Fed. Sts.",FSM,2012.0,0.7
+"Micronesia, Fed. Sts.",FSM,2013.0,1
+"Micronesia, Fed. Sts.",FSM,2014.0,1.05
+"Micronesia, Fed. Sts.",FSM,2015.0,1.1
+Moldova,MDA,1990.0,257
+Moldova,MDA,1991.0,349
+Moldova,MDA,1992.0,259
+Moldova,MDA,1993.0,375
+Moldova,MDA,1994.0,278
+Moldova,MDA,1995.0,324
+Moldova,MDA,1996.0,366
+Moldova,MDA,1997.0,382
+Moldova,MDA,1998.0,377
+Moldova,MDA,1999.0,377
+Moldova,MDA,2000.0,377
+Moldova,MDA,2001.0,377
+Moldova,MDA,2002.0,377
+Moldova,MDA,2003.0,377
+Moldova,MDA,2004.0,377
+Moldova,MDA,2005.0,377
+Moldova,MDA,2006.0,377
+Moldova,MDA,2007.0,377
+Moldova,MDA,2008.0,389
+Moldova,MDA,2009.0,358
+Moldova,MDA,2010.0,407
+Moldova,MDA,2011.0,352
+Moldova,MDA,2012.0,269
+Moldova,MDA,2013.0,313
+Moldova,MDA,2014.0,332
+Moldova,MDA,2015.0,327
+Monaco,MCO,1990.0,0
+Monaco,MCO,1991.0,0
+Monaco,MCO,1992.0,0
+Monaco,MCO,1993.0,0
+Monaco,MCO,1994.0,0
+Monaco,MCO,1995.0,0
+Monaco,MCO,1996.0,0
+Monaco,MCO,1997.0,0
+Monaco,MCO,1998.0,0
+Monaco,MCO,1999.0,0
+Monaco,MCO,2000.0,0
+Monaco,MCO,2001.0,0
+Monaco,MCO,2002.0,0
+Monaco,MCO,2003.0,0
+Monaco,MCO,2004.0,0
+Monaco,MCO,2005.0,0
+Monaco,MCO,2006.0,0
+Monaco,MCO,2007.0,0
+Monaco,MCO,2008.0,0
+Monaco,MCO,2009.0,0
+Monaco,MCO,2010.0,0
+Monaco,MCO,2011.0,0
+Monaco,MCO,2012.0,0
+Monaco,MCO,2013.0,0
+Monaco,MCO,2014.0,0
+Monaco,MCO,2015.0,0
+Mongolia,MNG,1990.0,0
+Mongolia,MNG,1991.0,0
+Mongolia,MNG,1992.0,0
+Mongolia,MNG,1993.0,0
+Mongolia,MNG,1994.0,0
+Mongolia,MNG,1995.0,0
+Mongolia,MNG,1996.0,0
+Mongolia,MNG,1997.0,0
+Mongolia,MNG,1998.0,0
+Mongolia,MNG,1999.0,0
+Mongolia,MNG,2000.0,0
+Mongolia,MNG,2001.0,0
+Mongolia,MNG,2002.0,0
+Mongolia,MNG,2003.0,0
+Mongolia,MNG,2004.0,0
+Mongolia,MNG,2005.0,0
+Mongolia,MNG,2006.0,0
+Mongolia,MNG,2007.0,0
+Mongolia,MNG,2008.0,0
+Mongolia,MNG,2009.0,0
+Mongolia,MNG,2010.0,0
+Mongolia,MNG,2011.0,0
+Mongolia,MNG,2012.0,0
+Mongolia,MNG,2013.0,85
+Mongolia,MNG,2014.0,170
+Mongolia,MNG,2015.0,170
+Montenegro,MNE,1990.0,0
+Montenegro,MNE,1991.0,0
+Montenegro,MNE,1992.0,0
+Montenegro,MNE,1993.0,0
+Montenegro,MNE,1994.0,0
+Montenegro,MNE,1995.0,0
+Montenegro,MNE,1996.0,0
+Montenegro,MNE,1997.0,0
+Montenegro,MNE,1998.0,0
+Montenegro,MNE,1999.0,0
+Montenegro,MNE,2000.0,0
+Montenegro,MNE,2001.0,0
+Montenegro,MNE,2002.0,0
+Montenegro,MNE,2003.0,0
+Montenegro,MNE,2004.0,0
+Montenegro,MNE,2005.0,1866
+Montenegro,MNE,2006.0,1750
+Montenegro,MNE,2007.0,1284
+Montenegro,MNE,2008.0,1539
+Montenegro,MNE,2009.0,2071
+Montenegro,MNE,2010.0,2750
+Montenegro,MNE,2011.0,1204
+Montenegro,MNE,2012.0,1477
+Montenegro,MNE,2013.0,2504
+Montenegro,MNE,2014.0,1752
+Montenegro,MNE,2015.0,1491
+Montserrat,MSR,1990.0,0
+Montserrat,MSR,1991.0,0
+Montserrat,MSR,1992.0,0
+Montserrat,MSR,1993.0,0
+Montserrat,MSR,1994.0,0
+Montserrat,MSR,1995.0,0
+Montserrat,MSR,1996.0,0
+Montserrat,MSR,1997.0,0
+Montserrat,MSR,1998.0,0
+Montserrat,MSR,1999.0,0
+Montserrat,MSR,2000.0,0
+Montserrat,MSR,2001.0,0
+Montserrat,MSR,2002.0,0
+Montserrat,MSR,2003.0,0
+Montserrat,MSR,2004.0,0
+Montserrat,MSR,2005.0,0
+Montserrat,MSR,2006.0,0
+Montserrat,MSR,2007.0,0
+Montserrat,MSR,2008.0,0
+Montserrat,MSR,2009.0,0
+Montserrat,MSR,2010.0,0
+Montserrat,MSR,2011.0,0
+Montserrat,MSR,2012.0,0
+Montserrat,MSR,2013.0,0
+Montserrat,MSR,2014.0,0
+Montserrat,MSR,2015.0,0
+Morocco,MAR,1990.0,1220
+Morocco,MAR,1991.0,1226
+Morocco,MAR,1992.0,964
+Morocco,MAR,1993.0,443
+Morocco,MAR,1994.0,840
+Morocco,MAR,1995.0,611
+Morocco,MAR,1996.0,1957
+Morocco,MAR,1997.0,2083
+Morocco,MAR,1998.0,1777
+Morocco,MAR,1999.0,825
+Morocco,MAR,2000.0,782
+Morocco,MAR,2001.0,1077
+Morocco,MAR,2002.0,1044
+Morocco,MAR,2003.0,1659
+Morocco,MAR,2004.0,1807
+Morocco,MAR,2005.0,1185
+Morocco,MAR,2006.0,1181
+Morocco,MAR,2007.0,1194
+Morocco,MAR,2008.0,1227
+Morocco,MAR,2009.0,2959
+Morocco,MAR,2010.0,4127
+Morocco,MAR,2011.0,2698
+Morocco,MAR,2012.0,2359
+Morocco,MAR,2013.0,4061
+Morocco,MAR,2014.0,3561
+Morocco,MAR,2015.0,4410
+Mozambique,MOZ,1990.0,284
+Mozambique,MOZ,1991.0,323
+Mozambique,MOZ,1992.0,325
+Mozambique,MOZ,1993.0,344
+Mozambique,MOZ,1994.0,366
+Mozambique,MOZ,1995.0,379
+Mozambique,MOZ,1996.0,449
+Mozambique,MOZ,1997.0,977
+Mozambique,MOZ,1998.0,6837
+Mozambique,MOZ,1999.0,7686
+Mozambique,MOZ,2000.0,9652
+Mozambique,MOZ,2001.0,11841
+Mozambique,MOZ,2002.0,12674
+Mozambique,MOZ,2003.0,10870
+Mozambique,MOZ,2004.0,11668
+Mozambique,MOZ,2005.0,13264
+Mozambique,MOZ,2006.0,14717
+Mozambique,MOZ,2007.0,16063
+Mozambique,MOZ,2008.0,15114
+Mozambique,MOZ,2009.0,16950
+Mozambique,MOZ,2010.0,16647
+Mozambique,MOZ,2011.0,16810
+Mozambique,MOZ,2012.0,15145
+Mozambique,MOZ,2013.0,14546
+Mozambique,MOZ,2014.0,16175
+Mozambique,MOZ,2015.0,17207
+Myanmar,MMR,1990.0,1193
+Myanmar,MMR,1991.0,1240
+Myanmar,MMR,1992.0,1518
+Myanmar,MMR,1993.0,1705
+Myanmar,MMR,1994.0,1614
+Myanmar,MMR,1995.0,1624
+Myanmar,MMR,1996.0,1651
+Myanmar,MMR,1997.0,1686
+Myanmar,MMR,1998.0,949
+Myanmar,MMR,1999.0,1038
+Myanmar,MMR,2000.0,1892
+Myanmar,MMR,2001.0,1822
+Myanmar,MMR,2002.0,2111
+Myanmar,MMR,2003.0,2075
+Myanmar,MMR,2004.0,2408
+Myanmar,MMR,2005.0,2997
+Myanmar,MMR,2006.0,3325
+Myanmar,MMR,2007.0,3619
+Myanmar,MMR,2008.0,4071
+Myanmar,MMR,2009.0,5256
+Myanmar,MMR,2010.0,5105
+Myanmar,MMR,2011.0,7518
+Myanmar,MMR,2012.0,7766
+Myanmar,MMR,2013.0,8823
+Myanmar,MMR,2014.0,8829
+Myanmar,MMR,2015.0,9399
+Namibia,NAM,1990.0,0
+Namibia,NAM,1991.0,1322
+Namibia,NAM,1992.0,1149
+Namibia,NAM,1993.0,967
+Namibia,NAM,1994.0,672
+Namibia,NAM,1995.0,1134
+Namibia,NAM,1996.0,854
+Namibia,NAM,1997.0,610
+Namibia,NAM,1998.0,992
+Namibia,NAM,1999.0,1169
+Namibia,NAM,2000.0,1396
+Namibia,NAM,2001.0,1211
+Namibia,NAM,2002.0,1423
+Namibia,NAM,2003.0,1419
+Namibia,NAM,2004.0,1367
+Namibia,NAM,2005.0,1656
+Namibia,NAM,2006.0,1512
+Namibia,NAM,2007.0,1542
+Namibia,NAM,2008.0,1395
+Namibia,NAM,2009.0,1409
+Namibia,NAM,2010.0,1247
+Namibia,NAM,2011.0,1404
+Namibia,NAM,2012.0,1607
+Namibia,NAM,2013.0,1272
+Namibia,NAM,2014.0,1485
+Namibia,NAM,2015.0,1502
+Nepal,NPL,1990.0,877
+Nepal,NPL,1991.0,900
+Nepal,NPL,1992.0,839
+Nepal,NPL,1993.0,871
+Nepal,NPL,1994.0,929
+Nepal,NPL,1995.0,1159
+Nepal,NPL,1996.0,1181
+Nepal,NPL,1997.0,1062
+Nepal,NPL,1998.0,1131
+Nepal,NPL,1999.0,1411
+Nepal,NPL,2000.0,1632
+Nepal,NPL,2001.0,1849
+Nepal,NPL,2002.0,2119
+Nepal,NPL,2003.0,2263
+Nepal,NPL,2004.0,2404
+Nepal,NPL,2005.0,2517
+Nepal,NPL,2006.0,2735
+Nepal,NPL,2007.0,2783
+Nepal,NPL,2008.0,2803
+Nepal,NPL,2009.0,3102
+Nepal,NPL,2010.0,3205
+Nepal,NPL,2011.0,3490
+Nepal,NPL,2012.0,3533
+Nepal,NPL,2013.0,3507
+Nepal,NPL,2014.0,3796
+Nepal,NPL,2015.0,3503
+Netherlands,NLD,1990.0,806
+Netherlands,NLD,1991.0,935
+Netherlands,NLD,1992.0,995
+Netherlands,NLD,1993.0,1107
+Netherlands,NLD,1994.0,1258
+Netherlands,NLD,1995.0,1405
+Netherlands,NLD,1996.0,1816
+Netherlands,NLD,1997.0,2017
+Netherlands,NLD,1998.0,2328
+Netherlands,NLD,1999.0,2507
+Netherlands,NLD,2000.0,2972
+Netherlands,NLD,2001.0,3302
+Netherlands,NLD,2002.0,3974
+Netherlands,NLD,2003.0,3962
+Netherlands,NLD,2004.0,5307
+Netherlands,NLD,2005.0,7445
+Netherlands,NLD,2006.0,8051
+Netherlands,NLD,2007.0,7583
+Netherlands,NLD,2008.0,9531
+Netherlands,NLD,2009.0,10836
+Netherlands,NLD,2010.0,11197
+Netherlands,NLD,2011.0,12322
+Netherlands,NLD,2012.0,12514
+Netherlands,NLD,2013.0,12183
+Netherlands,NLD,2014.0,11708
+Netherlands,NLD,2015.0,13695
+Netherlands Antilles,ANT,1990.0,..
+Netherlands Antilles,ANT,1991.0,..
+Netherlands Antilles,ANT,1992.0,..
+Netherlands Antilles,ANT,1993.0,..
+Netherlands Antilles,ANT,1994.0,..
+Netherlands Antilles,ANT,1995.0,..
+Netherlands Antilles,ANT,1996.0,..
+Netherlands Antilles,ANT,1997.0,..
+Netherlands Antilles,ANT,1998.0,..
+Netherlands Antilles,ANT,1999.0,..
+Netherlands Antilles,ANT,2000.0,..
+Netherlands Antilles,ANT,2001.0,..
+Netherlands Antilles,ANT,2002.0,..
+Netherlands Antilles,ANT,2003.0,..
+Netherlands Antilles,ANT,2004.0,..
+Netherlands Antilles,ANT,2005.0,..
+Netherlands Antilles,ANT,2006.0,..
+Netherlands Antilles,ANT,2007.0,..
+Netherlands Antilles,ANT,2008.0,..
+Netherlands Antilles,ANT,2009.0,..
+Netherlands Antilles,ANT,2010.0,..
+Netherlands Antilles,ANT,2011.0,..
+Netherlands Antilles,ANT,2012.0,..
+Netherlands Antilles,ANT,2013.0,..
+Netherlands Antilles,ANT,2014.0,..
+Netherlands Antilles,ANT,2015.0,..
+New Caledonia,NCL,1990.0,461
+New Caledonia,NCL,1991.0,343
+New Caledonia,NCL,1992.0,272
+New Caledonia,NCL,1993.0,240
+New Caledonia,NCL,1994.0,277
+New Caledonia,NCL,1995.0,229
+New Caledonia,NCL,1996.0,394
+New Caledonia,NCL,1997.0,364
+New Caledonia,NCL,1998.0,397
+New Caledonia,NCL,1999.0,472
+New Caledonia,NCL,2000.0,449
+New Caledonia,NCL,2001.0,374
+New Caledonia,NCL,2002.0,328
+New Caledonia,NCL,2003.0,328
+New Caledonia,NCL,2004.0,337
+New Caledonia,NCL,2005.0,357
+New Caledonia,NCL,2006.0,316
+New Caledonia,NCL,2007.0,427
+New Caledonia,NCL,2008.0,496.6
+New Caledonia,NCL,2009.0,441.1
+New Caledonia,NCL,2010.0,320.6
+New Caledonia,NCL,2011.0,425.95
+New Caledonia,NCL,2012.0,460.11
+New Caledonia,NCL,2013.0,513.87
+New Caledonia,NCL,2014.0,351.54
+New Caledonia,NCL,2015.0,409.23
+New Zealand,NZL,1990.0,25814
+New Zealand,NZL,1991.0,25701
+New Zealand,NZL,1992.0,23877
+New Zealand,NZL,1993.0,26400
+New Zealand,NZL,1994.0,28596
+New Zealand,NZL,1995.0,30239
+New Zealand,NZL,1996.0,28837
+New Zealand,NZL,1997.0,26011
+New Zealand,NZL,1998.0,28452
+New Zealand,NZL,1999.0,26292
+New Zealand,NZL,2000.0,28062
+New Zealand,NZL,2001.0,25150
+New Zealand,NZL,2002.0,28228
+New Zealand,NZL,2003.0,26911
+New Zealand,NZL,2004.0,30854
+New Zealand,NZL,2005.0,27601
+New Zealand,NZL,2006.0,28114
+New Zealand,NZL,2007.0,28691
+New Zealand,NZL,2008.0,28175
+New Zealand,NZL,2009.0,31159
+New Zealand,NZL,2010.0,32861
+New Zealand,NZL,2011.0,33825
+New Zealand,NZL,2012.0,31811
+New Zealand,NZL,2013.0,32130
+New Zealand,NZL,2014.0,34457
+New Zealand,NZL,2015.0,35400
+Nicaragua,NIC,1990.0,894
+Nicaragua,NIC,1991.0,908
+Nicaragua,NIC,1992.0,835
+Nicaragua,NIC,1993.0,989
+Nicaragua,NIC,1994.0,846
+Nicaragua,NIC,1995.0,843
+Nicaragua,NIC,1996.0,867
+Nicaragua,NIC,1997.0,854
+Nicaragua,NIC,1998.0,631
+Nicaragua,NIC,1999.0,593
+Nicaragua,NIC,2000.0,503
+Nicaragua,NIC,2001.0,499
+Nicaragua,NIC,2002.0,644
+Nicaragua,NIC,2003.0,750
+Nicaragua,NIC,2004.0,810
+Nicaragua,NIC,2005.0,1056
+Nicaragua,NIC,2006.0,942
+Nicaragua,NIC,2007.0,930
+Nicaragua,NIC,2008.0,1194
+Nicaragua,NIC,2009.0,1067
+Nicaragua,NIC,2010.0,1354
+Nicaragua,NIC,2011.0,1300
+Nicaragua,NIC,2012.0,1726
+Nicaragua,NIC,2013.0,2179
+Nicaragua,NIC,2014.0,2395
+Nicaragua,NIC,2015.0,2292
+Niger,NER,1990.0,0
+Niger,NER,1991.0,0
+Niger,NER,1992.0,0
+Niger,NER,1993.0,0
+Niger,NER,1994.0,0
+Niger,NER,1995.0,0
+Niger,NER,1996.0,0
+Niger,NER,1997.0,0
+Niger,NER,1998.0,0
+Niger,NER,1999.0,0
+Niger,NER,2000.0,0
+Niger,NER,2001.0,0
+Niger,NER,2002.0,0
+Niger,NER,2003.0,0
+Niger,NER,2004.0,0
+Niger,NER,2005.0,2
+Niger,NER,2006.0,2
+Niger,NER,2007.0,2
+Niger,NER,2008.0,3
+Niger,NER,2009.0,3
+Niger,NER,2010.0,3
+Niger,NER,2011.0,0
+Niger,NER,2012.0,0
+Niger,NER,2013.0,4
+Niger,NER,2014.0,4
+Niger,NER,2015.0,4
+Nigeria,NGA,1990.0,4387
+Nigeria,NGA,1991.0,5931
+Nigeria,NGA,1992.0,6059
+Nigeria,NGA,1993.0,5572
+Nigeria,NGA,1994.0,5562
+Nigeria,NGA,1995.0,5500
+Nigeria,NGA,1996.0,5500
+Nigeria,NGA,1997.0,5593
+Nigeria,NGA,1998.0,5775
+Nigeria,NGA,1999.0,6148
+Nigeria,NGA,2000.0,5628
+Nigeria,NGA,2001.0,5909
+Nigeria,NGA,2002.0,8234
+Nigeria,NGA,2003.0,7448
+Nigeria,NGA,2004.0,8108
+Nigeria,NGA,2005.0,7768
+Nigeria,NGA,2006.0,6263
+Nigeria,NGA,2007.0,6227
+Nigeria,NGA,2008.0,5721
+Nigeria,NGA,2009.0,4529
+Nigeria,NGA,2010.0,6374
+Nigeria,NGA,2011.0,5883
+Nigeria,NGA,2012.0,5659
+Nigeria,NGA,2013.0,5326
+Nigeria,NGA,2014.0,5346
+Nigeria,NGA,2015.0,5718
+Northern Mariana Islands,MNP,1990.0,0
+Northern Mariana Islands,MNP,1991.0,0
+Northern Mariana Islands,MNP,1992.0,0
+Northern Mariana Islands,MNP,1993.0,0
+Northern Mariana Islands,MNP,1994.0,0
+Northern Mariana Islands,MNP,1995.0,0
+Northern Mariana Islands,MNP,1996.0,0
+Northern Mariana Islands,MNP,1997.0,0
+Northern Mariana Islands,MNP,1998.0,0
+Northern Mariana Islands,MNP,1999.0,0
+Northern Mariana Islands,MNP,2000.0,0
+Northern Mariana Islands,MNP,2001.0,0
+Northern Mariana Islands,MNP,2002.0,0
+Northern Mariana Islands,MNP,2003.0,0
+Northern Mariana Islands,MNP,2004.0,0
+Northern Mariana Islands,MNP,2005.0,0
+Northern Mariana Islands,MNP,2006.0,0
+Northern Mariana Islands,MNP,2007.0,0
+Northern Mariana Islands,MNP,2008.0,0
+Northern Mariana Islands,MNP,2009.0,0
+Northern Mariana Islands,MNP,2010.0,0
+Northern Mariana Islands,MNP,2011.0,0
+Northern Mariana Islands,MNP,2012.0,0
+Northern Mariana Islands,MNP,2013.0,0
+Northern Mariana Islands,MNP,2014.0,0
+Northern Mariana Islands,MNP,2015.0,0
+Norway,NOR,1990.0,121358
+Norway,NOR,1991.0,110343
+Norway,NOR,1992.0,116898
+Norway,NOR,1993.0,119483
+Norway,NOR,1994.0,111922
+Norway,NOR,1995.0,121829
+Norway,NOR,1996.0,104174
+Norway,NOR,1997.0,110027
+Norway,NOR,1998.0,115984
+Norway,NOR,1999.0,121750
+Norway,NOR,2000.0,142105
+Norway,NOR,2001.0,120745
+Norway,NOR,2002.0,129697
+Norway,NOR,2003.0,106028
+Norway,NOR,2004.0,109392
+Norway,NOR,2005.0,136520
+Norway,NOR,2006.0,120393
+Norway,NOR,2007.0,134934
+Norway,NOR,2008.0,140354
+Norway,NOR,2009.0,126487
+Norway,NOR,2010.0,117979
+Norway,NOR,2011.0,121940
+Norway,NOR,2012.0,143645
+Norway,NOR,2013.0,130370
+Norway,NOR,2014.0,137915
+Norway,NOR,2015.0,140626
+Oman,OMN,1990.0,0
+Oman,OMN,1991.0,0
+Oman,OMN,1992.0,0
+Oman,OMN,1993.0,0
+Oman,OMN,1994.0,0
+Oman,OMN,1995.0,0
+Oman,OMN,1996.0,0
+Oman,OMN,1997.0,0
+Oman,OMN,1998.0,0
+Oman,OMN,1999.0,0
+Oman,OMN,2000.0,0
+Oman,OMN,2001.0,0
+Oman,OMN,2002.0,0
+Oman,OMN,2003.0,0
+Oman,OMN,2004.0,0
+Oman,OMN,2005.0,0
+Oman,OMN,2006.0,0
+Oman,OMN,2007.0,0
+Oman,OMN,2008.0,0
+Oman,OMN,2009.0,0
+Oman,OMN,2010.0,0
+Oman,OMN,2011.0,0
+Oman,OMN,2012.0,0
+Oman,OMN,2013.0,0
+Oman,OMN,2014.0,0
+Oman,OMN,2015.0,0
+Pakistan,PAK,1990.0,16925
+Pakistan,PAK,1991.0,18303
+Pakistan,PAK,1992.0,21112
+Pakistan,PAK,1993.0,19436
+Pakistan,PAK,1994.0,22858
+Pakistan,PAK,1995.0,23206
+Pakistan,PAK,1996.0,20858
+Pakistan,PAK,1997.0,22060
+Pakistan,PAK,1998.0,22449
+Pakistan,PAK,1999.0,19288
+Pakistan,PAK,2000.0,17194
+Pakistan,PAK,2001.0,18941
+Pakistan,PAK,2002.0,22351
+Pakistan,PAK,2003.0,26944
+Pakistan,PAK,2004.0,25671
+Pakistan,PAK,2005.0,30862
+Pakistan,PAK,2006.0,31953
+Pakistan,PAK,2007.0,28707
+Pakistan,PAK,2008.0,27784
+Pakistan,PAK,2009.0,28093
+Pakistan,PAK,2010.0,31811
+Pakistan,PAK,2011.0,28517
+Pakistan,PAK,2012.0,29857
+Pakistan,PAK,2013.0,32270
+Pakistan,PAK,2014.0,33276
+Pakistan,PAK,2015.0,34844
+Palau,PLW,1990.0,0
+Palau,PLW,1991.0,0
+Palau,PLW,1992.0,0
+Palau,PLW,1993.0,0
+Palau,PLW,1994.0,0
+Palau,PLW,1995.0,0
+Palau,PLW,1996.0,0
+Palau,PLW,1997.0,0
+Palau,PLW,1998.0,0
+Palau,PLW,1999.0,0
+Palau,PLW,2000.0,0
+Palau,PLW,2001.0,0
+Palau,PLW,2002.0,0
+Palau,PLW,2003.0,0
+Palau,PLW,2004.0,0
+Palau,PLW,2005.0,0
+Palau,PLW,2006.0,0
+Palau,PLW,2007.0,0
+Palau,PLW,2008.0,0
+Palau,PLW,2009.0,0
+Palau,PLW,2010.0,0
+Palau,PLW,2011.0,0
+Palau,PLW,2012.0,0
+Palau,PLW,2013.0,0
+Palau,PLW,2014.0,0
+Palau,PLW,2015.0,0
+Panama,PAN,1990.0,2269
+Panama,PAN,1991.0,2076
+Panama,PAN,1992.0,1937
+Panama,PAN,1993.0,2337
+Panama,PAN,1994.0,2419
+Panama,PAN,1995.0,2433
+Panama,PAN,1996.0,3021
+Panama,PAN,1997.0,2924
+Panama,PAN,1998.0,2163
+Panama,PAN,1999.0,3154
+Panama,PAN,2000.0,3442
+Panama,PAN,2001.0,2522
+Panama,PAN,2002.0,3419
+Panama,PAN,2003.0,2844
+Panama,PAN,2004.0,3803
+Panama,PAN,2005.0,3747
+Panama,PAN,2006.0,3604
+Panama,PAN,2007.0,3725
+Panama,PAN,2008.0,3988
+Panama,PAN,2009.0,3920
+Panama,PAN,2010.0,4216
+Panama,PAN,2011.0,4121
+Panama,PAN,2012.0,5414
+Panama,PAN,2013.0,5189
+Panama,PAN,2014.0,5182
+Panama,PAN,2015.0,6726
+Papua New Guinea,PNG,1990.0,460
+Papua New Guinea,PNG,1991.0,460
+Papua New Guinea,PNG,1992.0,460
+Papua New Guinea,PNG,1993.0,460
+Papua New Guinea,PNG,1994.0,804
+Papua New Guinea,PNG,1995.0,871
+Papua New Guinea,PNG,1996.0,943
+Papua New Guinea,PNG,1997.0,710
+Papua New Guinea,PNG,1998.0,869
+Papua New Guinea,PNG,1999.0,1268
+Papua New Guinea,PNG,2000.0,1117
+Papua New Guinea,PNG,2001.0,931
+Papua New Guinea,PNG,2002.0,931
+Papua New Guinea,PNG,2003.0,929
+Papua New Guinea,PNG,2004.0,829
+Papua New Guinea,PNG,2005.0,993
+Papua New Guinea,PNG,2006.0,1090
+Papua New Guinea,PNG,2007.0,1331
+Papua New Guinea,PNG,2008.0,1353
+Papua New Guinea,PNG,2009.0,1366
+Papua New Guinea,PNG,2010.0,1379
+Papua New Guinea,PNG,2011.0,1391
+Papua New Guinea,PNG,2012.0,1405
+Papua New Guinea,PNG,2013.0,1418
+Papua New Guinea,PNG,2014.0,1442
+Papua New Guinea,PNG,2015.0,1442
+Paraguay,PRY,1990.0,27178
+Paraguay,PRY,1991.0,29340
+Paraguay,PRY,1992.0,27130
+Paraguay,PRY,1993.0,31422
+Paraguay,PRY,1994.0,36410
+Paraguay,PRY,1995.0,42118
+Paraguay,PRY,1996.0,44813
+Paraguay,PRY,1997.0,50853
+Paraguay,PRY,1998.0,50872
+Paraguay,PRY,1999.0,51955
+Paraguay,PRY,2000.0,53492
+Paraguay,PRY,2001.0,45317
+Paraguay,PRY,2002.0,48212
+Paraguay,PRY,2003.0,51771
+Paraguay,PRY,2004.0,51931
+Paraguay,PRY,2005.0,51166
+Paraguay,PRY,2006.0,53784
+Paraguay,PRY,2007.0,53725
+Paraguay,PRY,2008.0,55464
+Paraguay,PRY,2009.0,54959
+Paraguay,PRY,2010.0,54065
+Paraguay,PRY,2011.0,57624
+Paraguay,PRY,2012.0,60232
+Paraguay,PRY,2013.0,60378
+Paraguay,PRY,2014.0,55276
+Paraguay,PRY,2015.0,55743
+Peru,PER,1990.0,10605
+Peru,PER,1991.0,11625
+Peru,PER,1992.0,9822
+Peru,PER,1993.0,11908
+Peru,PER,1994.0,12866
+Peru,PER,1995.0,12963
+Peru,PER,1996.0,13460
+Peru,PER,1997.0,13357
+Peru,PER,1998.0,13930
+Peru,PER,1999.0,14674
+Peru,PER,2000.0,16327
+Peru,PER,2001.0,17770
+Peru,PER,2002.0,18227
+Peru,PER,2003.0,18731
+Peru,PER,2004.0,17679
+Peru,PER,2005.0,18428
+Peru,PER,2006.0,20052
+Peru,PER,2007.0,19967
+Peru,PER,2008.0,19501
+Peru,PER,2009.0,19952
+Peru,PER,2010.0,20716
+Peru,PER,2011.0,22263
+Peru,PER,2012.0,22083
+Peru,PER,2013.0,23467
+Peru,PER,2014.0,23946
+Peru,PER,2015.0,25443
+Philippines,PHL,1990.0,11959
+Philippines,PHL,1991.0,10903
+Philippines,PHL,1992.0,10140
+Philippines,PHL,1993.0,10697
+Philippines,PHL,1994.0,12182
+Philippines,PHL,1995.0,12367
+Philippines,PHL,1996.0,13564
+Philippines,PHL,1997.0,13306
+Philippines,PHL,1998.0,13980
+Philippines,PHL,1999.0,18434
+Philippines,PHL,2000.0,19425
+Philippines,PHL,2001.0,17546
+Philippines,PHL,2002.0,17275
+Philippines,PHL,2003.0,17692
+Philippines,PHL,2004.0,18875
+Philippines,PHL,2005.0,18308
+Philippines,PHL,2006.0,20458
+Philippines,PHL,2007.0,18837
+Philippines,PHL,2008.0,20628
+Philippines,PHL,2009.0,20177
+Philippines,PHL,2010.0,17815
+Philippines,PHL,2011.0,19823
+Philippines,PHL,2012.0,20742
+Philippines,PHL,2013.0,19873
+Philippines,PHL,2014.0,19777
+Philippines,PHL,2015.0,20944
+Poland,POL,1990.0,1472
+Poland,POL,1991.0,1508
+Poland,POL,1992.0,1618
+Poland,POL,1993.0,1549
+Poland,POL,1994.0,1784
+Poland,POL,1995.0,1955
+Poland,POL,1996.0,2064
+Poland,POL,1997.0,2132
+Poland,POL,1998.0,2533
+Poland,POL,1999.0,2352
+Poland,POL,2000.0,2332
+Poland,POL,2001.0,2783
+Poland,POL,2002.0,2767
+Poland,POL,2003.0,2250
+Poland,POL,2004.0,3207
+Poland,POL,2005.0,3847
+Poland,POL,2006.0,4291
+Poland,POL,2007.0,5430
+Poland,POL,2008.0,6608
+Poland,POL,2009.0,8678
+Poland,POL,2010.0,10888
+Poland,POL,2011.0,13137
+Poland,POL,2012.0,16879
+Poland,POL,2013.0,17067
+Poland,POL,2014.0,19843
+Poland,POL,2015.0,22683
+Portugal,PRT,1990.0,9839
+Portugal,PRT,1991.0,9847
+Portugal,PRT,1992.0,5501
+Portugal,PRT,1993.0,9438
+Portugal,PRT,1994.0,11639
+Portugal,PRT,1995.0,9380
+Portugal,PRT,1996.0,15784
+Portugal,PRT,1997.0,14226
+Portugal,PRT,1998.0,14147
+Portugal,PRT,1999.0,8622
+Portugal,PRT,2000.0,12868
+Portugal,PRT,2001.0,15741
+Portugal,PRT,2002.0,9733
+Portugal,PRT,2003.0,17703
+Portugal,PRT,2004.0,12314
+Portugal,PRT,2005.0,8260
+Portugal,PRT,2006.0,15722
+Portugal,PRT,2007.0,16218
+Portugal,PRT,2008.0,14642
+Portugal,PRT,2009.0,18291
+Portugal,PRT,2010.0,28353
+Portugal,PRT,2011.0,24115
+Portugal,PRT,2012.0,19370
+Portugal,PRT,2013.0,29471
+Portugal,PRT,2014.0,31560
+Portugal,PRT,2015.0,24372
+Puerto Rico,PRI,1990.0,280
+Puerto Rico,PRI,1991.0,290
+Puerto Rico,PRI,1992.0,300
+Puerto Rico,PRI,1993.0,139
+Puerto Rico,PRI,1994.0,46
+Puerto Rico,PRI,1995.0,100
+Puerto Rico,PRI,1996.0,141
+Puerto Rico,PRI,1997.0,93
+Puerto Rico,PRI,1998.0,100
+Puerto Rico,PRI,1999.0,160
+Puerto Rico,PRI,2000.0,160
+Puerto Rico,PRI,2001.0,210
+Puerto Rico,PRI,2002.0,220
+Puerto Rico,PRI,2003.0,260
+Puerto Rico,PRI,2004.0,138
+Puerto Rico,PRI,2005.0,138
+Puerto Rico,PRI,2006.0,142
+Puerto Rico,PRI,2007.0,164
+Puerto Rico,PRI,2008.0,156
+Puerto Rico,PRI,2009.0,170.5
+Puerto Rico,PRI,2010.0,134.8
+Puerto Rico,PRI,2011.0,151.5
+Puerto Rico,PRI,2012.0,157.8
+Puerto Rico,PRI,2013.0,303.9
+Puerto Rico,PRI,2014.0,347
+Puerto Rico,PRI,2015.0,388.8
+Qatar,QAT,1990.0,0
+Qatar,QAT,1991.0,0
+Qatar,QAT,1992.0,0
+Qatar,QAT,1993.0,0
+Qatar,QAT,1994.0,0
+Qatar,QAT,1995.0,0
+Qatar,QAT,1996.0,0
+Qatar,QAT,1997.0,0
+Qatar,QAT,1998.0,0
+Qatar,QAT,1999.0,0
+Qatar,QAT,2000.0,0
+Qatar,QAT,2001.0,0
+Qatar,QAT,2002.0,0
+Qatar,QAT,2003.0,0
+Qatar,QAT,2004.0,0
+Qatar,QAT,2005.0,0
+Qatar,QAT,2006.0,0
+Qatar,QAT,2007.0,0
+Qatar,QAT,2008.0,0
+Qatar,QAT,2009.0,0
+Qatar,QAT,2010.0,0
+Qatar,QAT,2011.0,0
+Qatar,QAT,2012.0,0
+Qatar,QAT,2013.0,0
+Qatar,QAT,2014.0,0
+Qatar,QAT,2015.0,0
+Reunion,REU,1990.0,549
+Reunion,REU,1991.0,461
+Reunion,REU,1992.0,495
+Reunion,REU,1993.0,481
+Reunion,REU,1994.0,567
+Reunion,REU,1995.0,601
+Reunion,REU,1996.0,625
+Reunion,REU,1997.0,544
+Reunion,REU,1998.0,557
+Reunion,REU,1999.0,559
+Reunion,REU,2000.0,560
+Reunion,REU,2001.0,500
+Reunion,REU,2002.0,594
+Reunion,REU,2003.0,630
+Reunion,REU,2004.0,577.08
+Reunion,REU,2005.0,511
+Reunion,REU,2006.0,581.7
+Reunion,REU,2007.0,672.8
+Reunion,REU,2008.0,657.8
+Reunion,REU,2009.0,566.1
+Reunion,REU,2010.0,634.5
+Reunion,REU,2011.0,555.1
+Reunion,REU,2012.0,697
+Reunion,REU,2013.0,796.3
+Reunion,REU,2014.0,677.4
+Reunion,REU,2015.0,756.3
+Romania,ROU,1990.0,11411
+Romania,ROU,1991.0,14588
+Romania,ROU,1992.0,11702
+Romania,ROU,1993.0,12769
+Romania,ROU,1994.0,13046
+Romania,ROU,1995.0,16693
+Romania,ROU,1996.0,15755
+Romania,ROU,1997.0,17520
+Romania,ROU,1998.0,18890
+Romania,ROU,1999.0,18290
+Romania,ROU,2000.0,14778
+Romania,ROU,2001.0,14923
+Romania,ROU,2002.0,16049
+Romania,ROU,2003.0,13262
+Romania,ROU,2004.0,16517
+Romania,ROU,2005.0,20213
+Romania,ROU,2006.0,18360
+Romania,ROU,2007.0,16004
+Romania,ROU,2008.0,17224
+Romania,ROU,2009.0,15553
+Romania,ROU,2010.0,20300
+Romania,ROU,2011.0,16315
+Romania,ROU,2012.0,14926
+Romania,ROU,2013.0,20149
+Romania,ROU,2014.0,27128
+Romania,ROU,2015.0,26202
+Russian Federation,RUS,1990.0,165982
+Russian Federation,RUS,1991.0,167639
+Russian Federation,RUS,1992.0,171906
+Russian Federation,RUS,1993.0,173459
+Russian Federation,RUS,1994.0,175039
+Russian Federation,RUS,1995.0,175470
+Russian Federation,RUS,1996.0,153385
+Russian Federation,RUS,1997.0,156641
+Russian Federation,RUS,1998.0,158555
+Russian Federation,RUS,1999.0,160552
+Russian Federation,RUS,2000.0,164159
+Russian Federation,RUS,2001.0,174016
+Russian Federation,RUS,2002.0,162396
+Russian Federation,RUS,2003.0,156137
+Russian Federation,RUS,2004.0,176275
+Russian Federation,RUS,2005.0,173135
+Russian Federation,RUS,2006.0,173865
+Russian Federation,RUS,2007.0,177554
+Russian Federation,RUS,2008.0,165257
+Russian Federation,RUS,2009.0,174684
+Russian Federation,RUS,2010.0,167028
+Russian Federation,RUS,2011.0,166406
+Russian Federation,RUS,2012.0,166425
+Russian Federation,RUS,2013.0,181637
+Russian Federation,RUS,2014.0,176010
+Russian Federation,RUS,2015.0,168963
+Rwanda,RWA,1990.0,167
+Rwanda,RWA,1991.0,165
+Rwanda,RWA,1992.0,172
+Rwanda,RWA,1993.0,155
+Rwanda,RWA,1994.0,158
+Rwanda,RWA,1995.0,160
+Rwanda,RWA,1996.0,150
+Rwanda,RWA,1997.0,140
+Rwanda,RWA,1998.0,126
+Rwanda,RWA,1999.0,128
+Rwanda,RWA,2000.0,109
+Rwanda,RWA,2001.0,89
+Rwanda,RWA,2002.0,98
+Rwanda,RWA,2003.0,117.6
+Rwanda,RWA,2004.0,84.3
+Rwanda,RWA,2005.0,65.7
+Rwanda,RWA,2006.0,38.4
+Rwanda,RWA,2007.0,42.52
+Rwanda,RWA,2008.0,72.4
+Rwanda,RWA,2009.0,99.3
+Rwanda,RWA,2010.0,112.3
+Rwanda,RWA,2011.0,149.6
+Rwanda,RWA,2012.0,181.81
+Rwanda,RWA,2013.0,148.24
+Rwanda,RWA,2014.0,209.73
+Rwanda,RWA,2015.0,297.95
+Saint Pierre et Miquelon,SPM,1990.0,0
+Saint Pierre et Miquelon,SPM,1991.0,0
+Saint Pierre et Miquelon,SPM,1992.0,0
+Saint Pierre et Miquelon,SPM,1993.0,0
+Saint Pierre et Miquelon,SPM,1994.0,0
+Saint Pierre et Miquelon,SPM,1995.0,0
+Saint Pierre et Miquelon,SPM,1996.0,0
+Saint Pierre et Miquelon,SPM,1997.0,0
+Saint Pierre et Miquelon,SPM,1998.0,0
+Saint Pierre et Miquelon,SPM,1999.0,0
+Saint Pierre et Miquelon,SPM,2000.0,0.8
+Saint Pierre et Miquelon,SPM,2001.0,0.8
+Saint Pierre et Miquelon,SPM,2002.0,0.8
+Saint Pierre et Miquelon,SPM,2003.0,0.8
+Saint Pierre et Miquelon,SPM,2004.0,0.8
+Saint Pierre et Miquelon,SPM,2005.0,0.8
+Saint Pierre et Miquelon,SPM,2006.0,0.8
+Saint Pierre et Miquelon,SPM,2007.0,0.8
+Saint Pierre et Miquelon,SPM,2008.0,0.85
+Saint Pierre et Miquelon,SPM,2009.0,0.81
+Saint Pierre et Miquelon,SPM,2010.0,1.05
+Saint Pierre et Miquelon,SPM,2011.0,1.13
+Saint Pierre et Miquelon,SPM,2012.0,0.87
+Saint Pierre et Miquelon,SPM,2013.0,0.87
+Saint Pierre et Miquelon,SPM,2014.0,0.87
+Saint Pierre et Miquelon,SPM,2015.0,0.87
+Samoa,WSM,1990.0,20
+Samoa,WSM,1991.0,20
+Samoa,WSM,1992.0,25
+Samoa,WSM,1993.0,25
+Samoa,WSM,1994.0,25
+Samoa,WSM,1995.0,25
+Samoa,WSM,1996.0,25
+Samoa,WSM,1997.0,30
+Samoa,WSM,1998.0,30
+Samoa,WSM,1999.0,30
+Samoa,WSM,2000.0,46.2
+Samoa,WSM,2001.0,48.9
+Samoa,WSM,2002.0,63.6
+Samoa,WSM,2003.0,55
+Samoa,WSM,2004.0,50
+Samoa,WSM,2005.0,51
+Samoa,WSM,2006.0,52.5
+Samoa,WSM,2007.0,59
+Samoa,WSM,2008.0,49
+Samoa,WSM,2009.0,38.7
+Samoa,WSM,2010.0,47.7
+Samoa,WSM,2011.0,35.2
+Samoa,WSM,2012.0,36.8
+Samoa,WSM,2013.0,44.21
+Samoa,WSM,2014.0,43.9
+Samoa,WSM,2015.0,40.7
+San Marino,SMR,1990.0,0
+San Marino,SMR,1991.0,0
+San Marino,SMR,1992.0,0
+San Marino,SMR,1993.0,0
+San Marino,SMR,1994.0,0
+San Marino,SMR,1995.0,0
+San Marino,SMR,1996.0,0
+San Marino,SMR,1997.0,0
+San Marino,SMR,1998.0,0
+San Marino,SMR,1999.0,0
+San Marino,SMR,2000.0,0
+San Marino,SMR,2001.0,0
+San Marino,SMR,2002.0,0
+San Marino,SMR,2003.0,0
+San Marino,SMR,2004.0,0
+San Marino,SMR,2005.0,0
+San Marino,SMR,2006.0,0
+San Marino,SMR,2007.0,0
+San Marino,SMR,2008.0,0
+San Marino,SMR,2009.0,0
+San Marino,SMR,2010.0,0
+San Marino,SMR,2011.0,0
+San Marino,SMR,2012.0,0
+San Marino,SMR,2013.0,0
+San Marino,SMR,2014.0,0
+San Marino,SMR,2015.0,0
+Sao Tome and Principe,STP,1990.0,8
+Sao Tome and Principe,STP,1991.0,8
+Sao Tome and Principe,STP,1992.0,7
+Sao Tome and Principe,STP,1993.0,7
+Sao Tome and Principe,STP,1994.0,6
+Sao Tome and Principe,STP,1995.0,6
+Sao Tome and Principe,STP,1996.0,6
+Sao Tome and Principe,STP,1997.0,6
+Sao Tome and Principe,STP,1998.0,6
+Sao Tome and Principe,STP,1999.0,8
+Sao Tome and Principe,STP,2000.0,6.8
+Sao Tome and Principe,STP,2001.0,4.8
+Sao Tome and Principe,STP,2002.0,6.1
+Sao Tome and Principe,STP,2003.0,7.9
+Sao Tome and Principe,STP,2004.0,6.2
+Sao Tome and Principe,STP,2005.0,4.2
+Sao Tome and Principe,STP,2006.0,8
+Sao Tome and Principe,STP,2007.0,10
+Sao Tome and Principe,STP,2008.0,8
+Sao Tome and Principe,STP,2009.0,7
+Sao Tome and Principe,STP,2010.0,4.8
+Sao Tome and Principe,STP,2011.0,6
+Sao Tome and Principe,STP,2012.0,6.4
+Sao Tome and Principe,STP,2013.0,5.9
+Sao Tome and Principe,STP,2014.0,7
+Sao Tome and Principe,STP,2015.0,7.3
+Saudi Arabia,SAU,1990.0,0
+Saudi Arabia,SAU,1991.0,0
+Saudi Arabia,SAU,1992.0,0
+Saudi Arabia,SAU,1993.0,0
+Saudi Arabia,SAU,1994.0,0
+Saudi Arabia,SAU,1995.0,0
+Saudi Arabia,SAU,1996.0,0
+Saudi Arabia,SAU,1997.0,0
+Saudi Arabia,SAU,1998.0,0
+Saudi Arabia,SAU,1999.0,0
+Saudi Arabia,SAU,2000.0,0
+Saudi Arabia,SAU,2001.0,0
+Saudi Arabia,SAU,2002.0,0
+Saudi Arabia,SAU,2003.0,0
+Saudi Arabia,SAU,2004.0,0
+Saudi Arabia,SAU,2005.0,0
+Saudi Arabia,SAU,2006.0,0
+Saudi Arabia,SAU,2007.0,0
+Saudi Arabia,SAU,2008.0,0
+Saudi Arabia,SAU,2009.0,0
+Saudi Arabia,SAU,2010.0,0
+Saudi Arabia,SAU,2011.0,0
+Saudi Arabia,SAU,2012.0,1
+Saudi Arabia,SAU,2013.0,1
+Saudi Arabia,SAU,2014.0,1
+Saudi Arabia,SAU,2015.0,1
+Senegal,SEN,1990.0,44
+Senegal,SEN,1991.0,44
+Senegal,SEN,1992.0,45
+Senegal,SEN,1993.0,45
+Senegal,SEN,1994.0,45
+Senegal,SEN,1995.0,46
+Senegal,SEN,1996.0,47
+Senegal,SEN,1997.0,48
+Senegal,SEN,1998.0,49
+Senegal,SEN,1999.0,50
+Senegal,SEN,2000.0,53
+Senegal,SEN,2001.0,62
+Senegal,SEN,2002.0,264
+Senegal,SEN,2003.0,394
+Senegal,SEN,2004.0,338
+Senegal,SEN,2005.0,322
+Senegal,SEN,2006.0,289
+Senegal,SEN,2007.0,221
+Senegal,SEN,2008.0,272
+Senegal,SEN,2009.0,292
+Senegal,SEN,2010.0,330
+Senegal,SEN,2011.0,337
+Senegal,SEN,2012.0,339
+Senegal,SEN,2013.0,371
+Senegal,SEN,2014.0,387
+Senegal,SEN,2015.0,412
+Serbia,SRB,1990.0,9471
+Serbia,SRB,1991.0,11405
+Serbia,SRB,1992.0,11343
+Serbia,SRB,1993.0,10500
+Serbia,SRB,1994.0,10500
+Serbia,SRB,1995.0,12193
+Serbia,SRB,1996.0,14410
+Serbia,SRB,1997.0,12764
+Serbia,SRB,1998.0,12892
+Serbia,SRB,1999.0,13720
+Serbia,SRB,2000.0,12000
+Serbia,SRB,2001.0,12450
+Serbia,SRB,2002.0,11750
+Serbia,SRB,2003.0,9851
+Serbia,SRB,2004.0,11121
+Serbia,SRB,2005.0,12032
+Serbia,SRB,2006.0,10965
+Serbia,SRB,2007.0,10037
+Serbia,SRB,2008.0,9564
+Serbia,SRB,2009.0,10541
+Serbia,SRB,2010.0,11891
+Serbia,SRB,2011.0,8667
+Serbia,SRB,2012.0,9292
+Serbia,SRB,2013.0,10224
+Serbia,SRB,2014.0,11032
+Serbia,SRB,2015.0,10115
+Seychelles,SYC,1990.0,0
+Seychelles,SYC,1991.0,0
+Seychelles,SYC,1992.0,0
+Seychelles,SYC,1993.0,0
+Seychelles,SYC,1994.0,0
+Seychelles,SYC,1995.0,0
+Seychelles,SYC,1996.0,0
+Seychelles,SYC,1997.0,0
+Seychelles,SYC,1998.0,0
+Seychelles,SYC,1999.0,0
+Seychelles,SYC,2000.0,0
+Seychelles,SYC,2001.0,0
+Seychelles,SYC,2002.0,0
+Seychelles,SYC,2003.0,0
+Seychelles,SYC,2004.0,0
+Seychelles,SYC,2005.0,0
+Seychelles,SYC,2006.0,0
+Seychelles,SYC,2007.0,0
+Seychelles,SYC,2008.0,0
+Seychelles,SYC,2009.0,0
+Seychelles,SYC,2010.0,0
+Seychelles,SYC,2011.0,0
+Seychelles,SYC,2012.0,0
+Seychelles,SYC,2013.0,6.95
+Seychelles,SYC,2014.0,7.8
+Seychelles,SYC,2015.0,9
+Sierra Leone,SLE,1990.0,0
+Sierra Leone,SLE,1991.0,0
+Sierra Leone,SLE,1992.0,0
+Sierra Leone,SLE,1993.0,0
+Sierra Leone,SLE,1994.0,0
+Sierra Leone,SLE,1995.0,0
+Sierra Leone,SLE,1996.0,0
+Sierra Leone,SLE,1997.0,0
+Sierra Leone,SLE,1998.0,0
+Sierra Leone,SLE,1999.0,0
+Sierra Leone,SLE,2000.0,15.7
+Sierra Leone,SLE,2001.0,15.2
+Sierra Leone,SLE,2002.0,16.1
+Sierra Leone,SLE,2003.0,16
+Sierra Leone,SLE,2004.0,16.9
+Sierra Leone,SLE,2005.0,18.8
+Sierra Leone,SLE,2006.0,4.2
+Sierra Leone,SLE,2007.0,18
+Sierra Leone,SLE,2008.0,95.776
+Sierra Leone,SLE,2009.0,87.977
+Sierra Leone,SLE,2010.0,149.1
+Sierra Leone,SLE,2011.0,153.47
+Sierra Leone,SLE,2012.0,118.1
+Sierra Leone,SLE,2013.0,105.39
+Sierra Leone,SLE,2014.0,118.1
+Sierra Leone,SLE,2015.0,125
+Singapore,SGP,1990.0,85
+Singapore,SGP,1991.0,245
+Singapore,SGP,1992.0,245
+Singapore,SGP,1993.0,245
+Singapore,SGP,1994.0,245
+Singapore,SGP,1995.0,245
+Singapore,SGP,1996.0,245
+Singapore,SGP,1997.0,245
+Singapore,SGP,1998.0,245
+Singapore,SGP,1999.0,245
+Singapore,SGP,2000.0,245
+Singapore,SGP,2001.0,473
+Singapore,SGP,2002.0,473
+Singapore,SGP,2003.0,495
+Singapore,SGP,2004.0,479
+Singapore,SGP,2005.0,478
+Singapore,SGP,2006.0,477
+Singapore,SGP,2007.0,487
+Singapore,SGP,2008.0,525
+Singapore,SGP,2009.0,535
+Singapore,SGP,2010.0,592
+Singapore,SGP,2011.0,611
+Singapore,SGP,2012.0,638
+Singapore,SGP,2013.0,742
+Singapore,SGP,2014.0,821
+Singapore,SGP,2015.0,918
+Sint Maarten (Dutch part),SXM,1990.0,0
+Sint Maarten (Dutch part),SXM,1991.0,0
+Sint Maarten (Dutch part),SXM,1992.0,0
+Sint Maarten (Dutch part),SXM,1993.0,0
+Sint Maarten (Dutch part),SXM,1994.0,0
+Sint Maarten (Dutch part),SXM,1995.0,0
+Sint Maarten (Dutch part),SXM,1996.0,0
+Sint Maarten (Dutch part),SXM,1997.0,0
+Sint Maarten (Dutch part),SXM,1998.0,0
+Sint Maarten (Dutch part),SXM,1999.0,0
+Sint Maarten (Dutch part),SXM,2000.0,0
+Sint Maarten (Dutch part),SXM,2001.0,0
+Sint Maarten (Dutch part),SXM,2002.0,0
+Sint Maarten (Dutch part),SXM,2003.0,0
+Sint Maarten (Dutch part),SXM,2004.0,0
+Sint Maarten (Dutch part),SXM,2005.0,0
+Sint Maarten (Dutch part),SXM,2006.0,0
+Sint Maarten (Dutch part),SXM,2007.0,0
+Sint Maarten (Dutch part),SXM,2008.0,0
+Sint Maarten (Dutch part),SXM,2009.0,0
+Sint Maarten (Dutch part),SXM,2010.0,0
+Sint Maarten (Dutch part),SXM,2011.0,0
+Sint Maarten (Dutch part),SXM,2012.0,0
+Sint Maarten (Dutch part),SXM,2013.0,0
+Sint Maarten (Dutch part),SXM,2014.0,0
+Sint Maarten (Dutch part),SXM,2015.0,0
+Slovak Republic,SVK,1990.0,1880
+Slovak Republic,SVK,1991.0,1408
+Slovak Republic,SVK,1992.0,1937
+Slovak Republic,SVK,1993.0,3467
+Slovak Republic,SVK,1994.0,4355
+Slovak Republic,SVK,1995.0,4880
+Slovak Republic,SVK,1996.0,4227
+Slovak Republic,SVK,1997.0,4064
+Slovak Republic,SVK,1998.0,4267
+Slovak Republic,SVK,1999.0,4474
+Slovak Republic,SVK,2000.0,4615
+Slovak Republic,SVK,2001.0,5081
+Slovak Republic,SVK,2002.0,5420
+Slovak Republic,SVK,2003.0,3581
+Slovak Republic,SVK,2004.0,4126
+Slovak Republic,SVK,2005.0,4676
+Slovak Republic,SVK,2006.0,4803
+Slovak Republic,SVK,2007.0,4934
+Slovak Republic,SVK,2008.0,4563
+Slovak Republic,SVK,2009.0,4911
+Slovak Republic,SVK,2010.0,5940
+Slovak Republic,SVK,2011.0,4999
+Slovak Republic,SVK,2012.0,5474
+Slovak Republic,SVK,2013.0,6353
+Slovak Republic,SVK,2014.0,6229
+Slovak Republic,SVK,2015.0,6040
+Slovenia,SVN,1990.0,2950
+Slovenia,SVN,1991.0,3608
+Slovenia,SVN,1992.0,3423
+Slovenia,SVN,1993.0,3035
+Slovenia,SVN,1994.0,3399
+Slovenia,SVN,1995.0,3252
+Slovenia,SVN,1996.0,3673
+Slovenia,SVN,1997.0,3092
+Slovenia,SVN,1998.0,3449
+Slovenia,SVN,1999.0,3772
+Slovenia,SVN,2000.0,3904
+Slovenia,SVN,2001.0,3868
+Slovenia,SVN,2002.0,3414
+Slovenia,SVN,2003.0,3079
+Slovenia,SVN,2004.0,4215
+Slovenia,SVN,2005.0,3575
+Slovenia,SVN,2006.0,3703
+Slovenia,SVN,2007.0,3379
+Slovenia,SVN,2008.0,4308
+Slovenia,SVN,2009.0,4907
+Slovenia,SVN,2010.0,4749
+Slovenia,SVN,2011.0,3880
+Slovenia,SVN,2012.0,4329
+Slovenia,SVN,2013.0,5110
+Slovenia,SVN,2014.0,6611
+Slovenia,SVN,2015.0,4355
+Solomon Islands,SLB,1990.0,0
+Solomon Islands,SLB,1991.0,0
+Solomon Islands,SLB,1992.0,0
+Solomon Islands,SLB,1993.0,0
+Solomon Islands,SLB,1994.0,0
+Solomon Islands,SLB,1995.0,0
+Solomon Islands,SLB,1996.0,0
+Solomon Islands,SLB,1997.0,0
+Solomon Islands,SLB,1998.0,0
+Solomon Islands,SLB,1999.0,0
+Solomon Islands,SLB,2000.0,0
+Solomon Islands,SLB,2001.0,0
+Solomon Islands,SLB,2002.0,0
+Solomon Islands,SLB,2003.0,0
+Solomon Islands,SLB,2004.0,0
+Solomon Islands,SLB,2005.0,0
+Solomon Islands,SLB,2006.0,0
+Solomon Islands,SLB,2007.0,0
+Solomon Islands,SLB,2008.0,0
+Solomon Islands,SLB,2009.0,0
+Solomon Islands,SLB,2010.0,0
+Solomon Islands,SLB,2011.0,0
+Solomon Islands,SLB,2012.0,0
+Solomon Islands,SLB,2013.0,0
+Solomon Islands,SLB,2014.0,2.19
+Solomon Islands,SLB,2015.0,2.19
+Somalia,SOM,1990.0,0
+Somalia,SOM,1991.0,0
+Somalia,SOM,1992.0,0
+Somalia,SOM,1993.0,0
+Somalia,SOM,1994.0,0
+Somalia,SOM,1995.0,0
+Somalia,SOM,1996.0,0
+Somalia,SOM,1997.0,0
+Somalia,SOM,1998.0,0
+Somalia,SOM,1999.0,0
+Somalia,SOM,2000.0,0
+Somalia,SOM,2001.0,0
+Somalia,SOM,2002.0,0
+Somalia,SOM,2003.0,0
+Somalia,SOM,2004.0,0
+Somalia,SOM,2005.0,0
+Somalia,SOM,2006.0,0
+Somalia,SOM,2007.0,0
+Somalia,SOM,2008.0,0
+Somalia,SOM,2009.0,0
+Somalia,SOM,2010.0,0
+Somalia,SOM,2011.0,0
+Somalia,SOM,2012.0,0
+Somalia,SOM,2013.0,0
+Somalia,SOM,2014.0,0
+Somalia,SOM,2015.0,0
+South Africa,ZAF,1990.0,1010
+South Africa,ZAF,1991.0,1980
+South Africa,ZAF,1992.0,752
+South Africa,ZAF,1993.0,146
+South Africa,ZAF,1994.0,1074
+South Africa,ZAF,1995.0,529
+South Africa,ZAF,1996.0,1379
+South Africa,ZAF,1997.0,2238
+South Africa,ZAF,1998.0,1826
+South Africa,ZAF,1999.0,923
+South Africa,ZAF,2000.0,1408
+South Africa,ZAF,2001.0,2292
+South Africa,ZAF,2002.0,2642
+South Africa,ZAF,2003.0,966
+South Africa,ZAF,2004.0,1224
+South Africa,ZAF,2005.0,1610
+South Africa,ZAF,2006.0,3180
+South Africa,ZAF,2007.0,1154
+South Africa,ZAF,2008.0,1502
+South Africa,ZAF,2009.0,1712
+South Africa,ZAF,2010.0,2434
+South Africa,ZAF,2011.0,2384
+South Africa,ZAF,2012.0,1537
+South Africa,ZAF,2013.0,1542
+South Africa,ZAF,2014.0,3226
+South Africa,ZAF,2015.0,5564
+South Sudan,SSD,1990.0,0
+South Sudan,SSD,1991.0,0
+South Sudan,SSD,1992.0,0
+South Sudan,SSD,1993.0,0
+South Sudan,SSD,1994.0,0
+South Sudan,SSD,1995.0,0
+South Sudan,SSD,1996.0,0
+South Sudan,SSD,1997.0,0
+South Sudan,SSD,1998.0,0
+South Sudan,SSD,1999.0,0
+South Sudan,SSD,2000.0,0
+South Sudan,SSD,2001.0,0
+South Sudan,SSD,2002.0,0
+South Sudan,SSD,2003.0,0
+South Sudan,SSD,2004.0,0
+South Sudan,SSD,2005.0,0
+South Sudan,SSD,2006.0,0
+South Sudan,SSD,2007.0,0
+South Sudan,SSD,2008.0,0
+South Sudan,SSD,2009.0,0
+South Sudan,SSD,2010.0,0
+South Sudan,SSD,2011.0,0
+South Sudan,SSD,2012.0,2
+South Sudan,SSD,2013.0,2
+South Sudan,SSD,2014.0,2
+South Sudan,SSD,2015.0,2
+Spain,ESP,1990.0,26032
+Spain,ESP,1991.0,27809
+Spain,ESP,1992.0,19602
+Spain,ESP,1993.0,25124
+Spain,ESP,1994.0,29060
+Spain,ESP,1995.0,24376
+Spain,ESP,1996.0,41245
+Spain,ESP,1997.0,36971
+Spain,ESP,1998.0,36887
+Spain,ESP,1999.0,27308
+Spain,ESP,2000.0,34494
+Spain,ESP,2001.0,49302
+Spain,ESP,2002.0,33182
+Spain,ESP,2003.0,55783
+Spain,ESP,2004.0,50170
+Spain,ESP,2005.0,42263
+Spain,ESP,2006.0,52149
+Spain,ESP,2007.0,58283
+Spain,ESP,2008.0,62143
+Spain,ESP,2009.0,74080
+Spain,ESP,2010.0,97776
+Spain,ESP,2011.0,87523
+Spain,ESP,2012.0,86962
+Spain,ESP,2013.0,111406
+Spain,ESP,2014.0,110269
+Spain,ESP,2015.0,97088
+Sri Lanka,LKA,1990.0,3145
+Sri Lanka,LKA,1991.0,3116
+Sri Lanka,LKA,1992.0,2900
+Sri Lanka,LKA,1993.0,3796
+Sri Lanka,LKA,1994.0,4089
+Sri Lanka,LKA,1995.0,4452
+Sri Lanka,LKA,1996.0,3252
+Sri Lanka,LKA,1997.0,3447
+Sri Lanka,LKA,1998.0,3915
+Sri Lanka,LKA,1999.0,4173
+Sri Lanka,LKA,2000.0,3208
+Sri Lanka,LKA,2001.0,3120
+Sri Lanka,LKA,2002.0,2706
+Sri Lanka,LKA,2003.0,3310
+Sri Lanka,LKA,2004.0,2976
+Sri Lanka,LKA,2005.0,3471
+Sri Lanka,LKA,2006.0,4655
+Sri Lanka,LKA,2007.0,3967
+Sri Lanka,LKA,2008.0,4156
+Sri Lanka,LKA,2009.0,3924
+Sri Lanka,LKA,2010.0,5737
+Sri Lanka,LKA,2011.0,4762
+Sri Lanka,LKA,2012.0,3480
+Sri Lanka,LKA,2013.0,7199
+Sri Lanka,LKA,2014.0,4885
+Sri Lanka,LKA,2015.0,6390
+St. Helena,SHN,1990.0,0
+St. Helena,SHN,1991.0,0
+St. Helena,SHN,1992.0,0
+St. Helena,SHN,1993.0,0
+St. Helena,SHN,1994.0,0
+St. Helena,SHN,1995.0,0
+St. Helena,SHN,1996.0,0
+St. Helena,SHN,1997.0,0
+St. Helena,SHN,1998.0,0
+St. Helena,SHN,1999.0,0
+St. Helena,SHN,2000.0,0
+St. Helena,SHN,2001.0,0
+St. Helena,SHN,2002.0,0
+St. Helena,SHN,2003.0,0
+St. Helena,SHN,2004.0,0
+St. Helena,SHN,2005.0,0
+St. Helena,SHN,2006.0,0
+St. Helena,SHN,2007.0,0
+St. Helena,SHN,2008.0,0.6
+St. Helena,SHN,2009.0,0.63
+St. Helena,SHN,2010.0,1.1
+St. Helena,SHN,2011.0,1.14
+St. Helena,SHN,2012.0,0.88
+St. Helena,SHN,2013.0,1.08
+St. Helena,SHN,2014.0,1.03
+St. Helena,SHN,2015.0,2.28
+St. Kitts and Nevis,KNA,1990.0,0
+St. Kitts and Nevis,KNA,1991.0,0
+St. Kitts and Nevis,KNA,1992.0,0
+St. Kitts and Nevis,KNA,1993.0,0
+St. Kitts and Nevis,KNA,1994.0,0
+St. Kitts and Nevis,KNA,1995.0,0
+St. Kitts and Nevis,KNA,1996.0,0
+St. Kitts and Nevis,KNA,1997.0,0
+St. Kitts and Nevis,KNA,1998.0,0
+St. Kitts and Nevis,KNA,1999.0,0
+St. Kitts and Nevis,KNA,2000.0,0
+St. Kitts and Nevis,KNA,2001.0,0
+St. Kitts and Nevis,KNA,2002.0,0
+St. Kitts and Nevis,KNA,2003.0,0
+St. Kitts and Nevis,KNA,2004.0,0
+St. Kitts and Nevis,KNA,2005.0,0
+St. Kitts and Nevis,KNA,2006.0,0
+St. Kitts and Nevis,KNA,2007.0,0
+St. Kitts and Nevis,KNA,2008.0,0
+St. Kitts and Nevis,KNA,2009.0,0
+St. Kitts and Nevis,KNA,2010.0,5.7
+St. Kitts and Nevis,KNA,2011.0,5.5
+St. Kitts and Nevis,KNA,2012.0,7.8
+St. Kitts and Nevis,KNA,2013.0,9
+St. Kitts and Nevis,KNA,2014.0,10.3
+St. Kitts and Nevis,KNA,2015.0,10.3
+St. Lucia,LCA,1990.0,0
+St. Lucia,LCA,1991.0,0
+St. Lucia,LCA,1992.0,0
+St. Lucia,LCA,1993.0,0
+St. Lucia,LCA,1994.0,0
+St. Lucia,LCA,1995.0,0
+St. Lucia,LCA,1996.0,0
+St. Lucia,LCA,1997.0,0
+St. Lucia,LCA,1998.0,0
+St. Lucia,LCA,1999.0,0
+St. Lucia,LCA,2000.0,0
+St. Lucia,LCA,2001.0,0
+St. Lucia,LCA,2002.0,0
+St. Lucia,LCA,2003.0,0
+St. Lucia,LCA,2004.0,0
+St. Lucia,LCA,2005.0,0
+St. Lucia,LCA,2006.0,0
+St. Lucia,LCA,2007.0,0
+St. Lucia,LCA,2008.0,0
+St. Lucia,LCA,2009.0,0
+St. Lucia,LCA,2010.0,0
+St. Lucia,LCA,2011.0,0
+St. Lucia,LCA,2012.0,0
+St. Lucia,LCA,2013.0,0
+St. Lucia,LCA,2014.0,0
+St. Lucia,LCA,2015.0,0
+St. Martin (French part),MAF,1990.0,0
+St. Martin (French part),MAF,1991.0,0
+St. Martin (French part),MAF,1992.0,0
+St. Martin (French part),MAF,1993.0,0
+St. Martin (French part),MAF,1994.0,0
+St. Martin (French part),MAF,1995.0,0
+St. Martin (French part),MAF,1996.0,0
+St. Martin (French part),MAF,1997.0,0
+St. Martin (French part),MAF,1998.0,0
+St. Martin (French part),MAF,1999.0,0
+St. Martin (French part),MAF,2000.0,0
+St. Martin (French part),MAF,2001.0,0
+St. Martin (French part),MAF,2002.0,0
+St. Martin (French part),MAF,2003.0,0
+St. Martin (French part),MAF,2004.0,0
+St. Martin (French part),MAF,2005.0,0
+St. Martin (French part),MAF,2006.0,0
+St. Martin (French part),MAF,2007.0,0
+St. Martin (French part),MAF,2008.0,0
+St. Martin (French part),MAF,2009.0,0
+St. Martin (French part),MAF,2010.0,0
+St. Martin (French part),MAF,2011.0,0
+St. Martin (French part),MAF,2012.0,0
+St. Martin (French part),MAF,2013.0,0
+St. Martin (French part),MAF,2014.0,0
+St. Martin (French part),MAF,2015.0,0
+St. Vincent and the Grenadines,VCT,1990.0,24
+St. Vincent and the Grenadines,VCT,1991.0,13
+St. Vincent and the Grenadines,VCT,1992.0,20
+St. Vincent and the Grenadines,VCT,1993.0,23
+St. Vincent and the Grenadines,VCT,1994.0,21
+St. Vincent and the Grenadines,VCT,1995.0,21.2
+St. Vincent and the Grenadines,VCT,1996.0,21
+St. Vincent and the Grenadines,VCT,1997.0,22.2
+St. Vincent and the Grenadines,VCT,1998.0,22.1
+St. Vincent and the Grenadines,VCT,1999.0,17.4
+St. Vincent and the Grenadines,VCT,2000.0,24.8
+St. Vincent and the Grenadines,VCT,2001.0,18.5
+St. Vincent and the Grenadines,VCT,2002.0,22
+St. Vincent and the Grenadines,VCT,2003.0,20.7
+St. Vincent and the Grenadines,VCT,2004.0,27.1
+St. Vincent and the Grenadines,VCT,2005.0,25.5
+St. Vincent and the Grenadines,VCT,2006.0,23.2
+St. Vincent and the Grenadines,VCT,2007.0,22.7
+St. Vincent and the Grenadines,VCT,2008.0,23.7
+St. Vincent and the Grenadines,VCT,2009.0,26.1
+St. Vincent and the Grenadines,VCT,2010.0,24.5
+St. Vincent and the Grenadines,VCT,2011.0,31
+St. Vincent and the Grenadines,VCT,2012.0,25
+St. Vincent and the Grenadines,VCT,2013.0,25
+St. Vincent and the Grenadines,VCT,2014.0,25
+St. Vincent and the Grenadines,VCT,2015.0,26
+Sudan,SDN,1990.0,958
+Sudan,SDN,1991.0,1038
+Sudan,SDN,1992.0,1089
+Sudan,SDN,1993.0,1091
+Sudan,SDN,1994.0,1121
+Sudan,SDN,1995.0,972
+Sudan,SDN,1996.0,1074
+Sudan,SDN,1997.0,1054
+Sudan,SDN,1998.0,1043
+Sudan,SDN,1999.0,1210
+Sudan,SDN,2000.0,1183
+Sudan,SDN,2001.0,1268
+Sudan,SDN,2002.0,1287
+Sudan,SDN,2003.0,1163
+Sudan,SDN,2004.0,1107
+Sudan,SDN,2005.0,1261
+Sudan,SDN,2006.0,1370
+Sudan,SDN,2007.0,1451
+Sudan,SDN,2008.0,1463
+Sudan,SDN,2009.0,3228
+Sudan,SDN,2010.0,6202
+Sudan,SDN,2011.0,6467
+Sudan,SDN,2012.0,6619
+Sudan,SDN,2013.0,8315
+Sudan,SDN,2014.0,8913
+Sudan,SDN,2015.0,8420
+Suriname,SUR,1990.0,0
+Suriname,SUR,1991.0,0
+Suriname,SUR,1992.0,0
+Suriname,SUR,1993.0,0
+Suriname,SUR,1994.0,0
+Suriname,SUR,1995.0,0
+Suriname,SUR,1996.0,0
+Suriname,SUR,1997.0,0
+Suriname,SUR,1998.0,0
+Suriname,SUR,1999.0,0
+Suriname,SUR,2000.0,1036
+Suriname,SUR,2001.0,1070
+Suriname,SUR,2002.0,1070
+Suriname,SUR,2003.0,965
+Suriname,SUR,2004.0,923
+Suriname,SUR,2005.0,800
+Suriname,SUR,2006.0,1026
+Suriname,SUR,2007.0,1153
+Suriname,SUR,2008.0,1343
+Suriname,SUR,2009.0,1336
+Suriname,SUR,2010.0,1210
+Suriname,SUR,2011.0,1183
+Suriname,SUR,2012.0,1247
+Suriname,SUR,2013.0,1309
+Suriname,SUR,2014.0,1359
+Suriname,SUR,2015.0,1356
+Swaziland,SWZ,1990.0,154
+Swaziland,SWZ,1991.0,204
+Swaziland,SWZ,1992.0,204
+Swaziland,SWZ,1993.0,204
+Swaziland,SWZ,1994.0,204
+Swaziland,SWZ,1995.0,210
+Swaziland,SWZ,1996.0,210
+Swaziland,SWZ,1997.0,200
+Swaziland,SWZ,1998.0,200
+Swaziland,SWZ,1999.0,188.8
+Swaziland,SWZ,2000.0,192.3
+Swaziland,SWZ,2001.0,229.1
+Swaziland,SWZ,2002.0,203.7
+Swaziland,SWZ,2003.0,123
+Swaziland,SWZ,2004.0,103.5
+Swaziland,SWZ,2005.0,159.5
+Swaziland,SWZ,2006.0,156.28
+Swaziland,SWZ,2007.0,173.08
+Swaziland,SWZ,2008.0,160
+Swaziland,SWZ,2009.0,245.5
+Swaziland,SWZ,2010.0,288.1
+Swaziland,SWZ,2011.0,333.4
+Swaziland,SWZ,2012.0,272.3
+Swaziland,SWZ,2013.0,239.8
+Swaziland,SWZ,2014.0,302
+Swaziland,SWZ,2015.0,231
+Sweden,SWE,1990.0,74452
+Sweden,SWE,1991.0,65109
+Sweden,SWE,1992.0,76373
+Sweden,SWE,1993.0,76871
+Sweden,SWE,1994.0,61402
+Sweden,SWE,1995.0,70556
+Sweden,SWE,1996.0,54003
+Sweden,SWE,1997.0,72033
+Sweden,SWE,1998.0,78098
+Sweden,SWE,1999.0,74747
+Sweden,SWE,2000.0,83140
+Sweden,SWE,2001.0,83321
+Sweden,SWE,2002.0,71145
+Sweden,SWE,2003.0,58731
+Sweden,SWE,2004.0,68176
+Sweden,SWE,2005.0,81232
+Sweden,SWE,2006.0,71071
+Sweden,SWE,2007.0,77428
+Sweden,SWE,2008.0,81406
+Sweden,SWE,2009.0,79804
+Sweden,SWE,2010.0,82101
+Sweden,SWE,2011.0,84059
+Sweden,SWE,2012.0,98310
+Sweden,SWE,2013.0,82688
+Sweden,SWE,2014.0,85741
+Sweden,SWE,2015.0,102442
+Switzerland,CHE,1990.0,30236
+Switzerland,CHE,1991.0,32517
+Switzerland,CHE,1992.0,33185
+Switzerland,CHE,1993.0,36256
+Switzerland,CHE,1994.0,39627
+Switzerland,CHE,1995.0,35749
+Switzerland,CHE,1996.0,29368
+Switzerland,CHE,1997.0,34726
+Switzerland,CHE,1998.0,34178
+Switzerland,CHE,1999.0,40775
+Switzerland,CHE,2000.0,37691
+Switzerland,CHE,2001.0,42207
+Switzerland,CHE,2002.0,36150
+Switzerland,CHE,2003.0,35790
+Switzerland,CHE,2004.0,34751
+Switzerland,CHE,2005.0,32280
+Switzerland,CHE,2006.0,32141
+Switzerland,CHE,2007.0,36479
+Switzerland,CHE,2008.0,37325
+Switzerland,CHE,2009.0,37033
+Switzerland,CHE,2010.0,37471
+Switzerland,CHE,2011.0,34018
+Switzerland,CHE,2012.0,40526
+Switzerland,CHE,2013.0,40678
+Switzerland,CHE,2014.0,40670
+Switzerland,CHE,2015.0,41111
+Syrian Arab Republic,SYR,1990.0,2728
+Syrian Arab Republic,SYR,1991.0,2684
+Syrian Arab Republic,SYR,1992.0,2640
+Syrian Arab Republic,SYR,1993.0,2596
+Syrian Arab Republic,SYR,1994.0,2552
+Syrian Arab Republic,SYR,1995.0,2510
+Syrian Arab Republic,SYR,1996.0,2550
+Syrian Arab Republic,SYR,1997.0,2600
+Syrian Arab Republic,SYR,1998.0,2700
+Syrian Arab Republic,SYR,1999.0,2720
+Syrian Arab Republic,SYR,2000.0,3231
+Syrian Arab Republic,SYR,2001.0,3410
+Syrian Arab Republic,SYR,2002.0,2451
+Syrian Arab Republic,SYR,2003.0,2758
+Syrian Arab Republic,SYR,2004.0,4175
+Syrian Arab Republic,SYR,2005.0,4325
+Syrian Arab Republic,SYR,2006.0,3945
+Syrian Arab Republic,SYR,2007.0,3478
+Syrian Arab Republic,SYR,2008.0,2869
+Syrian Arab Republic,SYR,2009.0,1866
+Syrian Arab Republic,SYR,2010.0,2592
+Syrian Arab Republic,SYR,2011.0,3283
+Syrian Arab Republic,SYR,2012.0,3237
+Syrian Arab Republic,SYR,2013.0,3000
+Syrian Arab Republic,SYR,2014.0,2340
+Syrian Arab Republic,SYR,2015.0,413
+"Taiwan, China",TWN,1990.0,6384
+"Taiwan, China",TWN,1991.0,3856
+"Taiwan, China",TWN,1992.0,6558
+"Taiwan, China",TWN,1993.0,4110
+"Taiwan, China",TWN,1994.0,5062
+"Taiwan, China",TWN,1995.0,4839
+"Taiwan, China",TWN,1996.0,4743
+"Taiwan, China",TWN,1997.0,5704
+"Taiwan, China",TWN,1998.0,6784
+"Taiwan, China",TWN,1999.0,5773
+"Taiwan, China",TWN,2000.0,5616
+"Taiwan, China",TWN,2001.0,6324
+"Taiwan, China",TWN,2002.0,4046
+"Taiwan, China",TWN,2003.0,4589
+"Taiwan, China",TWN,2004.0,5082
+"Taiwan, China",TWN,2005.0,5920
+"Taiwan, China",TWN,2006.0,6259
+"Taiwan, China",TWN,2007.0,7058
+"Taiwan, China",TWN,2008.0,6914
+"Taiwan, China",TWN,2009.0,6511
+"Taiwan, China",TWN,2010.0,7323
+"Taiwan, China",TWN,2011.0,7390
+"Taiwan, China",TWN,2012.0,9111
+"Taiwan, China",TWN,2013.0,9315
+"Taiwan, China",TWN,2014.0,8417
+"Taiwan, China",TWN,2015.0,9004
+Tajikistan,TJK,1990.0,16500
+Tajikistan,TJK,1991.0,16400
+Tajikistan,TJK,1992.0,15928
+Tajikistan,TJK,1993.0,17118
+Tajikistan,TJK,1994.0,16691
+Tajikistan,TJK,1995.0,14596
+Tajikistan,TJK,1996.0,14825
+Tajikistan,TJK,1997.0,13713
+Tajikistan,TJK,1998.0,14149
+Tajikistan,TJK,1999.0,15427
+Tajikistan,TJK,2000.0,14025
+Tajikistan,TJK,2001.0,14206
+Tajikistan,TJK,2002.0,15164
+Tajikistan,TJK,2003.0,16336
+Tajikistan,TJK,2004.0,16339
+Tajikistan,TJK,2005.0,16967
+Tajikistan,TJK,2006.0,16701
+Tajikistan,TJK,2007.0,17114
+Tajikistan,TJK,2008.0,15800
+Tajikistan,TJK,2009.0,15900
+Tajikistan,TJK,2010.0,16400
+Tajikistan,TJK,2011.0,16200
+Tajikistan,TJK,2012.0,16900
+Tajikistan,TJK,2013.0,17071
+Tajikistan,TJK,2014.0,16312
+Tajikistan,TJK,2015.0,16900
+Tanzania,TZA,1990.0,1549
+Tanzania,TZA,1991.0,1726
+Tanzania,TZA,1992.0,1650
+Tanzania,TZA,1993.0,1697
+Tanzania,TZA,1994.0,1499
+Tanzania,TZA,1995.0,1539
+Tanzania,TZA,1996.0,1748
+Tanzania,TZA,1997.0,1449
+Tanzania,TZA,1998.0,2078
+Tanzania,TZA,1999.0,2162
+Tanzania,TZA,2000.0,2135
+Tanzania,TZA,2001.0,2640
+Tanzania,TZA,2002.0,2720
+Tanzania,TZA,2003.0,2549
+Tanzania,TZA,2004.0,2011
+Tanzania,TZA,2005.0,1778
+Tanzania,TZA,2006.0,1437
+Tanzania,TZA,2007.0,2526
+Tanzania,TZA,2008.0,2652
+Tanzania,TZA,2009.0,2645
+Tanzania,TZA,2010.0,2726
+Tanzania,TZA,2011.0,2027
+Tanzania,TZA,2012.0,1799
+Tanzania,TZA,2013.0,1753
+Tanzania,TZA,2014.0,2630
+Tanzania,TZA,2015.0,2150
+Thailand,THA,1990.0,4976
+Thailand,THA,1991.0,4587
+Thailand,THA,1992.0,4239
+Thailand,THA,1993.0,3703
+Thailand,THA,1994.0,4515
+Thailand,THA,1995.0,7001
+Thailand,THA,1996.0,8202
+Thailand,THA,1997.0,7545
+Thailand,THA,1998.0,5498
+Thailand,THA,1999.0,4402
+Thailand,THA,2000.0,6537
+Thailand,THA,2001.0,6797
+Thailand,THA,2002.0,8159
+Thailand,THA,2003.0,8452
+Thailand,THA,2004.0,7322
+Thailand,THA,2005.0,7330
+Thailand,THA,2006.0,9597
+Thailand,THA,2007.0,9913
+Thailand,THA,2008.0,9727
+Thailand,THA,2009.0,10235
+Thailand,THA,2010.0,8949
+Thailand,THA,2011.0,12554
+Thailand,THA,2012.0,14000
+Thailand,THA,2013.0,14107
+Thailand,THA,2014.0,14692
+Thailand,THA,2015.0,15178
+Timor-Leste,TLS,1990.0,0
+Timor-Leste,TLS,1991.0,0
+Timor-Leste,TLS,1992.0,0
+Timor-Leste,TLS,1993.0,0
+Timor-Leste,TLS,1994.0,0
+Timor-Leste,TLS,1995.0,0
+Timor-Leste,TLS,1996.0,0
+Timor-Leste,TLS,1997.0,0
+Timor-Leste,TLS,1998.0,0
+Timor-Leste,TLS,1999.0,0
+Timor-Leste,TLS,2000.0,0
+Timor-Leste,TLS,2001.0,0
+Timor-Leste,TLS,2002.0,0
+Timor-Leste,TLS,2003.0,0
+Timor-Leste,TLS,2004.0,0
+Timor-Leste,TLS,2005.0,0
+Timor-Leste,TLS,2006.0,0
+Timor-Leste,TLS,2007.0,0
+Timor-Leste,TLS,2008.0,0
+Timor-Leste,TLS,2009.0,0
+Timor-Leste,TLS,2010.0,0
+Timor-Leste,TLS,2011.0,0
+Timor-Leste,TLS,2012.0,0
+Timor-Leste,TLS,2013.0,0
+Timor-Leste,TLS,2014.0,0
+Timor-Leste,TLS,2015.0,0
+Togo,TGO,1990.0,95
+Togo,TGO,1991.0,193
+Togo,TGO,1992.0,128
+Togo,TGO,1993.0,230
+Togo,TGO,1994.0,148
+Togo,TGO,1995.0,255
+Togo,TGO,1996.0,190
+Togo,TGO,1997.0,93
+Togo,TGO,1998.0,172
+Togo,TGO,1999.0,103
+Togo,TGO,2000.0,100
+Togo,TGO,2001.0,50
+Togo,TGO,2002.0,87
+Togo,TGO,2003.0,124
+Togo,TGO,2004.0,83
+Togo,TGO,2005.0,76
+Togo,TGO,2006.0,94
+Togo,TGO,2007.0,102
+Togo,TGO,2008.0,93
+Togo,TGO,2009.0,114
+Togo,TGO,2010.0,97
+Togo,TGO,2011.0,111
+Togo,TGO,2012.0,94
+Togo,TGO,2013.0,76
+Togo,TGO,2014.0,125
+Togo,TGO,2015.0,61
+Tonga,TON,1990.0,0
+Tonga,TON,1991.0,0
+Tonga,TON,1992.0,0
+Tonga,TON,1993.0,0
+Tonga,TON,1994.0,0
+Tonga,TON,1995.0,0
+Tonga,TON,1996.0,0
+Tonga,TON,1997.0,0
+Tonga,TON,1998.0,0
+Tonga,TON,1999.0,0
+Tonga,TON,2000.0,0
+Tonga,TON,2001.0,0
+Tonga,TON,2002.0,0
+Tonga,TON,2003.0,0
+Tonga,TON,2004.0,0
+Tonga,TON,2005.0,0
+Tonga,TON,2006.0,0
+Tonga,TON,2007.0,0
+Tonga,TON,2008.0,0
+Tonga,TON,2009.0,0
+Tonga,TON,2010.0,0
+Tonga,TON,2011.0,0
+Tonga,TON,2012.0,0
+Tonga,TON,2013.0,2.05
+Tonga,TON,2014.0,2.498
+Tonga,TON,2015.0,3.273
+Trinidad and Tobago,TTO,1990.0,31
+Trinidad and Tobago,TTO,1991.0,25
+Trinidad and Tobago,TTO,1992.0,30
+Trinidad and Tobago,TTO,1993.0,28
+Trinidad and Tobago,TTO,1994.0,32
+Trinidad and Tobago,TTO,1995.0,33
+Trinidad and Tobago,TTO,1996.0,17
+Trinidad and Tobago,TTO,1997.0,18
+Trinidad and Tobago,TTO,1998.0,18
+Trinidad and Tobago,TTO,1999.0,18
+Trinidad and Tobago,TTO,2000.0,20
+Trinidad and Tobago,TTO,2001.0,29
+Trinidad and Tobago,TTO,2002.0,26
+Trinidad and Tobago,TTO,2003.0,12
+Trinidad and Tobago,TTO,2004.0,23
+Trinidad and Tobago,TTO,2005.0,22
+Trinidad and Tobago,TTO,2006.0,45
+Trinidad and Tobago,TTO,2007.0,19
+Trinidad and Tobago,TTO,2008.0,20
+Trinidad and Tobago,TTO,2009.0,19
+Trinidad and Tobago,TTO,2010.0,0
+Trinidad and Tobago,TTO,2011.0,0
+Trinidad and Tobago,TTO,2012.0,0
+Trinidad and Tobago,TTO,2013.0,0
+Trinidad and Tobago,TTO,2014.0,0
+Trinidad and Tobago,TTO,2015.0,0
+Tunisia,TUN,1990.0,46
+Tunisia,TUN,1991.0,110
+Tunisia,TUN,1992.0,68
+Tunisia,TUN,1993.0,64
+Tunisia,TUN,1994.0,40
+Tunisia,TUN,1995.0,39
+Tunisia,TUN,1996.0,67
+Tunisia,TUN,1997.0,44
+Tunisia,TUN,1998.0,72
+Tunisia,TUN,1999.0,90
+Tunisia,TUN,2000.0,87
+Tunisia,TUN,2001.0,78
+Tunisia,TUN,2002.0,94
+Tunisia,TUN,2003.0,199
+Tunisia,TUN,2004.0,198
+Tunisia,TUN,2005.0,187
+Tunisia,TUN,2006.0,130
+Tunisia,TUN,2007.0,92
+Tunisia,TUN,2008.0,69
+Tunisia,TUN,2009.0,176
+Tunisia,TUN,2010.0,190
+Tunisia,TUN,2011.0,165
+Tunisia,TUN,2012.0,311
+Tunisia,TUN,2013.0,429
+Tunisia,TUN,2014.0,588
+Tunisia,TUN,2015.0,558
+Turkey,TUR,1990.0,23228
+Turkey,TUR,1991.0,22802
+Turkey,TUR,1992.0,26685
+Turkey,TUR,1993.0,34085
+Turkey,TUR,1994.0,30716
+Turkey,TUR,1995.0,35849
+Turkey,TUR,1996.0,40735
+Turkey,TUR,1997.0,40193
+Turkey,TUR,1998.0,42560
+Turkey,TUR,1999.0,34912
+Turkey,TUR,2000.0,31154
+Turkey,TUR,2001.0,24346
+Turkey,TUR,2002.0,33966
+Turkey,TUR,2003.0,35559
+Turkey,TUR,2004.0,46311
+Turkey,TUR,2005.0,39748
+Turkey,TUR,2006.0,44522
+Turkey,TUR,2007.0,36457
+Turkey,TUR,2008.0,34421
+Turkey,TUR,2009.0,38141
+Turkey,TUR,2010.0,55712
+Turkey,TUR,2011.0,58098
+Turkey,TUR,2012.0,65216
+Turkey,TUR,2013.0,69220
+Turkey,TUR,2014.0,52628
+Turkey,TUR,2015.0,83657
+Turkmenistan,TKM,1990.0,700
+Turkmenistan,TKM,1991.0,700
+Turkmenistan,TKM,1992.0,4
+Turkmenistan,TKM,1993.0,5
+Turkmenistan,TKM,1994.0,4
+Turkmenistan,TKM,1995.0,4
+Turkmenistan,TKM,1996.0,5
+Turkmenistan,TKM,1997.0,5
+Turkmenistan,TKM,1998.0,6
+Turkmenistan,TKM,1999.0,5
+Turkmenistan,TKM,2000.0,0
+Turkmenistan,TKM,2001.0,0
+Turkmenistan,TKM,2002.0,0
+Turkmenistan,TKM,2003.0,0
+Turkmenistan,TKM,2004.0,0
+Turkmenistan,TKM,2005.0,0
+Turkmenistan,TKM,2006.0,0
+Turkmenistan,TKM,2007.0,0
+Turkmenistan,TKM,2008.0,0
+Turkmenistan,TKM,2009.0,0
+Turkmenistan,TKM,2010.0,0
+Turkmenistan,TKM,2011.0,0
+Turkmenistan,TKM,2012.0,0
+Turkmenistan,TKM,2013.0,0
+Turkmenistan,TKM,2014.0,0
+Turkmenistan,TKM,2015.0,0
+Turks and Caicos Islands,TCA,1990.0,0
+Turks and Caicos Islands,TCA,1991.0,0
+Turks and Caicos Islands,TCA,1992.0,0
+Turks and Caicos Islands,TCA,1993.0,0
+Turks and Caicos Islands,TCA,1994.0,0
+Turks and Caicos Islands,TCA,1995.0,0
+Turks and Caicos Islands,TCA,1996.0,0
+Turks and Caicos Islands,TCA,1997.0,0
+Turks and Caicos Islands,TCA,1998.0,0
+Turks and Caicos Islands,TCA,1999.0,0
+Turks and Caicos Islands,TCA,2000.0,0
+Turks and Caicos Islands,TCA,2001.0,0
+Turks and Caicos Islands,TCA,2002.0,0
+Turks and Caicos Islands,TCA,2003.0,0
+Turks and Caicos Islands,TCA,2004.0,0
+Turks and Caicos Islands,TCA,2005.0,0
+Turks and Caicos Islands,TCA,2006.0,0
+Turks and Caicos Islands,TCA,2007.0,0
+Turks and Caicos Islands,TCA,2008.0,0
+Turks and Caicos Islands,TCA,2009.0,0
+Turks and Caicos Islands,TCA,2010.0,0
+Turks and Caicos Islands,TCA,2011.0,0
+Turks and Caicos Islands,TCA,2012.0,0
+Turks and Caicos Islands,TCA,2013.0,0
+Turks and Caicos Islands,TCA,2014.0,0
+Turks and Caicos Islands,TCA,2015.0,0
+Tuvalu,TUV,1990.0,0
+Tuvalu,TUV,1991.0,0
+Tuvalu,TUV,1992.0,0
+Tuvalu,TUV,1993.0,0
+Tuvalu,TUV,1994.0,0
+Tuvalu,TUV,1995.0,0
+Tuvalu,TUV,1996.0,0
+Tuvalu,TUV,1997.0,0
+Tuvalu,TUV,1998.0,0
+Tuvalu,TUV,1999.0,0
+Tuvalu,TUV,2000.0,0
+Tuvalu,TUV,2001.0,0
+Tuvalu,TUV,2002.0,0
+Tuvalu,TUV,2003.0,0
+Tuvalu,TUV,2004.0,0
+Tuvalu,TUV,2005.0,0
+Tuvalu,TUV,2006.0,0
+Tuvalu,TUV,2007.0,0
+Tuvalu,TUV,2008.0,0
+Tuvalu,TUV,2009.0,0
+Tuvalu,TUV,2010.0,0
+Tuvalu,TUV,2011.0,0
+Tuvalu,TUV,2012.0,0
+Tuvalu,TUV,2013.0,0
+Tuvalu,TUV,2014.0,0
+Tuvalu,TUV,2015.0,2
+Uganda,UGA,1990.0,769
+Uganda,UGA,1991.0,829
+Uganda,UGA,1992.0,890
+Uganda,UGA,1993.0,1012
+Uganda,UGA,1994.0,1052
+Uganda,UGA,1995.0,1092
+Uganda,UGA,1996.0,1165
+Uganda,UGA,1997.0,1253
+Uganda,UGA,1998.0,1268
+Uganda,UGA,1999.0,1377
+Uganda,UGA,2000.0,1576
+Uganda,UGA,2001.0,1613
+Uganda,UGA,2002.0,1741
+Uganda,UGA,2003.0,1796
+Uganda,UGA,2004.0,1940
+Uganda,UGA,2005.0,1813
+Uganda,UGA,2006.0,1239
+Uganda,UGA,2007.0,1412
+Uganda,UGA,2008.0,1452.6
+Uganda,UGA,2009.0,1297.8
+Uganda,UGA,2010.0,1346.9
+Uganda,UGA,2011.0,1617.4
+Uganda,UGA,2012.0,2530.4
+Uganda,UGA,2013.0,3288.6
+Uganda,UGA,2014.0,3243.7
+Uganda,UGA,2015.0,3227.8
+Ukraine,UKR,1990.0,10514
+Ukraine,UKR,1991.0,11710
+Ukraine,UKR,1992.0,7883
+Ukraine,UKR,1993.0,11039
+Ukraine,UKR,1994.0,12118
+Ukraine,UKR,1995.0,9953
+Ukraine,UKR,1996.0,8632
+Ukraine,UKR,1997.0,9856
+Ukraine,UKR,1998.0,15742
+Ukraine,UKR,1999.0,14327
+Ukraine,UKR,2000.0,11280
+Ukraine,UKR,2001.0,12048
+Ukraine,UKR,2002.0,9649
+Ukraine,UKR,2003.0,9269
+Ukraine,UKR,2004.0,11786
+Ukraine,UKR,2005.0,12401
+Ukraine,UKR,2006.0,12921
+Ukraine,UKR,2007.0,10585
+Ukraine,UKR,2008.0,11821
+Ukraine,UKR,2009.0,12118
+Ukraine,UKR,2010.0,13391
+Ukraine,UKR,2011.0,11200
+Ukraine,UKR,2012.0,11234
+Ukraine,UKR,2013.0,15111
+Ukraine,UKR,2014.0,10167
+Ukraine,UKR,2015.0,7103
+United Arab Emirates,ARE,1990.0,0
+United Arab Emirates,ARE,1991.0,0
+United Arab Emirates,ARE,1992.0,0
+United Arab Emirates,ARE,1993.0,0
+United Arab Emirates,ARE,1994.0,0
+United Arab Emirates,ARE,1995.0,0
+United Arab Emirates,ARE,1996.0,0
+United Arab Emirates,ARE,1997.0,0
+United Arab Emirates,ARE,1998.0,0
+United Arab Emirates,ARE,1999.0,0
+United Arab Emirates,ARE,2000.0,0
+United Arab Emirates,ARE,2001.0,0
+United Arab Emirates,ARE,2002.0,0
+United Arab Emirates,ARE,2003.0,0
+United Arab Emirates,ARE,2004.0,0
+United Arab Emirates,ARE,2005.0,0
+United Arab Emirates,ARE,2006.0,0
+United Arab Emirates,ARE,2007.0,0
+United Arab Emirates,ARE,2008.0,0
+United Arab Emirates,ARE,2009.0,0
+United Arab Emirates,ARE,2010.0,0
+United Arab Emirates,ARE,2011.0,0
+United Arab Emirates,ARE,2012.0,0
+United Arab Emirates,ARE,2013.0,100
+United Arab Emirates,ARE,2014.0,301
+United Arab Emirates,ARE,2015.0,296
+United Kingdom,GBR,1990.0,5811
+United Kingdom,GBR,1991.0,5323
+United Kingdom,GBR,1992.0,6405
+United Kingdom,GBR,1993.0,5718
+United Kingdom,GBR,1994.0,6955
+United Kingdom,GBR,1995.0,6871
+United Kingdom,GBR,1996.0,5685
+United Kingdom,GBR,1997.0,6946
+United Kingdom,GBR,1998.0,8649
+United Kingdom,GBR,1999.0,9616
+United Kingdom,GBR,2000.0,9970
+United Kingdom,GBR,2001.0,9549
+United Kingdom,GBR,2002.0,11127
+United Kingdom,GBR,2003.0,10618
+United Kingdom,GBR,2004.0,14137
+United Kingdom,GBR,2005.0,16938
+United Kingdom,GBR,2006.0,18106
+United Kingdom,GBR,2007.0,19689
+United Kingdom,GBR,2008.0,21847
+United Kingdom,GBR,2009.0,25245
+United Kingdom,GBR,2010.0,25785
+United Kingdom,GBR,2011.0,34530
+United Kingdom,GBR,2012.0,41125
+United Kingdom,GBR,2013.0,53280
+United Kingdom,GBR,2014.0,64587
+United Kingdom,GBR,2015.0,83551
+United States,USA,1990.0,369241
+United States,USA,1991.0,350142
+United States,USA,1992.0,324316
+United States,USA,1993.0,355578
+United States,USA,1994.0,336458
+United States,USA,1995.0,384343
+United States,USA,1996.0,422867
+United States,USA,1997.0,403130
+United States,USA,1998.0,365559
+United States,USA,1999.0,351308
+United States,USA,2000.0,330364
+United States,USA,2001.0,260426
+United States,USA,2002.0,348137
+United States,USA,2003.0,360433
+United States,USA,2004.0,357987
+United States,USA,2005.0,366205
+United States,USA,2006.0,395209
+United States,USA,2007.0,361815
+United States,USA,2008.0,391022
+United States,USA,2009.0,428696
+United States,USA,2010.0,440677
+United States,USA,2011.0,528962
+United States,USA,2012.0,512822
+United States,USA,2013.0,541802
+United States,USA,2014.0,559496
+United States,USA,2015.0,568439
+Uruguay,URY,1990.0,7068
+Uruguay,URY,1991.0,6170
+Uruguay,URY,1992.0,7988
+Uruguay,URY,1993.0,7358
+Uruguay,URY,1994.0,7527
+Uruguay,URY,1995.0,5900
+Uruguay,URY,1996.0,5809
+Uruguay,URY,1997.0,6517
+Uruguay,URY,1998.0,9197
+Uruguay,URY,1999.0,5547
+Uruguay,URY,2000.0,7086
+Uruguay,URY,2001.0,9231
+Uruguay,URY,2002.0,9574
+Uruguay,URY,2003.0,8568
+Uruguay,URY,2004.0,4798
+Uruguay,URY,2005.0,6722
+Uruguay,URY,2006.0,3644
+Uruguay,URY,2007.0,8206
+Uruguay,URY,2008.0,5341
+Uruguay,URY,2009.0,6095
+Uruguay,URY,2010.0,9634
+Uruguay,URY,2011.0,7452
+Uruguay,URY,2012.0,6543
+Uruguay,URY,2013.0,9429
+Uruguay,URY,2014.0,11808
+Uruguay,URY,2015.0,12168
+Uzbekistan,UZB,1990.0,6648
+Uzbekistan,UZB,1991.0,6031
+Uzbekistan,UZB,1992.0,6281
+Uzbekistan,UZB,1993.0,7358
+Uzbekistan,UZB,1994.0,7156
+Uzbekistan,UZB,1995.0,6188
+Uzbekistan,UZB,1996.0,6525
+Uzbekistan,UZB,1997.0,5777
+Uzbekistan,UZB,1998.0,5758
+Uzbekistan,UZB,1999.0,5692
+Uzbekistan,UZB,2000.0,5879
+Uzbekistan,UZB,2001.0,6017
+Uzbekistan,UZB,2002.0,6186
+Uzbekistan,UZB,2003.0,7620
+Uzbekistan,UZB,2004.0,9010
+Uzbekistan,UZB,2005.0,8630
+Uzbekistan,UZB,2006.0,9160
+Uzbekistan,UZB,2007.0,6400
+Uzbekistan,UZB,2008.0,11360
+Uzbekistan,UZB,2009.0,9330
+Uzbekistan,UZB,2010.0,10846
+Uzbekistan,UZB,2011.0,10240
+Uzbekistan,UZB,2012.0,11210
+Uzbekistan,UZB,2013.0,11560
+Uzbekistan,UZB,2014.0,11830
+Uzbekistan,UZB,2015.0,11830
+Vanuatu,VUT,1990.0,0
+Vanuatu,VUT,1991.0,0
+Vanuatu,VUT,1992.0,0
+Vanuatu,VUT,1993.0,0
+Vanuatu,VUT,1994.0,0
+Vanuatu,VUT,1995.0,0
+Vanuatu,VUT,1996.0,0
+Vanuatu,VUT,1997.0,0
+Vanuatu,VUT,1998.0,0
+Vanuatu,VUT,1999.0,0
+Vanuatu,VUT,2000.0,0
+Vanuatu,VUT,2001.0,0
+Vanuatu,VUT,2002.0,0
+Vanuatu,VUT,2003.0,1.44
+Vanuatu,VUT,2004.0,1.47
+Vanuatu,VUT,2005.0,1.5
+Vanuatu,VUT,2006.0,1.53
+Vanuatu,VUT,2007.0,1.56
+Vanuatu,VUT,2008.0,13.04
+Vanuatu,VUT,2009.0,13.04
+Vanuatu,VUT,2010.0,13.18
+Vanuatu,VUT,2011.0,10.79
+Vanuatu,VUT,2012.0,10.35
+Vanuatu,VUT,2013.0,10.2
+Vanuatu,VUT,2014.0,10.2
+Vanuatu,VUT,2015.0,13.5
+"Venezuela, RB",VEN,1990.0,36983
+"Venezuela, RB",VEN,1991.0,44542
+"Venezuela, RB",VEN,1992.0,47271
+"Venezuela, RB",VEN,1993.0,47478
+"Venezuela, RB",VEN,1994.0,51284
+"Venezuela, RB",VEN,1995.0,51450
+"Venezuela, RB",VEN,1996.0,53847
+"Venezuela, RB",VEN,1997.0,57268
+"Venezuela, RB",VEN,1998.0,57923
+"Venezuela, RB",VEN,1999.0,60600
+"Venezuela, RB",VEN,2000.0,62886
+"Venezuela, RB",VEN,2001.0,60441
+"Venezuela, RB",VEN,2002.0,59534
+"Venezuela, RB",VEN,2003.0,60532
+"Venezuela, RB",VEN,2004.0,70075
+"Venezuela, RB",VEN,2005.0,77229
+"Venezuela, RB",VEN,2006.0,81600
+"Venezuela, RB",VEN,2007.0,83059
+"Venezuela, RB",VEN,2008.0,86841
+"Venezuela, RB",VEN,2009.0,85962
+"Venezuela, RB",VEN,2010.0,76780
+"Venezuela, RB",VEN,2011.0,83670
+"Venezuela, RB",VEN,2012.0,82008
+"Venezuela, RB",VEN,2013.0,83545
+"Venezuela, RB",VEN,2014.0,87194
+"Venezuela, RB",VEN,2015.0,74899
+Vietnam,VNM,1990.0,5369
+Vietnam,VNM,1991.0,6317
+Vietnam,VNM,1992.0,7228
+Vietnam,VNM,1993.0,7965
+Vietnam,VNM,1994.0,9243
+Vietnam,VNM,1995.0,10582
+Vietnam,VNM,1996.0,12008
+Vietnam,VNM,1997.0,11657
+Vietnam,VNM,1998.0,11095
+Vietnam,VNM,1999.0,13774
+Vietnam,VNM,2000.0,14551
+Vietnam,VNM,2001.0,18210
+Vietnam,VNM,2002.0,18198
+Vietnam,VNM,2003.0,18986
+Vietnam,VNM,2004.0,17818
+Vietnam,VNM,2005.0,16995
+Vietnam,VNM,2006.0,20473
+Vietnam,VNM,2007.0,23114
+Vietnam,VNM,2008.0,26042
+Vietnam,VNM,2009.0,30053
+Vietnam,VNM,2010.0,27655
+Vietnam,VNM,2011.0,41067
+Vietnam,VNM,2012.0,52939
+Vietnam,VNM,2013.0,52100
+Vietnam,VNM,2014.0,59987
+Vietnam,VNM,2015.0,56304
+Virgin Islands (U.S.),VIR,1990.0,0
+Virgin Islands (U.S.),VIR,1991.0,0
+Virgin Islands (U.S.),VIR,1992.0,0
+Virgin Islands (U.S.),VIR,1993.0,0
+Virgin Islands (U.S.),VIR,1994.0,0
+Virgin Islands (U.S.),VIR,1995.0,0
+Virgin Islands (U.S.),VIR,1996.0,0
+Virgin Islands (U.S.),VIR,1997.0,0
+Virgin Islands (U.S.),VIR,1998.0,0
+Virgin Islands (U.S.),VIR,1999.0,0
+Virgin Islands (U.S.),VIR,2000.0,0
+Virgin Islands (U.S.),VIR,2001.0,0
+Virgin Islands (U.S.),VIR,2002.0,0
+Virgin Islands (U.S.),VIR,2003.0,0
+Virgin Islands (U.S.),VIR,2004.0,0
+Virgin Islands (U.S.),VIR,2005.0,0
+Virgin Islands (U.S.),VIR,2006.0,0
+Virgin Islands (U.S.),VIR,2007.0,0
+Virgin Islands (U.S.),VIR,2008.0,0
+Virgin Islands (U.S.),VIR,2009.0,0
+Virgin Islands (U.S.),VIR,2010.0,0
+Virgin Islands (U.S.),VIR,2011.0,3.257
+Virgin Islands (U.S.),VIR,2012.0,8.557
+Virgin Islands (U.S.),VIR,2013.0,13.757
+Virgin Islands (U.S.),VIR,2014.0,21.713
+Virgin Islands (U.S.),VIR,2015.0,30.9
+West Bank and Gaza,PSE,1990.0,0
+West Bank and Gaza,PSE,1991.0,0
+West Bank and Gaza,PSE,1992.0,0
+West Bank and Gaza,PSE,1993.0,0
+West Bank and Gaza,PSE,1994.0,0
+West Bank and Gaza,PSE,1995.0,0
+West Bank and Gaza,PSE,1996.0,0
+West Bank and Gaza,PSE,1997.0,0
+West Bank and Gaza,PSE,1998.0,0
+West Bank and Gaza,PSE,1999.0,0
+West Bank and Gaza,PSE,2000.0,0
+West Bank and Gaza,PSE,2001.0,0
+West Bank and Gaza,PSE,2002.0,0
+West Bank and Gaza,PSE,2003.0,0
+West Bank and Gaza,PSE,2004.0,0
+West Bank and Gaza,PSE,2005.0,0
+West Bank and Gaza,PSE,2006.0,0
+West Bank and Gaza,PSE,2007.0,0
+West Bank and Gaza,PSE,2008.0,0
+West Bank and Gaza,PSE,2009.0,0
+West Bank and Gaza,PSE,2010.0,0
+West Bank and Gaza,PSE,2011.0,0
+West Bank and Gaza,PSE,2012.0,0
+West Bank and Gaza,PSE,2013.0,0
+West Bank and Gaza,PSE,2014.0,0
+West Bank and Gaza,PSE,2015.0,0
+Western Sahara,ESH,1990.0,0
+Western Sahara,ESH,1991.0,0
+Western Sahara,ESH,1992.0,0
+Western Sahara,ESH,1993.0,0
+Western Sahara,ESH,1994.0,0
+Western Sahara,ESH,1995.0,0
+Western Sahara,ESH,1996.0,0
+Western Sahara,ESH,1997.0,0
+Western Sahara,ESH,1998.0,0
+Western Sahara,ESH,1999.0,0
+Western Sahara,ESH,2000.0,0
+Western Sahara,ESH,2001.0,0
+Western Sahara,ESH,2002.0,0
+Western Sahara,ESH,2003.0,0
+Western Sahara,ESH,2004.0,0
+Western Sahara,ESH,2005.0,0
+Western Sahara,ESH,2006.0,0
+Western Sahara,ESH,2007.0,0
+Western Sahara,ESH,2008.0,0
+Western Sahara,ESH,2009.0,0
+Western Sahara,ESH,2010.0,0
+Western Sahara,ESH,2011.0,0
+Western Sahara,ESH,2012.0,0
+Western Sahara,ESH,2013.0,0
+Western Sahara,ESH,2014.0,0
+Western Sahara,ESH,2015.0,0
+"Yemen, Rep.",YEM,1990.0,0
+"Yemen, Rep.",YEM,1991.0,0
+"Yemen, Rep.",YEM,1992.0,0
+"Yemen, Rep.",YEM,1993.0,0
+"Yemen, Rep.",YEM,1994.0,0
+"Yemen, Rep.",YEM,1995.0,0
+"Yemen, Rep.",YEM,1996.0,0
+"Yemen, Rep.",YEM,1997.0,0
+"Yemen, Rep.",YEM,1998.0,0
+"Yemen, Rep.",YEM,1999.0,0
+"Yemen, Rep.",YEM,2000.0,0
+"Yemen, Rep.",YEM,2001.0,0
+"Yemen, Rep.",YEM,2002.0,0
+"Yemen, Rep.",YEM,2003.0,0
+"Yemen, Rep.",YEM,2004.0,0
+"Yemen, Rep.",YEM,2005.0,0
+"Yemen, Rep.",YEM,2006.0,0
+"Yemen, Rep.",YEM,2007.0,0
+"Yemen, Rep.",YEM,2008.0,0
+"Yemen, Rep.",YEM,2009.0,0
+"Yemen, Rep.",YEM,2010.0,0
+"Yemen, Rep.",YEM,2011.0,0
+"Yemen, Rep.",YEM,2012.0,0
+"Yemen, Rep.",YEM,2013.0,0
+"Yemen, Rep.",YEM,2014.0,0
+"Yemen, Rep.",YEM,2015.0,0
+Zambia,ZMB,1990.0,7951
+Zambia,ZMB,1991.0,8982
+Zambia,ZMB,1992.0,6516
+Zambia,ZMB,1993.0,8140
+Zambia,ZMB,1994.0,8091
+Zambia,ZMB,1995.0,7871
+Zambia,ZMB,1996.0,7114
+Zambia,ZMB,1997.0,7886
+Zambia,ZMB,1998.0,7539
+Zambia,ZMB,1999.0,7712
+Zambia,ZMB,2000.0,7750
+Zambia,ZMB,2001.0,7893
+Zambia,ZMB,2002.0,8102
+Zambia,ZMB,2003.0,8257
+Zambia,ZMB,2004.0,8460
+Zambia,ZMB,2005.0,8883
+Zambia,ZMB,2006.0,9669
+Zambia,ZMB,2007.0,9631
+Zambia,ZMB,2008.0,9522
+Zambia,ZMB,2009.0,9881
+Zambia,ZMB,2010.0,10435
+Zambia,ZMB,2011.0,11483
+Zambia,ZMB,2012.0,12350
+Zambia,ZMB,2013.0,13281
+Zambia,ZMB,2014.0,14042
+Zambia,ZMB,2015.0,13035
+Zimbabwe,ZWE,1990.0,4369
+Zimbabwe,ZWE,1991.0,3152
+Zimbabwe,ZWE,1992.0,3161
+Zimbabwe,ZWE,1993.0,2062
+Zimbabwe,ZWE,1994.0,2095
+Zimbabwe,ZWE,1995.0,2285
+Zimbabwe,ZWE,1996.0,2163
+Zimbabwe,ZWE,1997.0,2123
+Zimbabwe,ZWE,1998.0,1926
+Zimbabwe,ZWE,1999.0,2908
+Zimbabwe,ZWE,2000.0,3194
+Zimbabwe,ZWE,2001.0,2965
+Zimbabwe,ZWE,2002.0,3809
+Zimbabwe,ZWE,2003.0,5344
+Zimbabwe,ZWE,2004.0,5501
+Zimbabwe,ZWE,2005.0,4915
+Zimbabwe,ZWE,2006.0,5413
+Zimbabwe,ZWE,2007.0,5446
+Zimbabwe,ZWE,2008.0,5787
+Zimbabwe,ZWE,2009.0,5515
+Zimbabwe,ZWE,2010.0,5893
+Zimbabwe,ZWE,2011.0,5332
+Zimbabwe,ZWE,2012.0,5558
+Zimbabwe,ZWE,2013.0,5162
+Zimbabwe,ZWE,2014.0,5575
+Zimbabwe,ZWE,2015.0,5119
+BES Islands,BES,1990.0,..
+BES Islands,BES,1991.0,..
+BES Islands,BES,1992.0,..
+BES Islands,BES,1993.0,..
+BES Islands,BES,1994.0,..
+BES Islands,BES,1995.0,..
+BES Islands,BES,1996.0,..
+BES Islands,BES,1997.0,..
+BES Islands,BES,1998.0,..
+BES Islands,BES,1999.0,..
+BES Islands,BES,2000.0,..
+BES Islands,BES,2001.0,..
+BES Islands,BES,2002.0,..
+BES Islands,BES,2003.0,..
+BES Islands,BES,2004.0,..
+BES Islands,BES,2005.0,..
+BES Islands,BES,2006.0,..
+BES Islands,BES,2007.0,..
+BES Islands,BES,2008.0,..
+BES Islands,BES,2009.0,..
+BES Islands,BES,2010.0,..
+BES Islands,BES,2011.0,..
+BES Islands,BES,2012.0,0
+BES Islands,BES,2013.0,0
+BES Islands,BES,2014.0,2.2
+BES Islands,BES,2015.0,..
+Caucasian and Central Asia,CCA,1990.0,..
+Caucasian and Central Asia,CCA,1991.0,..
+Caucasian and Central Asia,CCA,1992.0,..
+Caucasian and Central Asia,CCA,1993.0,..
+Caucasian and Central Asia,CCA,1994.0,..
+Caucasian and Central Asia,CCA,1995.0,..
+Caucasian and Central Asia,CCA,1996.0,..
+Caucasian and Central Asia,CCA,1997.0,..
+Caucasian and Central Asia,CCA,1998.0,..
+Caucasian and Central Asia,CCA,1999.0,..
+Caucasian and Central Asia,CCA,2000.0,..
+Caucasian and Central Asia,CCA,2001.0,..
+Caucasian and Central Asia,CCA,2002.0,..
+Caucasian and Central Asia,CCA,2003.0,..
+Caucasian and Central Asia,CCA,2004.0,..
+Caucasian and Central Asia,CCA,2005.0,..
+Caucasian and Central Asia,CCA,2006.0,..
+Caucasian and Central Asia,CCA,2007.0,..
+Caucasian and Central Asia,CCA,2008.0,..
+Caucasian and Central Asia,CCA,2009.0,..
+Caucasian and Central Asia,CCA,2010.0,..
+Caucasian and Central Asia,CCA,2011.0,..
+Caucasian and Central Asia,CCA,2012.0,..
+Caucasian and Central Asia,CCA,2013.0,..
+Caucasian and Central Asia,CCA,2014.0,..
+Caucasian and Central Asia,CCA,2015.0,..
+Caucasus and Central Asia,GCA,1990.0,..
+Caucasus and Central Asia,GCA,1991.0,..
+Caucasus and Central Asia,GCA,1992.0,..
+Caucasus and Central Asia,GCA,1993.0,..
+Caucasus and Central Asia,GCA,1994.0,..
+Caucasus and Central Asia,GCA,1995.0,..
+Caucasus and Central Asia,GCA,1996.0,..
+Caucasus and Central Asia,GCA,1997.0,..
+Caucasus and Central Asia,GCA,1998.0,..
+Caucasus and Central Asia,GCA,1999.0,..
+Caucasus and Central Asia,GCA,2000.0,..
+Caucasus and Central Asia,GCA,2001.0,..
+Caucasus and Central Asia,GCA,2002.0,..
+Caucasus and Central Asia,GCA,2003.0,..
+Caucasus and Central Asia,GCA,2004.0,..
+Caucasus and Central Asia,GCA,2005.0,..
+Caucasus and Central Asia,GCA,2006.0,..
+Caucasus and Central Asia,GCA,2007.0,..
+Caucasus and Central Asia,GCA,2008.0,..
+Caucasus and Central Asia,GCA,2009.0,..
+Caucasus and Central Asia,GCA,2010.0,..
+Caucasus and Central Asia,GCA,2011.0,..
+Caucasus and Central Asia,GCA,2012.0,..
+Caucasus and Central Asia,GCA,2013.0,..
+Caucasus and Central Asia,GCA,2014.0,..
+Caucasus and Central Asia,GCA,2015.0,..
+Eastern Asia (including Japan),GEJ,1990.0,..
+Eastern Asia (including Japan),GEJ,1991.0,..
+Eastern Asia (including Japan),GEJ,1992.0,..
+Eastern Asia (including Japan),GEJ,1993.0,..
+Eastern Asia (including Japan),GEJ,1994.0,..
+Eastern Asia (including Japan),GEJ,1995.0,..
+Eastern Asia (including Japan),GEJ,1996.0,..
+Eastern Asia (including Japan),GEJ,1997.0,..
+Eastern Asia (including Japan),GEJ,1998.0,..
+Eastern Asia (including Japan),GEJ,1999.0,..
+Eastern Asia (including Japan),GEJ,2000.0,..
+Eastern Asia (including Japan),GEJ,2001.0,..
+Eastern Asia (including Japan),GEJ,2002.0,..
+Eastern Asia (including Japan),GEJ,2003.0,..
+Eastern Asia (including Japan),GEJ,2004.0,..
+Eastern Asia (including Japan),GEJ,2005.0,..
+Eastern Asia (including Japan),GEJ,2006.0,..
+Eastern Asia (including Japan),GEJ,2007.0,..
+Eastern Asia (including Japan),GEJ,2008.0,..
+Eastern Asia (including Japan),GEJ,2009.0,..
+Eastern Asia (including Japan),GEJ,2010.0,..
+Eastern Asia (including Japan),GEJ,2011.0,..
+Eastern Asia (including Japan),GEJ,2012.0,..
+Eastern Asia (including Japan),GEJ,2013.0,..
+Eastern Asia (including Japan),GEJ,2014.0,..
+Eastern Asia (including Japan),GEJ,2015.0,..
+Eastern Asia (not including Japan),GEA,1990.0,..
+Eastern Asia (not including Japan),GEA,1991.0,..
+Eastern Asia (not including Japan),GEA,1992.0,..
+Eastern Asia (not including Japan),GEA,1993.0,..
+Eastern Asia (not including Japan),GEA,1994.0,..
+Eastern Asia (not including Japan),GEA,1995.0,..
+Eastern Asia (not including Japan),GEA,1996.0,..
+Eastern Asia (not including Japan),GEA,1997.0,..
+Eastern Asia (not including Japan),GEA,1998.0,..
+Eastern Asia (not including Japan),GEA,1999.0,..
+Eastern Asia (not including Japan),GEA,2000.0,..
+Eastern Asia (not including Japan),GEA,2001.0,..
+Eastern Asia (not including Japan),GEA,2002.0,..
+Eastern Asia (not including Japan),GEA,2003.0,..
+Eastern Asia (not including Japan),GEA,2004.0,..
+Eastern Asia (not including Japan),GEA,2005.0,..
+Eastern Asia (not including Japan),GEA,2006.0,..
+Eastern Asia (not including Japan),GEA,2007.0,..
+Eastern Asia (not including Japan),GEA,2008.0,..
+Eastern Asia (not including Japan),GEA,2009.0,..
+Eastern Asia (not including Japan),GEA,2010.0,..
+Eastern Asia (not including Japan),GEA,2011.0,..
+Eastern Asia (not including Japan),GEA,2012.0,..
+Eastern Asia (not including Japan),GEA,2013.0,..
+Eastern Asia (not including Japan),GEA,2014.0,..
+Eastern Asia (not including Japan),GEA,2015.0,..
+Eastern Europe,GEE,1990.0,..
+Eastern Europe,GEE,1991.0,..
+Eastern Europe,GEE,1992.0,..
+Eastern Europe,GEE,1993.0,..
+Eastern Europe,GEE,1994.0,..
+Eastern Europe,GEE,1995.0,..
+Eastern Europe,GEE,1996.0,..
+Eastern Europe,GEE,1997.0,..
+Eastern Europe,GEE,1998.0,..
+Eastern Europe,GEE,1999.0,..
+Eastern Europe,GEE,2000.0,..
+Eastern Europe,GEE,2001.0,..
+Eastern Europe,GEE,2002.0,..
+Eastern Europe,GEE,2003.0,..
+Eastern Europe,GEE,2004.0,..
+Eastern Europe,GEE,2005.0,..
+Eastern Europe,GEE,2006.0,..
+Eastern Europe,GEE,2007.0,..
+Eastern Europe,GEE,2008.0,..
+Eastern Europe,GEE,2009.0,..
+Eastern Europe,GEE,2010.0,..
+Eastern Europe,GEE,2011.0,..
+Eastern Europe,GEE,2012.0,..
+Eastern Europe,GEE,2013.0,..
+Eastern Europe,GEE,2014.0,..
+Eastern Europe,GEE,2015.0,..
+Europe,GEU,1990.0,..
+Europe,GEU,1991.0,..
+Europe,GEU,1992.0,..
+Europe,GEU,1993.0,..
+Europe,GEU,1994.0,..
+Europe,GEU,1995.0,..
+Europe,GEU,1996.0,..
+Europe,GEU,1997.0,..
+Europe,GEU,1998.0,..
+Europe,GEU,1999.0,..
+Europe,GEU,2000.0,..
+Europe,GEU,2001.0,..
+Europe,GEU,2002.0,..
+Europe,GEU,2003.0,..
+Europe,GEU,2004.0,..
+Europe,GEU,2005.0,..
+Europe,GEU,2006.0,..
+Europe,GEU,2007.0,..
+Europe,GEU,2008.0,..
+Europe,GEU,2009.0,..
+Europe,GEU,2010.0,..
+Europe,GEU,2011.0,..
+Europe,GEU,2012.0,..
+Europe,GEU,2013.0,..
+Europe,GEU,2014.0,..
+Europe,GEU,2015.0,..
+High income,HIC,1990.0,..
+High income,HIC,1991.0,..
+High income,HIC,1992.0,..
+High income,HIC,1993.0,..
+High income,HIC,1994.0,..
+High income,HIC,1995.0,..
+High income,HIC,1996.0,..
+High income,HIC,1997.0,..
+High income,HIC,1998.0,..
+High income,HIC,1999.0,..
+High income,HIC,2000.0,..
+High income,HIC,2001.0,..
+High income,HIC,2002.0,..
+High income,HIC,2003.0,..
+High income,HIC,2004.0,..
+High income,HIC,2005.0,..
+High income,HIC,2006.0,..
+High income,HIC,2007.0,..
+High income,HIC,2008.0,..
+High income,HIC,2009.0,..
+High income,HIC,2010.0,..
+High income,HIC,2011.0,..
+High income,HIC,2012.0,..
+High income,HIC,2013.0,..
+High income,HIC,2014.0,..
+High income,HIC,2015.0,..
+High income: nonOECD,NOC,1990.0,..
+High income: nonOECD,NOC,1991.0,..
+High income: nonOECD,NOC,1992.0,..
+High income: nonOECD,NOC,1993.0,..
+High income: nonOECD,NOC,1994.0,..
+High income: nonOECD,NOC,1995.0,..
+High income: nonOECD,NOC,1996.0,..
+High income: nonOECD,NOC,1997.0,..
+High income: nonOECD,NOC,1998.0,..
+High income: nonOECD,NOC,1999.0,..
+High income: nonOECD,NOC,2000.0,..
+High income: nonOECD,NOC,2001.0,..
+High income: nonOECD,NOC,2002.0,..
+High income: nonOECD,NOC,2003.0,..
+High income: nonOECD,NOC,2004.0,..
+High income: nonOECD,NOC,2005.0,..
+High income: nonOECD,NOC,2006.0,..
+High income: nonOECD,NOC,2007.0,..
+High income: nonOECD,NOC,2008.0,..
+High income: nonOECD,NOC,2009.0,..
+High income: nonOECD,NOC,2010.0,..
+High income: nonOECD,NOC,2011.0,..
+High income: nonOECD,NOC,2012.0,..
+High income: nonOECD,NOC,2013.0,..
+High income: nonOECD,NOC,2014.0,..
+High income: nonOECD,NOC,2015.0,..
+High income: OECD,OEC,1990.0,..
+High income: OECD,OEC,1991.0,..
+High income: OECD,OEC,1992.0,..
+High income: OECD,OEC,1993.0,..
+High income: OECD,OEC,1994.0,..
+High income: OECD,OEC,1995.0,..
+High income: OECD,OEC,1996.0,..
+High income: OECD,OEC,1997.0,..
+High income: OECD,OEC,1998.0,..
+High income: OECD,OEC,1999.0,..
+High income: OECD,OEC,2000.0,..
+High income: OECD,OEC,2001.0,..
+High income: OECD,OEC,2002.0,..
+High income: OECD,OEC,2003.0,..
+High income: OECD,OEC,2004.0,..
+High income: OECD,OEC,2005.0,..
+High income: OECD,OEC,2006.0,..
+High income: OECD,OEC,2007.0,..
+High income: OECD,OEC,2008.0,..
+High income: OECD,OEC,2009.0,..
+High income: OECD,OEC,2010.0,..
+High income: OECD,OEC,2011.0,..
+High income: OECD,OEC,2012.0,..
+High income: OECD,OEC,2013.0,..
+High income: OECD,OEC,2014.0,..
+High income: OECD,OEC,2015.0,..
+Latin America and Caribbean,GLC,1990.0,..
+Latin America and Caribbean,GLC,1991.0,..
+Latin America and Caribbean,GLC,1992.0,..
+Latin America and Caribbean,GLC,1993.0,..
+Latin America and Caribbean,GLC,1994.0,..
+Latin America and Caribbean,GLC,1995.0,..
+Latin America and Caribbean,GLC,1996.0,..
+Latin America and Caribbean,GLC,1997.0,..
+Latin America and Caribbean,GLC,1998.0,..
+Latin America and Caribbean,GLC,1999.0,..
+Latin America and Caribbean,GLC,2000.0,..
+Latin America and Caribbean,GLC,2001.0,..
+Latin America and Caribbean,GLC,2002.0,..
+Latin America and Caribbean,GLC,2003.0,..
+Latin America and Caribbean,GLC,2004.0,..
+Latin America and Caribbean,GLC,2005.0,..
+Latin America and Caribbean,GLC,2006.0,..
+Latin America and Caribbean,GLC,2007.0,..
+Latin America and Caribbean,GLC,2008.0,..
+Latin America and Caribbean,GLC,2009.0,..
+Latin America and Caribbean,GLC,2010.0,..
+Latin America and Caribbean,GLC,2011.0,..
+Latin America and Caribbean,GLC,2012.0,..
+Latin America and Caribbean,GLC,2013.0,..
+Latin America and Caribbean,GLC,2014.0,..
+Latin America and Caribbean,GLC,2015.0,..
+Low & middle income,LMY,1990.0,..
+Low & middle income,LMY,1991.0,..
+Low & middle income,LMY,1992.0,..
+Low & middle income,LMY,1993.0,..
+Low & middle income,LMY,1994.0,..
+Low & middle income,LMY,1995.0,..
+Low & middle income,LMY,1996.0,..
+Low & middle income,LMY,1997.0,..
+Low & middle income,LMY,1998.0,..
+Low & middle income,LMY,1999.0,..
+Low & middle income,LMY,2000.0,..
+Low & middle income,LMY,2001.0,..
+Low & middle income,LMY,2002.0,..
+Low & middle income,LMY,2003.0,..
+Low & middle income,LMY,2004.0,..
+Low & middle income,LMY,2005.0,..
+Low & middle income,LMY,2006.0,..
+Low & middle income,LMY,2007.0,..
+Low & middle income,LMY,2008.0,..
+Low & middle income,LMY,2009.0,..
+Low & middle income,LMY,2010.0,..
+Low & middle income,LMY,2011.0,..
+Low & middle income,LMY,2012.0,..
+Low & middle income,LMY,2013.0,..
+Low & middle income,LMY,2014.0,..
+Low & middle income,LMY,2015.0,..
+Low income,LIC,1990.0,..
+Low income,LIC,1991.0,..
+Low income,LIC,1992.0,..
+Low income,LIC,1993.0,..
+Low income,LIC,1994.0,..
+Low income,LIC,1995.0,..
+Low income,LIC,1996.0,..
+Low income,LIC,1997.0,..
+Low income,LIC,1998.0,..
+Low income,LIC,1999.0,..
+Low income,LIC,2000.0,..
+Low income,LIC,2001.0,..
+Low income,LIC,2002.0,..
+Low income,LIC,2003.0,..
+Low income,LIC,2004.0,..
+Low income,LIC,2005.0,..
+Low income,LIC,2006.0,..
+Low income,LIC,2007.0,..
+Low income,LIC,2008.0,..
+Low income,LIC,2009.0,..
+Low income,LIC,2010.0,..
+Low income,LIC,2011.0,..
+Low income,LIC,2012.0,..
+Low income,LIC,2013.0,..
+Low income,LIC,2014.0,..
+Low income,LIC,2015.0,..
+Lower middle income,LMC,1990.0,..
+Lower middle income,LMC,1991.0,..
+Lower middle income,LMC,1992.0,..
+Lower middle income,LMC,1993.0,..
+Lower middle income,LMC,1994.0,..
+Lower middle income,LMC,1995.0,..
+Lower middle income,LMC,1996.0,..
+Lower middle income,LMC,1997.0,..
+Lower middle income,LMC,1998.0,..
+Lower middle income,LMC,1999.0,..
+Lower middle income,LMC,2000.0,..
+Lower middle income,LMC,2001.0,..
+Lower middle income,LMC,2002.0,..
+Lower middle income,LMC,2003.0,..
+Lower middle income,LMC,2004.0,..
+Lower middle income,LMC,2005.0,..
+Lower middle income,LMC,2006.0,..
+Lower middle income,LMC,2007.0,..
+Lower middle income,LMC,2008.0,..
+Lower middle income,LMC,2009.0,..
+Lower middle income,LMC,2010.0,..
+Lower middle income,LMC,2011.0,..
+Lower middle income,LMC,2012.0,..
+Lower middle income,LMC,2013.0,..
+Lower middle income,LMC,2014.0,..
+Lower middle income,LMC,2015.0,..
+Middle income,MIC,1990.0,..
+Middle income,MIC,1991.0,..
+Middle income,MIC,1992.0,..
+Middle income,MIC,1993.0,..
+Middle income,MIC,1994.0,..
+Middle income,MIC,1995.0,..
+Middle income,MIC,1996.0,..
+Middle income,MIC,1997.0,..
+Middle income,MIC,1998.0,..
+Middle income,MIC,1999.0,..
+Middle income,MIC,2000.0,..
+Middle income,MIC,2001.0,..
+Middle income,MIC,2002.0,..
+Middle income,MIC,2003.0,..
+Middle income,MIC,2004.0,..
+Middle income,MIC,2005.0,..
+Middle income,MIC,2006.0,..
+Middle income,MIC,2007.0,..
+Middle income,MIC,2008.0,..
+Middle income,MIC,2009.0,..
+Middle income,MIC,2010.0,..
+Middle income,MIC,2011.0,..
+Middle income,MIC,2012.0,..
+Middle income,MIC,2013.0,..
+Middle income,MIC,2014.0,..
+Middle income,MIC,2015.0,..
+Nauru,NRU,1990.0,0
+Nauru,NRU,1991.0,0
+Nauru,NRU,1992.0,0
+Nauru,NRU,1993.0,0
+Nauru,NRU,1994.0,0
+Nauru,NRU,1995.0,0
+Nauru,NRU,1996.0,0
+Nauru,NRU,1997.0,0
+Nauru,NRU,1998.0,0
+Nauru,NRU,1999.0,0
+Nauru,NRU,2000.0,0
+Nauru,NRU,2001.0,0
+Nauru,NRU,2002.0,0
+Nauru,NRU,2003.0,0
+Nauru,NRU,2004.0,0
+Nauru,NRU,2005.0,0
+Nauru,NRU,2006.0,0.1
+Nauru,NRU,2007.0,0.1
+Nauru,NRU,2008.0,0.1
+Nauru,NRU,2009.0,0.1
+Nauru,NRU,2010.0,0.1
+Nauru,NRU,2011.0,0.1
+Nauru,NRU,2012.0,0.1
+Nauru,NRU,2013.0,0.1
+Nauru,NRU,2014.0,0.1
+Nauru,NRU,2015.0,0.1
+Niue,NIU,1990.0,0
+Niue,NIU,1991.0,0
+Niue,NIU,1992.0,0
+Niue,NIU,1993.0,0
+Niue,NIU,1994.0,0
+Niue,NIU,1995.0,0
+Niue,NIU,1996.0,0
+Niue,NIU,1997.0,0
+Niue,NIU,1998.0,0
+Niue,NIU,1999.0,0
+Niue,NIU,2000.0,0
+Niue,NIU,2001.0,0
+Niue,NIU,2002.0,0
+Niue,NIU,2003.0,0
+Niue,NIU,2004.0,0
+Niue,NIU,2005.0,0
+Niue,NIU,2006.0,0
+Niue,NIU,2007.0,0
+Niue,NIU,2008.0,0
+Niue,NIU,2009.0,0
+Niue,NIU,2010.0,0.0669444444444444
+Niue,NIU,2011.0,0.0686111111111111
+Niue,NIU,2012.0,0.0644444444444444
+Niue,NIU,2013.0,0.0666666666666667
+Niue,NIU,2014.0,0.0666666666666667
+Niue,NIU,2015.0,0.0666666666666667
+Northern America,GNA,1990.0,..
+Northern America,GNA,1991.0,..
+Northern America,GNA,1992.0,..
+Northern America,GNA,1993.0,..
+Northern America,GNA,1994.0,..
+Northern America,GNA,1995.0,..
+Northern America,GNA,1996.0,..
+Northern America,GNA,1997.0,..
+Northern America,GNA,1998.0,..
+Northern America,GNA,1999.0,..
+Northern America,GNA,2000.0,..
+Northern America,GNA,2001.0,..
+Northern America,GNA,2002.0,..
+Northern America,GNA,2003.0,..
+Northern America,GNA,2004.0,..
+Northern America,GNA,2005.0,..
+Northern America,GNA,2006.0,..
+Northern America,GNA,2007.0,..
+Northern America,GNA,2008.0,..
+Northern America,GNA,2009.0,..
+Northern America,GNA,2010.0,..
+Northern America,GNA,2011.0,..
+Northern America,GNA,2012.0,..
+Northern America,GNA,2013.0,..
+Northern America,GNA,2014.0,..
+Northern America,GNA,2015.0,..
+Not classified,LNX,1990.0,..
+Not classified,LNX,1991.0,..
+Not classified,LNX,1992.0,..
+Not classified,LNX,1993.0,..
+Not classified,LNX,1994.0,..
+Not classified,LNX,1995.0,..
+Not classified,LNX,1996.0,..
+Not classified,LNX,1997.0,..
+Not classified,LNX,1998.0,..
+Not classified,LNX,1999.0,..
+Not classified,LNX,2000.0,..
+Not classified,LNX,2001.0,..
+Not classified,LNX,2002.0,..
+Not classified,LNX,2003.0,..
+Not classified,LNX,2004.0,..
+Not classified,LNX,2005.0,..
+Not classified,LNX,2006.0,..
+Not classified,LNX,2007.0,..
+Not classified,LNX,2008.0,..
+Not classified,LNX,2009.0,..
+Not classified,LNX,2010.0,..
+Not classified,LNX,2011.0,..
+Not classified,LNX,2012.0,..
+Not classified,LNX,2013.0,..
+Not classified,LNX,2014.0,..
+Not classified,LNX,2015.0,..
+Nothern America,NAR,1990.0,..
+Nothern America,NAR,1991.0,..
+Nothern America,NAR,1992.0,..
+Nothern America,NAR,1993.0,..
+Nothern America,NAR,1994.0,..
+Nothern America,NAR,1995.0,..
+Nothern America,NAR,1996.0,..
+Nothern America,NAR,1997.0,..
+Nothern America,NAR,1998.0,..
+Nothern America,NAR,1999.0,..
+Nothern America,NAR,2000.0,..
+Nothern America,NAR,2001.0,..
+Nothern America,NAR,2002.0,..
+Nothern America,NAR,2003.0,..
+Nothern America,NAR,2004.0,..
+Nothern America,NAR,2005.0,..
+Nothern America,NAR,2006.0,..
+Nothern America,NAR,2007.0,..
+Nothern America,NAR,2008.0,..
+Nothern America,NAR,2009.0,..
+Nothern America,NAR,2010.0,..
+Nothern America,NAR,2011.0,..
+Nothern America,NAR,2012.0,..
+Nothern America,NAR,2013.0,..
+Nothern America,NAR,2014.0,..
+Nothern America,NAR,2015.0,..
+Oceania,GCN,1990.0,..
+Oceania,GCN,1991.0,..
+Oceania,GCN,1992.0,..
+Oceania,GCN,1993.0,..
+Oceania,GCN,1994.0,..
+Oceania,GCN,1995.0,..
+Oceania,GCN,1996.0,..
+Oceania,GCN,1997.0,..
+Oceania,GCN,1998.0,..
+Oceania,GCN,1999.0,..
+Oceania,GCN,2000.0,..
+Oceania,GCN,2001.0,..
+Oceania,GCN,2002.0,..
+Oceania,GCN,2003.0,..
+Oceania,GCN,2004.0,..
+Oceania,GCN,2005.0,..
+Oceania,GCN,2006.0,..
+Oceania,GCN,2007.0,..
+Oceania,GCN,2008.0,..
+Oceania,GCN,2009.0,..
+Oceania,GCN,2010.0,..
+Oceania,GCN,2011.0,..
+Oceania,GCN,2012.0,..
+Oceania,GCN,2013.0,..
+Oceania,GCN,2014.0,..
+Oceania,GCN,2015.0,..
+Oceania (not including Australia and New Zealand),GOC,1990.0,..
+Oceania (not including Australia and New Zealand),GOC,1991.0,..
+Oceania (not including Australia and New Zealand),GOC,1992.0,..
+Oceania (not including Australia and New Zealand),GOC,1993.0,..
+Oceania (not including Australia and New Zealand),GOC,1994.0,..
+Oceania (not including Australia and New Zealand),GOC,1995.0,..
+Oceania (not including Australia and New Zealand),GOC,1996.0,..
+Oceania (not including Australia and New Zealand),GOC,1997.0,..
+Oceania (not including Australia and New Zealand),GOC,1998.0,..
+Oceania (not including Australia and New Zealand),GOC,1999.0,..
+Oceania (not including Australia and New Zealand),GOC,2000.0,..
+Oceania (not including Australia and New Zealand),GOC,2001.0,..
+Oceania (not including Australia and New Zealand),GOC,2002.0,..
+Oceania (not including Australia and New Zealand),GOC,2003.0,..
+Oceania (not including Australia and New Zealand),GOC,2004.0,..
+Oceania (not including Australia and New Zealand),GOC,2005.0,..
+Oceania (not including Australia and New Zealand),GOC,2006.0,..
+Oceania (not including Australia and New Zealand),GOC,2007.0,..
+Oceania (not including Australia and New Zealand),GOC,2008.0,..
+Oceania (not including Australia and New Zealand),GOC,2009.0,..
+Oceania (not including Australia and New Zealand),GOC,2010.0,..
+Oceania (not including Australia and New Zealand),GOC,2011.0,..
+Oceania (not including Australia and New Zealand),GOC,2012.0,..
+Oceania (not including Australia and New Zealand),GOC,2013.0,..
+Oceania (not including Australia and New Zealand),GOC,2014.0,..
+Oceania (not including Australia and New Zealand),GOC,2015.0,..
+South Eastern Asia,GSE,1990.0,..
+South Eastern Asia,GSE,1991.0,..
+South Eastern Asia,GSE,1992.0,..
+South Eastern Asia,GSE,1993.0,..
+South Eastern Asia,GSE,1994.0,..
+South Eastern Asia,GSE,1995.0,..
+South Eastern Asia,GSE,1996.0,..
+South Eastern Asia,GSE,1997.0,..
+South Eastern Asia,GSE,1998.0,..
+South Eastern Asia,GSE,1999.0,..
+South Eastern Asia,GSE,2000.0,..
+South Eastern Asia,GSE,2001.0,..
+South Eastern Asia,GSE,2002.0,..
+South Eastern Asia,GSE,2003.0,..
+South Eastern Asia,GSE,2004.0,..
+South Eastern Asia,GSE,2005.0,..
+South Eastern Asia,GSE,2006.0,..
+South Eastern Asia,GSE,2007.0,..
+South Eastern Asia,GSE,2008.0,..
+South Eastern Asia,GSE,2009.0,..
+South Eastern Asia,GSE,2010.0,..
+South Eastern Asia,GSE,2011.0,..
+South Eastern Asia,GSE,2012.0,..
+South Eastern Asia,GSE,2013.0,..
+South Eastern Asia,GSE,2014.0,..
+South Eastern Asia,GSE,2015.0,..
+Southern Asia,GSA,1990.0,..
+Southern Asia,GSA,1991.0,..
+Southern Asia,GSA,1992.0,..
+Southern Asia,GSA,1993.0,..
+Southern Asia,GSA,1994.0,..
+Southern Asia,GSA,1995.0,..
+Southern Asia,GSA,1996.0,..
+Southern Asia,GSA,1997.0,..
+Southern Asia,GSA,1998.0,..
+Southern Asia,GSA,1999.0,..
+Southern Asia,GSA,2000.0,..
+Southern Asia,GSA,2001.0,..
+Southern Asia,GSA,2002.0,..
+Southern Asia,GSA,2003.0,..
+Southern Asia,GSA,2004.0,..
+Southern Asia,GSA,2005.0,..
+Southern Asia,GSA,2006.0,..
+Southern Asia,GSA,2007.0,..
+Southern Asia,GSA,2008.0,..
+Southern Asia,GSA,2009.0,..
+Southern Asia,GSA,2010.0,..
+Southern Asia,GSA,2011.0,..
+Southern Asia,GSA,2012.0,..
+Southern Asia,GSA,2013.0,..
+Southern Asia,GSA,2014.0,..
+Southern Asia,GSA,2015.0,..
+Sub-Saharan Africa,GSS,1990.0,..
+Sub-Saharan Africa,GSS,1991.0,..
+Sub-Saharan Africa,GSS,1992.0,..
+Sub-Saharan Africa,GSS,1993.0,..
+Sub-Saharan Africa,GSS,1994.0,..
+Sub-Saharan Africa,GSS,1995.0,..
+Sub-Saharan Africa,GSS,1996.0,..
+Sub-Saharan Africa,GSS,1997.0,..
+Sub-Saharan Africa,GSS,1998.0,..
+Sub-Saharan Africa,GSS,1999.0,..
+Sub-Saharan Africa,GSS,2000.0,..
+Sub-Saharan Africa,GSS,2001.0,..
+Sub-Saharan Africa,GSS,2002.0,..
+Sub-Saharan Africa,GSS,2003.0,..
+Sub-Saharan Africa,GSS,2004.0,..
+Sub-Saharan Africa,GSS,2005.0,..
+Sub-Saharan Africa,GSS,2006.0,..
+Sub-Saharan Africa,GSS,2007.0,..
+Sub-Saharan Africa,GSS,2008.0,..
+Sub-Saharan Africa,GSS,2009.0,..
+Sub-Saharan Africa,GSS,2010.0,..
+Sub-Saharan Africa,GSS,2011.0,..
+Sub-Saharan Africa,GSS,2012.0,..
+Sub-Saharan Africa,GSS,2013.0,..
+Sub-Saharan Africa,GSS,2014.0,..
+Sub-Saharan Africa,GSS,2015.0,..
+Upper middle income,UMC,1990.0,..
+Upper middle income,UMC,1991.0,..
+Upper middle income,UMC,1992.0,..
+Upper middle income,UMC,1993.0,..
+Upper middle income,UMC,1994.0,..
+Upper middle income,UMC,1995.0,..
+Upper middle income,UMC,1996.0,..
+Upper middle income,UMC,1997.0,..
+Upper middle income,UMC,1998.0,..
+Upper middle income,UMC,1999.0,..
+Upper middle income,UMC,2000.0,..
+Upper middle income,UMC,2001.0,..
+Upper middle income,UMC,2002.0,..
+Upper middle income,UMC,2003.0,..
+Upper middle income,UMC,2004.0,..
+Upper middle income,UMC,2005.0,..
+Upper middle income,UMC,2006.0,..
+Upper middle income,UMC,2007.0,..
+Upper middle income,UMC,2008.0,..
+Upper middle income,UMC,2009.0,..
+Upper middle income,UMC,2010.0,..
+Upper middle income,UMC,2011.0,..
+Upper middle income,UMC,2012.0,..
+Upper middle income,UMC,2013.0,..
+Upper middle income,UMC,2014.0,..
+Upper middle income,UMC,2015.0,..
+Wallis and Futuna,WLF,1990.0,0
+Wallis and Futuna,WLF,1991.0,0
+Wallis and Futuna,WLF,1992.0,0
+Wallis and Futuna,WLF,1993.0,0
+Wallis and Futuna,WLF,1994.0,0
+Wallis and Futuna,WLF,1995.0,0
+Wallis and Futuna,WLF,1996.0,0
+Wallis and Futuna,WLF,1997.0,0
+Wallis and Futuna,WLF,1998.0,0
+Wallis and Futuna,WLF,1999.0,0
+Wallis and Futuna,WLF,2000.0,0
+Wallis and Futuna,WLF,2001.0,0
+Wallis and Futuna,WLF,2002.0,0
+Wallis and Futuna,WLF,2003.0,0
+Wallis and Futuna,WLF,2004.0,0
+Wallis and Futuna,WLF,2005.0,0
+Wallis and Futuna,WLF,2006.0,0
+Wallis and Futuna,WLF,2007.0,0
+Wallis and Futuna,WLF,2008.0,0
+Wallis and Futuna,WLF,2009.0,0
+Wallis and Futuna,WLF,2010.0,0
+Wallis and Futuna,WLF,2011.0,0
+Wallis and Futuna,WLF,2012.0,0
+Wallis and Futuna,WLF,2013.0,0
+Wallis and Futuna,WLF,2014.0,0
+Wallis and Futuna,WLF,2015.0,0
+Western Asia,GWA,1990.0,..
+Western Asia,GWA,1991.0,..
+Western Asia,GWA,1992.0,..
+Western Asia,GWA,1993.0,..
+Western Asia,GWA,1994.0,..
+Western Asia,GWA,1995.0,..
+Western Asia,GWA,1996.0,..
+Western Asia,GWA,1997.0,..
+Western Asia,GWA,1998.0,..
+Western Asia,GWA,1999.0,..
+Western Asia,GWA,2000.0,..
+Western Asia,GWA,2001.0,..
+Western Asia,GWA,2002.0,..
+Western Asia,GWA,2003.0,..
+Western Asia,GWA,2004.0,..
+Western Asia,GWA,2005.0,..
+Western Asia,GWA,2006.0,..
+Western Asia,GWA,2007.0,..
+Western Asia,GWA,2008.0,..
+Western Asia,GWA,2009.0,..
+Western Asia,GWA,2010.0,..
+Western Asia,GWA,2011.0,..
+Western Asia,GWA,2012.0,..
+Western Asia,GWA,2013.0,..
+Western Asia,GWA,2014.0,..
+Western Asia,GWA,2015.0,..
+World,GWL,1990.0,..
+World,GWL,1991.0,..
+World,GWL,1992.0,..
+World,GWL,1993.0,..
+World,GWL,1994.0,..
+World,GWL,1995.0,..
+World,GWL,1996.0,..
+World,GWL,1997.0,..
+World,GWL,1998.0,..
+World,GWL,1999.0,..
+World,GWL,2000.0,..
+World,GWL,2001.0,..
+World,GWL,2002.0,..
+World,GWL,2003.0,..
+World,GWL,2004.0,..
+World,GWL,2005.0,..
+World,GWL,2006.0,..
+World,GWL,2007.0,..
+World,GWL,2008.0,..
+World,GWL,2009.0,..
+World,GWL,2010.0,..
+World,GWL,2011.0,..
+World,GWL,2012.0,..
+World,GWL,2013.0,..
+World,GWL,2014.0,..
+World,GWL,2015.0,..
