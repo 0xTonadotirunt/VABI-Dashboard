@@ -1,23 +1,65 @@
+import React, { useEffect } from "react";
 import { Outlet } from "react-router-dom";
-import GraphCard from "@/components/GraphCard";
+import SideNav from "@/components/sections/SideNav";
+import OverallSection from "@/components/sections/OverallSection";
+import TransportSection from "@/components/sections/TransportSection";
+import AgricultureSection from "@/components/sections/AgricultureSection";
+import ManufacturingSection from "@/components/sections/ManufacturingSection";
+import {
+  ActiveSectionProvider,
+  useActiveSection,
+} from "@/contexts/ActiveSectionContext";
+import "./Dashboard.css";
 
-const Dashboard = () => {
+const DashboardContent = () => {
+  const { setActiveSection } = useActiveSection();
+
+  useEffect(() => {
+    const observerOptions = {
+      root: null,
+      rootMargin: "0px",
+      threshold: 0.5,
+    };
+
+    const observerCallback = (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          setActiveSection(entry.target.id);
+        }
+      });
+    };
+
+    const observer = new IntersectionObserver(
+      observerCallback,
+      observerOptions
+    );
+
+    const sections = document.querySelectorAll("section");
+    sections.forEach((section) => observer.observe(section));
+
+    return () => sections.forEach((section) => observer.unobserve(section));
+  }, [setActiveSection]);
+
   return (
-    <>
+    <div className="flex flex-col h-screen">
       <Outlet />
-      <main class="bg-gray-100 w-full h-full px-4 py-8">
-        <h1 class="text-2xl md:text-3xl pb-5 text-gray-800 dark:text-gray-100 font-bold">
-          Dashboard
-        </h1>
-        <div className="grid grid-cols-12 gap-6">
-          <GraphCard />
-          <GraphCard />
-          <GraphCard />
-          <GraphCard />
-        </div>
-      </main>
-    </>
+      <div className="flex flex-1 overflow-hidden">
+        <SideNav />
+        <main className="flex-1 bg-slate-900 text-gray-100 overflow-y-scroll snap-y snap-mandatory smooth-scroll">
+          <OverallSection />
+          <TransportSection />
+          <AgricultureSection />
+          <ManufacturingSection />
+        </main>
+      </div>
+    </div>
   );
 };
+
+const Dashboard = () => (
+  <ActiveSectionProvider>
+    <DashboardContent />
+  </ActiveSectionProvider>
+);
 
 export default Dashboard;
