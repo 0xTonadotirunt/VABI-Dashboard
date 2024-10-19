@@ -1,60 +1,65 @@
+import React, { useEffect } from "react";
 import { Outlet } from "react-router-dom";
-import StatCard from "@/components/StatCard";
-import ChartCard from "@/components/ChartCard";
-import RecentActivityCard from "@/components/RecentActivityCard";
+import SideNav from "@/components/sections/SideNav";
+import OverallSection from "@/components/sections/OverallSection";
+import TransportSection from "@/components/sections/TransportSection";
+import AgricultureSection from "@/components/sections/AgricultureSection";
+import ManufacturingSection from "@/components/sections/ManufacturingSection";
+import {
+  ActiveSectionProvider,
+  useActiveSection,
+} from "@/contexts/ActiveSectionContext";
+import "./Dashboard.css";
 
-const Dashboard = () => {
+const DashboardContent = () => {
+  const { setActiveSection } = useActiveSection();
+
+  useEffect(() => {
+    const observerOptions = {
+      root: null,
+      rootMargin: "0px",
+      threshold: 0.5,
+    };
+
+    const observerCallback = (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          setActiveSection(entry.target.id);
+        }
+      });
+    };
+
+    const observer = new IntersectionObserver(
+      observerCallback,
+      observerOptions
+    );
+
+    const sections = document.querySelectorAll("section");
+    sections.forEach((section) => observer.observe(section));
+
+    return () => sections.forEach((section) => observer.unobserve(section));
+  }, [setActiveSection]);
+
   return (
-    <>
+    <div className="flex flex-col h-screen">
       <Outlet />
-      <main className="bg-slate-900 text-gray-100 min-h-screen p-6">
-        <h1 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
-          Emissions Dashboard
-        </h1>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-          <StatCard
-            title="Total CO2e"
-            value="1,234 tons"
-            icon="cloud"
-            color="bg-red-500"
-          />
-          <StatCard
-            title="Reduction"
-            value="15.3%"
-            icon="trending-down"
-            color="bg-green-500"
-          />
-          <StatCard
-            title="Net-Zero Progress"
-            value="42%"
-            icon="target"
-            color="bg-blue-500"
-          />
-          <StatCard
-            title="Carbon Offset"
-            value="320 tons"
-            icon="leaf"
-            color="bg-emerald-500"
-          />
-        </div>
-
-        <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-8">
-          <ChartCard
-            title="Emissions Trend"
-            chartUrl="https://public.tableau.com/views/YourWorkbook/YourView"
-            className="lg:col-span-2"
-          />
-          {/* <RecentActivityCard /> */}
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-          <ChartCard title="Emissions by Source" chart="pie" />
-          <ChartCard title="Monthly Reduction" chart="bar" />
-        </div>
-      </main>
-    </>
+      <div className="flex flex-1 overflow-hidden">
+        <SideNav />
+        <main className="flex-1 bg-slate-900 text-gray-100 overflow-y-scroll snap-y snap-mandatory smooth-scroll">
+          <OverallSection />
+          <TransportSection />
+          <AgricultureSection />
+          <ManufacturingSection />
+        </main>
+      </div>
+    </div>
   );
 };
+
+const Dashboard = () => (
+  <ActiveSectionProvider>
+    <DashboardContent />
+  </ActiveSectionProvider>
+);
 
 export default Dashboard;
