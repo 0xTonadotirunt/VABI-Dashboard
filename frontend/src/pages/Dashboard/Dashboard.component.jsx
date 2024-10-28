@@ -45,7 +45,7 @@ const DashboardContent = () => {
       <Outlet />
       <div className="flex flex-1 overflow-hidden">
         <SideNav />
-        <main className="flex-1 bg-slate-900 text-gray-100 overflow-y-scroll snap-y snap-mandatory smooth-scroll">
+        <main className="flex-1 bg-slate-900 text-gray-100 overflow-y-auto snap-y snap-mandatory smooth-scroll">
           <OverallSection />
           <TransportSection />
           <AgricultureSection />
