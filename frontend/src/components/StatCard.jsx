@@ -14,13 +14,16 @@ const StatCard = ({ title, value, icon, color }) => {
   const steps = 30;
 
   useEffect(() => {
-    const numericValue = parseFloat(value.replace(/[^\d.-]/g, ""));
+    // Allow for negative values by preserving the minus sign during parsing
+    const numericValue = parseFloat(value.replace(/[^-\d.]/g, ""));
 
+    // If the parsed value is NaN, display the value as a string
     if (isNaN(numericValue)) {
-      setCount(0);
+      setCount(value);
       return;
     }
 
+    // Proceed with animation for numeric values
     let start = 0;
     const end = numericValue;
 
@@ -30,7 +33,7 @@ const StatCard = ({ title, value, icon, color }) => {
     const timer = setInterval(() => {
       start += increment;
       setCount(start);
-      if (start >= end) {
+      if ((increment > 0 && start >= end) || (increment < 0 && start <= end)) {
         clearInterval(timer);
         setCount(end);
       }
@@ -42,8 +45,11 @@ const StatCard = ({ title, value, icon, color }) => {
   const Icon = iconMap[icon];
 
   const formatValue = (count) => {
-    const [, unit] = value.split(" ");
-    return `${count.toFixed(1)} ${unit || ""}`.trim();
+    if (typeof count === "number") {
+      const [, unit] = value.split(" ");
+      return `${count.toFixed(1)} ${unit || ""}`.trim();
+    }
+    return count;
   };
 
   return (
