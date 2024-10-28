@@ -8,7 +8,7 @@ const iconMap = {
   leaf: Leaf,
 };
 
-const StatCard = ({ title, value, icon, color }) => {
+const StatCard = ({ title, value, icon: Icon, color }) => {
   const [count, setCount] = useState(0);
   const duration = 1000;
   const steps = 30;
@@ -42,8 +42,6 @@ const StatCard = ({ title, value, icon, color }) => {
     return () => clearInterval(timer);
   }, [value]);
 
-  const Icon = iconMap[icon];
-
   const formatValue = (count) => {
     if (typeof count === "number") {
       const [, unit] = value.split(" ");
@@ -52,14 +50,17 @@ const StatCard = ({ title, value, icon, color }) => {
     return count;
   };
 
+  // Ensure Icon is a valid React component
+  const IconComponent = typeof Icon === "function" ? Icon : null;
+
   return (
-    <div className={`${color} rounded-lg p-4 text-white shadow-lg`}>
+    <div className={`p-4 rounded-lg ${color}`}>
       <div className="flex items-center justify-between">
-        <div>
-          <p className="text-sm opacity-75">{title}</p>
-          <p className="text-2xl font-bold">{formatValue(count)}</p>
-        </div>
-        <div className="text-3xl opacity-75">{Icon && <Icon size={24} />}</div>
+        <span className="text-sm text-gray-200">{title}</span>
+        {IconComponent && <IconComponent className="h-5 w-5" />}
+      </div>
+      <div className="mt-2 text-2xl font-semibold text-white">
+        {formatValue(count)}
       </div>
     </div>
   );
