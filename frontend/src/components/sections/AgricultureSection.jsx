@@ -4,6 +4,19 @@ import ChartCard from "@/components/ChartCard";
 import { Select } from "@/components/ui/select";
 import { Modal } from "@/components/ui/modal";
 import { BarChart2 } from "lucide-react";
+import { Tabs, TabsList, TabsTrigger, TabsContent } from "@/components/ui/tabs";
+import { LineChart, BarChart, PieChart } from "@/components/charts";
+import { Badge } from "@/components/ui/badge";
+import {
+  TrendingUp,
+  TrendingDown,
+  Droplets,
+  Leaf,
+  Sun,
+  Wind,
+  Factory,
+  Sprout,
+} from "lucide-react";
 
 const AgricultureSection = () => {
   const [selectedModel, setSelectedModel] = useState(
@@ -162,6 +175,216 @@ const AgricultureSection = () => {
     );
   };
 
+  const getModelSpecificMetrics = (model) => {
+    // Implement this function to return model-specific metrics
+    return {};
+  };
+
+  const formatMetricName = (key) => {
+    // Implement this function to format metric names
+    return key;
+  };
+
+  const getMetricIcon = (key) => {
+    // Implement this function to return the appropriate icon for a metric
+    return <Factory className="h-5 w-5" />;
+  };
+
+  const getMetricColor = (key) => {
+    // Implement this function to return the appropriate color for a metric
+    return "bg-green-700";
+  };
+
+  const getMetricTrends = (model) => {
+    if (model !== "Global Change Assessment Model") {
+      return [];
+    }
+
+    // Historical data (2010-2020) and projections (2020-2050) based on GCAM documentation
+    // and FAO/IPCC reports
+    return {
+      data: [
+        {
+          year: 2010,
+          "Agricultural Emissions (Gt CO2e)": 6.2,
+          "Land Use Change (Gt CO2e)": 2.9,
+          "Crop Yield Index": 100,
+          "Water Stress Index": 100,
+        },
+        {
+          year: 2015,
+          "Agricultural Emissions (Gt CO2e)": 6.8,
+          "Land Use Change (Gt CO2e)": 2.7,
+          "Crop Yield Index": 106,
+          "Water Stress Index": 104,
+        },
+        {
+          year: 2020,
+          "Agricultural Emissions (Gt CO2e)": 7.1,
+          "Land Use Change (Gt CO2e)": 2.6,
+          "Crop Yield Index": 112,
+          "Water Stress Index": 108,
+        },
+        // Projections start here (Reference Scenario)
+        {
+          year: 2025,
+          "Agricultural Emissions (Gt CO2e)": 7.4,
+          "Land Use Change (Gt CO2e)": 2.4,
+          "Crop Yield Index": 118,
+          "Water Stress Index": 113,
+        },
+        {
+          year: 2030,
+          "Agricultural Emissions (Gt CO2e)": 7.8,
+          "Land Use Change (Gt CO2e)": 2.2,
+          "Crop Yield Index": 125,
+          "Water Stress Index": 119,
+        },
+        {
+          year: 2035,
+          "Agricultural Emissions (Gt CO2e)": 8.1,
+          "Land Use Change (Gt CO2e)": 2.0,
+          "Crop Yield Index": 132,
+          "Water Stress Index": 126,
+        },
+        {
+          year: 2040,
+          "Agricultural Emissions (Gt CO2e)": 8.3,
+          "Land Use Change (Gt CO2e)": 1.8,
+          "Crop Yield Index": 140,
+          "Water Stress Index": 134,
+        },
+        {
+          year: 2045,
+          "Agricultural Emissions (Gt CO2e)": 8.5,
+          "Land Use Change (Gt CO2e)": 1.6,
+          "Crop Yield Index": 148,
+          "Water Stress Index": 143,
+        },
+        {
+          year: 2050,
+          "Agricultural Emissions (Gt CO2e)": 8.7,
+          "Land Use Change (Gt CO2e)": 1.4,
+          "Crop Yield Index": 157,
+          "Water Stress Index": 152,
+        },
+      ],
+      lines: [
+        "Agricultural Emissions (Gt CO2e)",
+        "Land Use Change (Gt CO2e)",
+        "Crop Yield Index",
+        "Water Stress Index",
+      ],
+      metadata: {
+        sources: [
+          {
+            name: "GCAM Documentation",
+            url: "https://jgcri.github.io/gcam-doc/aglu.html",
+            metrics: ["Agricultural Emissions", "Land Use Change"],
+          },
+          {
+            name: "FAO Agricultural Outlook 2020-2029",
+            url: "https://www.fao.org/documents/card/en/c/ca8861en/",
+            metrics: ["Crop Yield Index"],
+          },
+          {
+            name: "IPCC AR6 WGIII Chapter 7",
+            url: "https://www.ipcc.ch/report/ar6/wg3/chapter/chapter-7/",
+            metrics: ["Water Stress Index"],
+          },
+        ],
+        notes: [
+          "Agricultural Emissions include both direct emissions from agricultural activities and indirect emissions from input production",
+          "Land Use Change emissions are primarily from deforestation and land conversion",
+          "Crop Yield Index is normalized to 2010 levels (2010 = 100)",
+          "Water Stress Index measures agricultural water demand relative to 2010 levels (2010 = 100)",
+        ],
+        assumptions: [
+          "Reference scenario assumes current policies and technological trends",
+          "No additional climate policies beyond those existing in 2020",
+          "Continued population growth following UN medium projection",
+          "GDP growth following SSP2 (middle of the road) scenario",
+        ],
+      },
+    };
+  };
+
+  const getResourceDistribution = (model) => {
+    // Implement this function to return the resource distribution data for a model
+    return [];
+  };
+
+  const getEnvironmentalImpacts = (model) => {
+    // Implement this function to return the environmental impacts for a model
+    return [];
+  };
+
+  const getEmissionsProjections = (model) => {
+    // Implement this function to return the emissions projections for a model
+    return [];
+  };
+
+  const getScenarioComparison = (model) => {
+    // Implement this function to return the scenario comparison data for a model
+    return [];
+  };
+
+  const MetricTrendsChart = () => {
+    const data = getMetricTrends(selectedModel);
+
+    if (!data || !data.data || data.data.length === 0) {
+      return <div>No trend data available</div>;
+    }
+
+    return (
+      <div className="bg-slate-800 rounded-lg p-6">
+        <div className="mb-6">
+          <h3 className="text-xl font-semibold text-slate-200">
+            GCAM Agricultural Metrics Trends (2010-2050)
+          </h3>
+          <p className="text-sm text-slate-400 mt-1">
+            Historical data and projections of key agricultural indicators
+          </p>
+        </div>
+
+        <div className="h-[400px] w-full">
+          <LineChart data={data.data} lines={data.lines} xAxisKey="year" />
+        </div>
+
+        <div className="mt-6">
+          <h4 className="font-semibold text-slate-300 mb-2">Data Sources:</h4>
+          <ul className="list-disc list-inside text-sm text-slate-400">
+            {data.metadata.sources.map((source, index) => (
+              <li key={index}>
+                {source.name} - {source.metrics.join(", ")}
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div className="mt-4">
+          <h4 className="font-semibold text-slate-300 mb-2">Notes:</h4>
+          <ul className="list-disc list-inside text-sm text-slate-400">
+            {data.metadata.notes.map((note, index) => (
+              <li key={index}>{note}</li>
+            ))}
+          </ul>
+        </div>
+
+        <div className="mt-4">
+          <h4 className="font-semibold text-slate-300 mb-2">
+            Key Assumptions:
+          </h4>
+          <ul className="list-disc list-inside text-sm text-slate-400">
+            {data.metadata.assumptions.map((assumption, index) => (
+              <li key={index}>{assumption}</li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    );
+  };
+
   return (
     <section
       id="agriculture"
@@ -185,61 +408,149 @@ const AgricultureSection = () => {
           tooltip={getTooltipContent()}
         />
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-        <StatCard
-          title="Agriculture CO2e"
-          value={`${currentScenario.co2e} tons`}
-          icon="wheat"
-          color="bg-green-700"
-        />
-        <StatCard
-          title="YoY Change"
-          value={`${currentScenario.yoyChange}%`}
-          icon={
-            currentScenario.yoyChange.startsWith("-")
-              ? "trending-down"
-              : "trending-up"
-          }
-          color={
-            currentScenario.yoyChange.startsWith("-")
-              ? "bg-green-600"
-              : "bg-red-600"
-          }
-        />
 
-        {/* Dynamic stats based on selected model */}
-        {Object.entries(currentScenario)
-          .filter(
-            ([key]) =>
-              ![
-                "co2e",
-                "yoyChange",
-                "chartUrl",
-                "description",
-                "keyFeatures",
-              ].includes(key)
-          )
-          .map(([key, value]) => (
-            <StatCard
-              key={key}
-              title={key.replace(/([A-Z])/g, " $1").trim()} // Convert camelCase to spaces
-              value={value}
-              icon="chart"
-              color="bg-blue-600"
-            />
-          ))}
-      </div>
+      <Tabs defaultValue="overview" className="flex-grow">
+        <TabsList className="mb-6">
+          <TabsTrigger value="overview">Overview</TabsTrigger>
+          <TabsTrigger value="metrics">Key Metrics</TabsTrigger>
+          <TabsTrigger value="impacts">Environmental Impacts</TabsTrigger>
+          <TabsTrigger value="projections">Future Projections</TabsTrigger>
+        </TabsList>
 
-      <div className="mb-8 bg-slate-800 p-4 rounded-lg">
-        <h3 className="text-xl font-semibold mb-2">Model Description</h3>
-        <p className="text-gray-300 mb-4">{currentScenario.description}</p>
-        <h4 className="text-lg font-semibold mb-2">Key Features</h4>
-        <ul className="list-disc list-inside text-gray-300">
-          {currentScenario.keyFeatures.map((feature, index) => (
-            <li key={index}>{feature}</li>
-          ))}
-        </ul>
-      </div>
+        <TabsContent value="overview">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {/* Main metrics cards */}
+            <div className="grid grid-cols-2 gap-4">
+              <StatCard
+                title="Agriculture CO2e"
+                value={`${currentScenario.co2e} tons`}
+                icon={<Factory className="h-5 w-5" />}
+                color="bg-green-700"
+              />
+              <StatCard
+                title="YoY Change"
+                value={currentScenario.yoyChange}
+                icon={
+                  currentScenario.yoyChange.startsWith("-") ? (
+                    <TrendingDown className="h-5 w-5" />
+                  ) : (
+                    <TrendingUp className="h-5 w-5" />
+                  )
+                }
+                color={
+                  currentScenario.yoyChange.startsWith("-")
+                    ? "bg-green-600"
+                    : "bg-red-600"
+                }
+              />
+            </div>
+
+            {/* Model description and features */}
+            <div className="p-6 bg-slate-800">
+              <h3 className="text-xl font-semibold mb-4">About this Model</h3>
+              <p className="text-gray-300 mb-4">
+                {models.find((m) => m.value === selectedModel).description}
+              </p>
+              <div className="flex flex-wrap gap-2">
+                {currentScenario.keyFeatures.map((feature, index) => (
+                  <Badge key={index} variant="secondary">
+                    {feature}
+                  </Badge>
+                ))}
+              </div>
+            </div>
+          </div>
+        </TabsContent>
+
+        <TabsContent value="metrics">
+          <div className="space-y-6">
+            <MetricTrendsChart />
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+              {/* Model-specific metrics */}
+              {Object.entries(getModelSpecificMetrics(selectedModel)).map(
+                ([key, value]) => (
+                  <StatCard
+                    key={key}
+                    title={formatMetricName(key)}
+                    value={value}
+                    icon={getMetricIcon(key)}
+                    color={getMetricColor(key)}
+                  />
+                )
+              )}
+            </div>
+          </div>
+        </TabsContent>
+
+        <TabsContent value="impacts">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+            {/* Environmental impact visualization */}
+            <div className="p-6 bg-slate-800">
+              <h3 className="text-xl font-semibold mb-4">
+                Resource Usage Distribution
+              </h3>
+              <div className="h-80">
+                <PieChart data={getResourceDistribution(selectedModel)} />
+              </div>
+            </div>
+
+            {/* Impact metrics */}
+            <div className="p-6 bg-slate-800">
+              <h3 className="text-xl font-semibold mb-4">
+                Environmental Impact Metrics
+              </h3>
+              <div className="space-y-4">
+                {getEnvironmentalImpacts(selectedModel).map((impact, index) => (
+                  <div
+                    key={index}
+                    className="flex items-center justify-between"
+                  >
+                    <span className="text-gray-300">{impact.label}</span>
+                    <div className="flex items-center gap-2">
+                      <span
+                        className={`text-${
+                          impact.trend === "positive" ? "green" : "red"
+                        }-400`}
+                      >
+                        {impact.value}
+                      </span>
+                      {impact.trend === "positive" ? (
+                        <TrendingUp className="h-4 w-4 text-green-400" />
+                      ) : (
+                        <TrendingDown className="h-4 w-4 text-red-400" />
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+        </TabsContent>
+
+        <TabsContent value="projections">
+          <div className="space-y-6">
+            {/* Emissions projection chart */}
+            <div className="p-6 bg-slate-800">
+              <h3 className="text-xl font-semibold mb-4">
+                Emissions Projections (2020-2050)
+              </h3>
+              <div className="h-80">
+                <LineChart data={getEmissionsProjections(selectedModel)} />
+              </div>
+            </div>
+
+            {/* Scenario comparison */}
+            <div className="p-6 bg-slate-800">
+              <h3 className="text-xl font-semibold mb-4">
+                Scenario Comparison
+              </h3>
+              <div className="h-80">
+                <BarChart data={getScenarioComparison(selectedModel)} />
+              </div>
+            </div>
+          </div>
+        </TabsContent>
+      </Tabs>
 
       {/* View Dashboard Button */}
       <button
