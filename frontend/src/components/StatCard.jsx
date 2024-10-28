@@ -8,7 +8,7 @@ const iconMap = {
   leaf: Leaf,
 };
 
-const StatCard = ({ title, value, icon: Icon, color }) => {
+const StatCard = ({ title, value, icon, color }) => {
   const [count, setCount] = useState(0);
   const duration = 1000;
   const steps = 30;
@@ -57,7 +57,7 @@ const StatCard = ({ title, value, icon: Icon, color }) => {
     <div className={`p-4 rounded-lg ${color}`}>
       <div className="flex items-center justify-between">
         <span className="text-sm text-gray-200">{title}</span>
-        {IconComponent && <IconComponent className="h-5 w-5" />}
+        {icon}
       </div>
       <div className="mt-2 text-2xl font-semibold text-white">
         {formatValue(count)}

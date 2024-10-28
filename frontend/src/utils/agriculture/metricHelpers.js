@@ -6,6 +6,7 @@ import {
   Tractor,
   Leaf,
 } from "lucide-react";
+import React from "react";
 
 export const getModelSpecificMetrics = (model) => {
   const metrics = {
@@ -77,7 +78,10 @@ export const getMetricIcon = (key) => {
     wasteReduction: Factory,
   };
 
-  return iconMap[key] || Factory;
+  const IconComponent = iconMap[key] || Factory;
+  return React.createElement(IconComponent, {
+    className: "h-5 w-5 text-white",
+  });
 };
 
 export const getMetricColor = (key) => {

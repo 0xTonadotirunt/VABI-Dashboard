@@ -16,7 +16,6 @@ const AgricultureMetrics = ({ selectedModel }) => {
         {Object.entries(getModelSpecificMetrics(selectedModel)).map(
           ([key, value]) => (
             <StatCard
-              key={key}
               title={formatMetricName(key)}
               value={value}
               icon={getMetricIcon(key)}
