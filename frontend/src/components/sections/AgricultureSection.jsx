@@ -94,8 +94,8 @@ const AgricultureSection = () => {
           }
           color={
             currentScenario.yoyChange.startsWith("-")
-              ? "bg-green-600"
-              : "bg-red-600"
+              ? "bg-red-600"
+              : "bg-green-600"
           }
         />
       </div>
