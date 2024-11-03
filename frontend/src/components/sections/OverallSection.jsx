@@ -71,7 +71,7 @@ import ChartCard from "@/components/ChartCard";
 
   
     return (
-      <section id="overall" className="min-h-screen p-6 flex flex-col">
+      <section id="overall" className="min-h-screen snap-start p-6 flex flex-col">
         <h1 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
           Overall Emissions
         </h1>
