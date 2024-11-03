@@ -11,7 +11,7 @@ const TransportSection = () => {
         <StatCard title="Transport CO2e" value="6,170,000 tons" icon="truck" color="bg-yellow-600" />
         <StatCard title="YoY Change" value="-2.06%" icon="trending-down" color="bg-green-600" />
       </div>
-      <div className="h-[600px] overflow-y-auto border border-gray-300 rounded-lg gap-6">
+      <div className="h-[73.5vh] overflow-y-auto border border-gray-300 rounded-lg gap-6">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
           {/* Each ChartCard should have a fixed height */}
           <ChartCard
