@@ -1,16 +1,21 @@
-import React, {useState} from "react";
+import React, { useState } from "react";
 import StatCard from "@/components/StatCard";
 import ChartCard from "@/components/ChartCard";
 import { Select } from "@/components/ui/select";
 
 const ManufacturingSection = () => {
-  const [selectedModel, setSelectedModel] = useState("Global Change Assessment Model");
+  const [selectedModel, setSelectedModel] = useState(
+    "Global Change Assessment Model"
+  );
 
   const models = [
-    { value: "Energy Sources of Manufacturing", label: "Energy Sources of Manufacturing" },
+    {
+      value: "Energy Sources of Manufacturing",
+      label: "Energy Sources of Manufacturing",
+    },
     { value: "Types of Manufacturing", label: "Types of Manufacturing" },
     { value: "Real Output by Industry", label: "Real Output by Industry" },
-    { value: "CO2 Emissions by Industry", label: "CO2 Emissions by Industry" }  
+    { value: "CO2 Emissions by Industry", label: "CO2 Emissions by Industry" },
   ];
 
   // FIX VALUES
@@ -40,17 +45,20 @@ const ManufacturingSection = () => {
       title: "Industry with the highest average YOY change",
       co2e: "Cement and lime",
       yoyChange: "+0.61",
-      chartUrl: "https://public.tableau.com/views/ManufacturingEmissions/CO2EmissionsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
-    }
+      chartUrl:
+        "https://public.tableau.com/views/ManufacturingEmissions/CO2EmissionsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    },
   };
 
-  const currentScenario = scenarioData[selectedModel] || scenarioData["Energy Sources of Manufacturing"];
+  const currentScenario =
+    scenarioData[selectedModel] ||
+    scenarioData["Energy Sources of Manufacturing"];
 
   const customVizOptions = {
     hideTabs: true,
     hideToolbar: true,
-    width: '100%',
-    height: '100%',
+    width: "100%",
+    height: "100%",
     device: "desktop",
     onFirstInteractive: function () {
       console.log("Viz is interactive");
@@ -58,10 +66,7 @@ const ManufacturingSection = () => {
   };
 
   return (
-    <section
-      id="manufacturing"
-      className="min-h-screen p-6 flex flex-col"
-    >
+    <section id="manufacturing" className="min-h-screen p-6 flex flex-col">
       <h2 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
         Manufacturing Industry
       </h2>
@@ -104,7 +109,8 @@ const ManufacturingSection = () => {
       <div className="grow h-[800px] w-full">
         <ChartCard
           title={`Manufacturing Emissions by Source (${
-            models.find((m) => m.value === selectedModel)?.label || "Energy Sources of Manufacturing"
+            models.find((m) => m.value === selectedModel)?.label ||
+            "Energy Sources of Manufacturing"
           })`}
           chartUrl={currentScenario.chartUrl}
           className="w-full h-full"

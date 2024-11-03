@@ -1,13 +1,15 @@
 import { useState } from "react";
 import { BarChart2 } from "lucide-react";
-import { models } from "@/data/agriculture/models";
-import { scenarioData } from "@/data/agriculture/scenarioData";
+import { useAgricultureData } from "@/hooks/useAgricultureData";
 import AgricultureOverview from "./AgricultureOverview";
 import AgricultureMetrics from "./AgricultureMetrics";
 import AgricultureImpacts from "./AgricultureImpacts";
 import AgricultureProjections from "./AgricultureProjections";
-import Modal from "@/components/ui/modal";
+import modal from "@/components/ui/modal";
 import ChartCard from "@/components/ChartCard";
+import { scenarioData } from "@/data/agriculture/scenarioData";
+
+import { models } from "@/data/agriculture/models";
 
 const AgricultureSection = () => {
   const [selectedModel, setSelectedModel] = useState(
@@ -15,6 +17,7 @@ const AgricultureSection = () => {
   );
   const [activeTab, setActiveTab] = useState("overview");
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const { emissionsData, isLoading } = useAgricultureData();
 
   const currentScenario =
     scenarioData[selectedModel] ||
@@ -31,6 +34,8 @@ const AgricultureSection = () => {
           <AgricultureOverview
             currentScenario={currentScenario}
             selectedModel={selectedModel}
+            models={models}
+            emissionsData={emissionsData}
           />
         );
       case "metrics":
@@ -56,10 +61,7 @@ const AgricultureSection = () => {
   };
 
   return (
-    <section
-      id="agriculture"
-      className="min-h-screen p-6 flex flex-col"
-    >
+    <section id="agriculture" className="min-h-screen p-6 flex flex-col">
       <h2 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
         Agriculture Industry
       </h2>
@@ -86,23 +88,29 @@ const AgricultureSection = () => {
       </div>
 
       <div className="flex-grow">
-        <div className="flex space-x-4 mb-6 border-b border-slate-700">
-          {["overview", "metrics", "impacts", "projections"].map((tab) => (
-            <button
-              key={tab}
-              onClick={() => setActiveTab(tab)}
-              className={`px-4 py-2 text-sm font-medium ${
-                activeTab === tab
-                  ? "text-indigo-300 border-b-2 border-indigo-300"
-                  : "text-gray-400 hover:text-gray-300"
-              }`}
-            >
-              {tab.charAt(0).toUpperCase() + tab.slice(1)}
-            </button>
-          ))}
-        </div>
+        {isLoading ? (
+          <div className="text-center p-4">Loading agriculture data...</div>
+        ) : (
+          <>
+            <div className="flex space-x-4 mb-6 border-b border-slate-700">
+              {["overview", "metrics", "impacts", "projections"].map((tab) => (
+                <button
+                  key={tab}
+                  onClick={() => setActiveTab(tab)}
+                  className={`px-4 py-2 text-sm font-medium ${
+                    activeTab === tab
+                      ? "text-indigo-300 border-b-2 border-indigo-300"
+                      : "text-gray-400 hover:text-gray-300"
+                  }`}
+                >
+                  {tab.charAt(0).toUpperCase() + tab.slice(1)}
+                </button>
+              ))}
+            </div>
 
-        {renderTabContent()}
+            {renderTabContent()}
+          </>
+        )}
       </div>
 
       <button
@@ -113,7 +121,7 @@ const AgricultureSection = () => {
         View Detailed Dashboard
       </button>
 
-      <Modal
+      <modal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         title={`Agriculture Emissions Analysis - ${
@@ -127,7 +135,7 @@ const AgricultureSection = () => {
             vizOptions={customVizOptions}
           />
         </div>
-      </Modal>
+      </modal>
     </section>
   );
 };
