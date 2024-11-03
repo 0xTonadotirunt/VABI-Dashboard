@@ -1,12 +1,5 @@
 import React, { useState } from "react";
-import {
-  ChevronLeft,
-  ChevronRight,
-  BarChart2,
-  Truck,
-  Wheat,
-  Factory,
-} from "lucide-react";
+import { ChevronLeft, ChevronRight, BarChart2, Truck, Wheat, Factory, Trees } from "lucide-react";
 import { useActiveSection } from "@/contexts/ActiveSectionContext";
 
 const SideNav = () => {
@@ -22,14 +15,11 @@ const SideNav = () => {
     { id: "transport", label: "Transport", icon: Truck },
     { id: "agriculture", label: "Agriculture", icon: Wheat },
     { id: "manufacturing", label: "Manufacturing", icon: Factory },
+    { id: "trees", label: "Trees", icon: Trees },
   ];
 
   return (
-    <nav
-      className={`bg-slate-800 transition-all duration-300 ease-in-out relative ${
-        isExpanded ? "w-64" : "w-16"
-      }`}
-    >
+    <nav className={`bg-slate-800 transition-all duration-300 ease-in-out relative ${isExpanded ? "w-64" : "w-16"}`}>
       <button
         onClick={toggleNav}
         className={`absolute top-2 bg-slate-700 text-white p-1 rounded-full z-10 transition-all duration-300 ease-in-out ${
@@ -43,11 +33,7 @@ const SideNav = () => {
           <li key={item.id}>
             <a
               href={`#${item.id}`}
-              className={`flex items-center transition-colors ${
-                activeSection === item.id
-                  ? "text-indigo-300"
-                  : "text-white hover:text-indigo-300"
-              }`}
+              className={`flex items-center transition-colors ${activeSection === item.id ? "text-indigo-300" : "text-white hover:text-indigo-300"}`}
             >
               <item.icon size={24} />
               {isExpanded && <span className="ml-2">{item.label}</span>}

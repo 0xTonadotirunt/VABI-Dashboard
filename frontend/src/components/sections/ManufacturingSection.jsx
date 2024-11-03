@@ -66,7 +66,10 @@ const ManufacturingSection = () => {
   };
 
   return (
-    <section id="manufacturing" className="min-h-screen p-6 flex flex-col">
+    <section
+      id="manufacturing"
+      className="min-h-screen snap-start p-6 flex flex-col"
+    >
       <h2 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
         Manufacturing Industry
       </h2>

@@ -5,11 +5,9 @@ import OverallSection from "@/components/sections/OverallSection";
 import TransportSection from "@/components/sections/TransportSection";
 import AgricultureSection from "@/components/sections/AgricultureSection";
 import ManufacturingSection from "@/components/sections/ManufacturingSection";
-import {
-  ActiveSectionProvider,
-  useActiveSection,
-} from "@/contexts/ActiveSectionContext";
+import { ActiveSectionProvider, useActiveSection } from "@/contexts/ActiveSectionContext";
 import "./Dashboard.css";
+import TreeSection from "@/components/sections/TreeSection";
 
 const DashboardContent = () => {
   const { setActiveSection } = useActiveSection();
@@ -29,10 +27,7 @@ const DashboardContent = () => {
       });
     };
 
-    const observer = new IntersectionObserver(
-      observerCallback,
-      observerOptions
-    );
+    const observer = new IntersectionObserver(observerCallback, observerOptions);
 
     const sections = document.querySelectorAll("section");
     sections.forEach((section) => observer.observe(section));
@@ -50,6 +45,7 @@ const DashboardContent = () => {
           <TransportSection />
           <AgricultureSection />
           <ManufacturingSection />
+          <TreeSection />
         </main>
       </div>
     </div>
