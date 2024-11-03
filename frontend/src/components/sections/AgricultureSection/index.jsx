@@ -8,7 +8,6 @@ import AgricultureProjections from "./AgricultureProjections";
 import modal from "@/components/ui/modal";
 import ChartCard from "@/components/ChartCard";
 import { scenarioData } from "@/data/agriculture/scenarioData";
-
 import { models } from "@/data/agriculture/models";
 
 const AgricultureSection = () => {
@@ -23,69 +22,11 @@ const AgricultureSection = () => {
     scenarioData[selectedModel] ||
     scenarioData["Global Change Assessment Model"];
 
-  const handleModelChange = (event) => {
-    setSelectedModel(event.target.value);
-  };
-
-  const renderTabContent = () => {
-    switch (activeTab) {
-      case "overview":
-        return (
-          <AgricultureOverview
-            currentScenario={currentScenario}
-            selectedModel={selectedModel}
-            models={models}
-            emissionsData={emissionsData}
-          />
-        );
-      case "metrics":
-        return <AgricultureMetrics selectedModel={selectedModel} />;
-      case "impacts":
-        return <AgricultureImpacts selectedModel={selectedModel} />;
-      case "projections":
-        return <AgricultureProjections selectedModel={selectedModel} />;
-      default:
-        return null;
-    }
-  };
-
-  const customVizOptions = {
-    hideTabs: true,
-    hideToolbar: true,
-    width: "100%",
-    height: "100%",
-    device: "desktop",
-    onFirstInteractive: function () {
-      console.log("Viz is interactive");
-    },
-  };
-
   return (
     <section id="agriculture" className="min-h-screen p-6 flex flex-col">
       <h2 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
         Agriculture Industry
       </h2>
-
-      <div className="mb-6">
-        <label
-          htmlFor="model-select"
-          className="block text-sm font-medium text-gray-300 mb-2"
-        >
-          Select Scenario Model
-        </label>
-        <select
-          id="model-select"
-          value={selectedModel}
-          onChange={handleModelChange}
-          className="w-full bg-slate-800 text-white border border-slate-700 rounded-lg p-2"
-        >
-          {models.map((model) => (
-            <option key={model.value} value={model.value}>
-              {model.label}
-            </option>
-          ))}
-        </select>
-      </div>
 
       <div className="flex-grow">
         {isLoading ? (
@@ -93,7 +34,7 @@ const AgricultureSection = () => {
         ) : (
           <>
             <div className="flex space-x-4 mb-6 border-b border-slate-700">
-              {["overview", "metrics", "impacts", "projections"].map((tab) => (
+              {["overview", "BAU", "projections"].map((tab) => (
                 <button
                   key={tab}
                   onClick={() => setActiveTab(tab)}
@@ -108,7 +49,22 @@ const AgricultureSection = () => {
               ))}
             </div>
 
-            {renderTabContent()}
+            {activeTab === "overview" && (
+              <AgricultureOverview emissionsData={emissionsData} />
+            )}
+            {activeTab === "BAU" && (
+              <AgricultureMetrics selectedModel={selectedModel} />
+            )}
+            {/* {activeTab === "impacts" && (
+              <AgricultureImpacts selectedModel={selectedModel} />
+            )} */}
+            {activeTab === "projections" && (
+              <AgricultureProjections
+                selectedModel={selectedModel}
+                setSelectedModel={setSelectedModel}
+                models={models}
+              />
+            )}
           </>
         )}
       </div>
@@ -129,11 +85,11 @@ const AgricultureSection = () => {
         }`}
       >
         <div className="h-[80vh]">
-          <ChartCard
+          {/* <ChartCard
             chartUrl={currentScenario.chartUrl}
             className="w-full h-full"
             vizOptions={customVizOptions}
-          />
+          /> */}
         </div>
       </modal>
     </section>

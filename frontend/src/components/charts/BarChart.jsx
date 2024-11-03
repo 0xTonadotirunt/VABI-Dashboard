@@ -10,7 +10,12 @@ import {
   ResponsiveContainer,
 } from "recharts";
 
-export const BarChart = ({ data, bars = ["value"], xAxisKey = "name" }) => {
+export const BarChart = ({
+  data,
+  indexBy = "name",
+  keys = ["value"],
+  legends = [],
+}) => {
   const colors = ["#6366f1", "#22c55e", "#eab308", "#ec4899"];
 
   return (
@@ -20,7 +25,7 @@ export const BarChart = ({ data, bars = ["value"], xAxisKey = "name" }) => {
         margin={{ top: 5, right: 30, left: 20, bottom: 5 }}
       >
         <CartesianGrid strokeDasharray="3 3" stroke="#475569" />
-        <XAxis dataKey={xAxisKey} stroke="#94a3b8" tick={{ fill: "#94a3b8" }} />
+        <XAxis dataKey={indexBy} stroke="#94a3b8" tick={{ fill: "#94a3b8" }} />
         <YAxis stroke="#94a3b8" tick={{ fill: "#94a3b8" }} />
         <Tooltip
           contentStyle={{
@@ -36,12 +41,14 @@ export const BarChart = ({ data, bars = ["value"], xAxisKey = "name" }) => {
             color: "#94a3b8",
           }}
         />
-        {bars.map((bar, index) => (
+        {keys.map((key, index) => (
           <Bar
-            key={bar}
-            dataKey={bar}
+            key={key}
+            dataKey={key}
+            name={legends.find((l) => l.id === key)?.label || key}
             fill={colors[index % colors.length]}
             radius={[4, 4, 0, 0]}
+            stackId="stack"
           />
         ))}
       </RechartsBarChart>

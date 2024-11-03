@@ -20,23 +20,36 @@ const AgricultureOverview = ({
     ].sort((a, b) => b - a);
   }, [emissionsData]);
 
-  // Update topEmittersData to use selectedYear
+  // Update topEmittersData to group by gas type
   const topEmittersData = useMemo(() => {
     if (!emissionsData?.length) return [];
 
     const data = emissionsData
       .filter((d) => {
         const year = new Date(d.Date).getFullYear();
-        return year === selectedYear && d.Gas === "All GHG";
+        return year === selectedYear && ["CH4", "N2O"].includes(d.Gas);
       })
-      .sort((a, b) => b.Value - a.Value)
-      .slice(0, 5)
-      .map((d) => ({
-        name: d.Country.length > 12 ? d.ISO : d.Country,
-        value: d.Value, // Keep as number for the chart
-      }));
+      .reduce((acc, curr) => {
+        // Find or create country entry
+        const countryEntry = acc.find(
+          (entry) =>
+            entry.name === (curr.Country.length > 12 ? curr.ISO : curr.Country)
+        );
 
-    console.log("Formatted data for BarChart:", data);
+        if (countryEntry) {
+          countryEntry[curr.Gas] = curr.Value;
+        } else {
+          acc.push({
+            name: curr.Country.length > 12 ? curr.ISO : curr.Country,
+            [curr.Gas]: curr.Value,
+          });
+        }
+        return acc;
+      }, [])
+      .sort((a, b) => b.CH4 + b.N2O - (a.CH4 + a.N2O))
+      .slice(0, 5);
+
+    console.log("Formatted data for Stacked BarChart:", data);
     return data;
   }, [emissionsData, selectedYear]);
 
@@ -110,7 +123,15 @@ const AgricultureOverview = ({
         </div>
         <div className="h-[300px]">
           {topEmittersData.length > 0 && (
-            <BarChart data={topEmittersData} indexBy="name" keys={["value"]} />
+            <BarChart
+              data={topEmittersData}
+              indexBy="name"
+              keys={["CH4", "N2O"]}
+              legends={[
+                { id: "CH4", label: "Methane (CH4)" },
+                { id: "N2O", label: "Nitrous Oxide (N2O)" },
+              ]}
+            />
           )}
         </div>
       </div>
@@ -134,21 +155,6 @@ const AgricultureOverview = ({
             No gas type data available for {selectedYear}
           </div>
         )}
-      </div>
-
-      <div className="lg:col-span-2 p-6 bg-slate-800 rounded-lg">
-        <h3 className="text-xl font-semibold mb-4">About this Model</h3>
-        <p className="text-gray-300 mb-4">
-          {models.find((m) => m.value === selectedModel)?.description ||
-            "Model description not available"}
-        </p>
-        <div className="flex flex-wrap gap-2">
-          {currentScenario?.keyFeatures?.map((feature, index) => (
-            <Badge key={index} variant="secondary">
-              {feature}
-            </Badge>
-          ))}
-        </div>
       </div>
     </div>
   );
