@@ -103,7 +103,7 @@ const MetricTrendsChart = ({ selectedModel }) => {
       <div className="bg-slate-800 rounded-lg p-6">
         <div className="mb-6">
           <h3 className="text-xl font-semibold text-slate-200">
-            GCAM Agricultural Metrics Trends (2010-2050)
+            Business As Usual (BAU) Agricultural Metrics Trends (2010-2050)
           </h3>
           <p className="text-sm text-slate-400 mt-1">
             Historical data and projections of key agricultural indicators
