@@ -18,7 +18,7 @@ export const useAgricultureData = () => {
             const parsedData = results.data
               .filter((row) => row.ISO && row.Value)
               .map((row) => ({
-                ISO: row.ISO,
+                ISO: row["ISO"],
                 Country: row.Country,
                 Gas: row.Gas,
                 Date: new Date(row.Timestamp),

@@ -1,7 +1,8 @@
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import { BarChart } from "@/components/charts/BarChart";
 import { PieChart } from "@/components/charts/PieChart";
 import { Badge } from "@/components/ui/badge";
+import { GeoMap } from "@/components/charts/GeoMap";
 
 const AgricultureOverview = ({
   emissionsData = [],
@@ -89,6 +90,61 @@ const AgricultureOverview = ({
 
   console.log("Gas Type Data:", gasTypeData); // Debugging
 
+  // Update mapData preparation
+  const mapData = useMemo(() => {
+    if (!emissionsData?.length) return [];
+
+    return emissionsData
+      .filter((d) => {
+        const year = new Date(d.Date).getFullYear();
+        return year === selectedYear;
+      })
+      .reduce((acc, curr) => {
+        // Find existing country entry
+        const countryEntry = acc.find((d) => d.id === curr.ISO);
+        const value = parseFloat(curr.Value) || 0;
+
+        if (countryEntry) {
+          // Add to total value
+          countryEntry.value += value;
+          // Add or update gas-specific value
+          countryEntry.gases[curr.Gas] =
+            (countryEntry.gases[curr.Gas] || 0) + value;
+        } else {
+          // Create new entry with gases object
+          const newEntry = {
+            id: curr.ISO,
+            value: value,
+            name: curr.Country,
+            gases: {
+              [curr.Gas]: value,
+            },
+          };
+          acc.push(newEntry);
+        }
+        return acc;
+      }, []);
+  }, [emissionsData, selectedYear]);
+
+  // Add this debug log to verify the filtered data
+  useEffect(() => {
+    console.log("Filtered map data:", mapData);
+  }, [mapData]);
+
+  // Add this debug useEffect
+  useEffect(() => {
+    if (emissionsData?.length) {
+      // Log unique years in the data
+      const years = [
+        ...new Set(emissionsData.map((d) => new Date(d.Date).getFullYear())),
+      ];
+      console.log("Available years in data:", years);
+
+      // Log sample of raw data
+      console.log("Sample emissions data:", emissionsData.slice(0, 5));
+    }
+  }, [emissionsData]);
+
   // If no data is available, show a message
   if (
     !emissionsData ||
@@ -155,6 +211,16 @@ const AgricultureOverview = ({
             No gas type data available for {selectedYear}
           </div>
         )}
+      </div>
+
+      {/* Add the map */}
+      <div className="col-span-2 p-6 bg-slate-800 rounded-lg">
+        <h3 className="text-xl font-semibold mb-4">
+          Global Agricultural Emissions ({selectedYear})
+        </h3>
+        <div className="h-[400px] w-full overflow-hidden">
+          <GeoMap data={mapData} />
+        </div>
       </div>
     </div>
   );
