@@ -12,7 +12,7 @@ const AgricultureMetrics = ({ selectedModel }) => {
     <div className="space-y-6">
       <MetricTrendsChart selectedModel={selectedModel} />
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+      {/* <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
         {Object.entries(getModelSpecificMetrics(selectedModel)).map(
           ([key, value]) => (
             <StatCard
@@ -23,7 +23,7 @@ const AgricultureMetrics = ({ selectedModel }) => {
             />
           )
         )}
-      </div>
+      </div> */}
     </div>
   );
 };

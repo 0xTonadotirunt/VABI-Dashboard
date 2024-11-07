@@ -1,12 +1,18 @@
 {
   "dependencies": {
     "@material-tailwind/react": "^2.1.10",
+    "@nivo/parallel-coordinates": "^0.87.0",
     "@radix-ui/react-dialog": "^1.1.2",
     "@radix-ui/react-select": "^2.1.2",
     "@radix-ui/react-tabs": "^1.1.1",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
+    "d3-scale": "^4.0.2",
     "lucide-react": "^0.453.0",
+    "plotly.js-dist": "^2.35.2",
+    "react-markdown": "^9.0.1",
+    "react-plotly.js": "^2.6.0",
+    "react-simple-maps": "^3.0.0",
     "recharts": "^2.13.0",
     "tailwind-merge": "^2.5.4"
   }

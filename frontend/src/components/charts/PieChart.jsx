@@ -18,6 +18,9 @@ export const PieChart = ({ data }) => {
     "#8b5cf6",
   ];
 
+  // print out data
+  console.log(data, "piechartdata");
+
   return (
     <ResponsiveContainer width="100%" height="100%">
       <RechartsPieChart>
@@ -43,7 +46,8 @@ export const PieChart = ({ data }) => {
             border: "1px solid #475569",
             borderRadius: "6px",
           }}
-          labelStyle={{ color: "#94a3b8" }}
+          labelStyle={{ color: "#ffffff" }}
+          itemStyle={{ color: "#ffffff" }}
         />
         <Legend
           wrapperStyle={{

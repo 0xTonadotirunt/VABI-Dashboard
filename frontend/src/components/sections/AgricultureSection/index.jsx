@@ -1,13 +1,14 @@
 import { useState } from "react";
 import { BarChart2 } from "lucide-react";
-import { models } from "@/data/agriculture/models";
-import { scenarioData } from "@/data/agriculture/scenarioData";
+import { useAgricultureData } from "@/hooks/useAgricultureData";
 import AgricultureOverview from "./AgricultureOverview";
 import AgricultureMetrics from "./AgricultureMetrics";
 import AgricultureImpacts from "./AgricultureImpacts";
 import AgricultureProjections from "./AgricultureProjections";
-import Modal from "@/components/ui/modal";
+import modal from "@/components/ui/modal";
 import ChartCard from "@/components/ChartCard";
+import { scenarioData } from "@/data/agriculture/scenarioData";
+import { models } from "@/data/agriculture/models";
 
 const AgricultureSection = () => {
   const [selectedModel, setSelectedModel] = useState(
@@ -15,94 +16,60 @@ const AgricultureSection = () => {
   );
   const [activeTab, setActiveTab] = useState("overview");
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const { emissionsData, isLoading } = useAgricultureData();
 
   const currentScenario =
     scenarioData[selectedModel] ||
     scenarioData["Global Change Assessment Model"];
 
-  const handleModelChange = (event) => {
-    setSelectedModel(event.target.value);
-  };
-
-  const renderTabContent = () => {
-    switch (activeTab) {
-      case "overview":
-        return (
-          <AgricultureOverview
-            currentScenario={currentScenario}
-            selectedModel={selectedModel}
-          />
-        );
-      case "metrics":
-        return <AgricultureMetrics selectedModel={selectedModel} />;
-      case "impacts":
-        return <AgricultureImpacts selectedModel={selectedModel} />;
-      case "projections":
-        return <AgricultureProjections selectedModel={selectedModel} />;
-      default:
-        return null;
-    }
-  };
-
-  const customVizOptions = {
-    hideTabs: true,
-    hideToolbar: true,
-    width: "100%",
-    height: "100%",
-    device: "desktop",
-    onFirstInteractive: function () {
-      console.log("Viz is interactive");
-    },
-  };
-
   return (
     <section
       id="agriculture"
-      className="min-h-screen p-6 flex flex-col"
+      className="min-h-screen snap-start p-6 flex flex-col"
     >
       <h2 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
         Agriculture Industry
       </h2>
 
-      <div className="mb-6">
-        <label
-          htmlFor="model-select"
-          className="block text-sm font-medium text-gray-300 mb-2"
-        >
-          Select Scenario Model
-        </label>
-        <select
-          id="model-select"
-          value={selectedModel}
-          onChange={handleModelChange}
-          className="w-full bg-slate-800 text-white border border-slate-700 rounded-lg p-2"
-        >
-          {models.map((model) => (
-            <option key={model.value} value={model.value}>
-              {model.label}
-            </option>
-          ))}
-        </select>
-      </div>
-
       <div className="flex-grow">
-        <div className="flex space-x-4 mb-6 border-b border-slate-700">
-          {["overview", "metrics", "impacts", "projections"].map((tab) => (
-            <button
-              key={tab}
-              onClick={() => setActiveTab(tab)}
-              className={`px-4 py-2 text-sm font-medium ${
-                activeTab === tab
-                  ? "text-indigo-300 border-b-2 border-indigo-300"
-                  : "text-gray-400 hover:text-gray-300"
-              }`}
-            >
-              {tab.charAt(0).toUpperCase() + tab.slice(1)}
-            </button>
-          ))}
-        </div>
+        {isLoading ? (
+          <div className="text-center p-4">Loading agriculture data...</div>
+        ) : (
+          <>
+            <div className="flex space-x-4 mb-6 border-b border-slate-700">
+              {["overview", "BAU", "projections"].map((tab) => (
+                <button
+                  key={tab}
+                  onClick={() => setActiveTab(tab)}
+                  className={`px-4 py-2 text-sm font-medium ${
+                    activeTab === tab
+                      ? "text-indigo-300 border-b-2 border-indigo-300"
+                      : "text-gray-400 hover:text-gray-300"
+                  }`}
+                >
+                  {tab.charAt(0).toUpperCase() + tab.slice(1)}
+                </button>
+              ))}
+            </div>
 
-        {renderTabContent()}
+            {activeTab === "overview" && (
+              <AgricultureOverview emissionsData={emissionsData} />
+            )}
+            {activeTab === "BAU" && (
+              <AgricultureMetrics selectedModel={selectedModel} />
+            )}
+            {/* {activeTab === "impacts" && (
+              <AgricultureImpacts selectedModel={selectedModel} />
+            )} */}
+            {activeTab === "projections" && (
+              <AgricultureProjections
+                selectedModel={selectedModel}
+                setSelectedModel={setSelectedModel}
+                models={models}
+              />
+            )}
+          </>
+        )}
       </div>
 
       <button
@@ -113,7 +80,7 @@ const AgricultureSection = () => {
         View Detailed Dashboard
       </button>
 
-      <Modal
+      <modal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         title={`Agriculture Emissions Analysis - ${
@@ -121,13 +88,13 @@ const AgricultureSection = () => {
         }`}
       >
         <div className="h-[80vh]">
-          <ChartCard
+          {/* <ChartCard
             chartUrl={currentScenario.chartUrl}
             className="w-full h-full"
             vizOptions={customVizOptions}
-          />
+          /> */}
         </div>
-      </Modal>
+      </modal>
     </section>
   );
 };
