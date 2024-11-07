@@ -19,7 +19,6 @@ export const PieChart = ({ data }) => {
   ];
 
   // print out data
-  console.log(data, "piechartdata");
 
   return (
     <ResponsiveContainer width="100%" height="100%">

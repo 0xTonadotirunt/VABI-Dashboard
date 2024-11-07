@@ -2,7 +2,6 @@ import { useMemo, useState, useEffect } from "react";
 import { LineChart } from "@/components/charts/LineChart";
 import { InfoIcon } from "lucide-react";
 import CustomRadarChart from "../../charts/RadarChart";
-import LandCoverParallel from "./charts/LandCoverParallel";
 import { useGCAMPathways } from "@/hooks/useGCAMPathways";
 
 const AgricultureProjections = ({
@@ -19,17 +18,12 @@ const AgricultureProjections = ({
   // Get unique regions
   const regions = useMemo(() => {
     if (!pathwaysData?.length) {
-      console.log("No pathways data available");
       return ["Global"];
     }
-
-    console.log("Sample data:", pathwaysData.slice(0, 5)); // Log first 5 records
-    console.log("Available fields:", Object.keys(pathwaysData[0])); // Log available fields
 
     const uniqueRegions = [
       ...new Set(pathwaysData.map((d) => d.country_region)),
     ].sort();
-    console.log("Unique regions found:", uniqueRegions);
 
     return ["Global", ...uniqueRegions];
   }, [pathwaysData]);

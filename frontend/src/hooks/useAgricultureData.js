@@ -24,7 +24,6 @@ export const useAgricultureData = () => {
                 Date: new Date(row.Timestamp),
                 Value: parseFloat(row.Value),
               }));
-            console.log("Parsed Data:", parsedData);
             setEmissionsData(parsedData);
             setIsLoading(false);
           },

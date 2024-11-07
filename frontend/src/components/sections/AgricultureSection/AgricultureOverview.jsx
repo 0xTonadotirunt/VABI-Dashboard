@@ -50,7 +50,6 @@ const AgricultureOverview = ({
       .sort((a, b) => b.CH4 + b.N2O - (a.CH4 + a.N2O))
       .slice(0, 5);
 
-    console.log("Formatted data for Stacked BarChart:", data);
     return data;
   }, [emissionsData, selectedYear]);
 
@@ -87,8 +86,6 @@ const AgricultureOverview = ({
       },
     ].filter((item) => item.value > 0);
   }, [emissionsData, selectedYear]);
-
-  console.log("Gas Type Data:", gasTypeData); // Debugging
 
   // Update mapData preparation
   const mapData = useMemo(() => {
@@ -127,9 +124,7 @@ const AgricultureOverview = ({
   }, [emissionsData, selectedYear]);
 
   // Add this debug log to verify the filtered data
-  useEffect(() => {
-    console.log("Filtered map data:", mapData);
-  }, [mapData]);
+  useEffect(() => {}, [mapData]);
 
   // Add this debug useEffect
   useEffect(() => {
@@ -138,10 +133,8 @@ const AgricultureOverview = ({
       const years = [
         ...new Set(emissionsData.map((d) => new Date(d.Date).getFullYear())),
       ];
-      console.log("Available years in data:", years);
 
       // Log sample of raw data
-      console.log("Sample emissions data:", emissionsData.slice(0, 5));
     }
   }, [emissionsData]);
 
