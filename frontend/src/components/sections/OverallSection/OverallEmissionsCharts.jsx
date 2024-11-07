@@ -1,10 +1,11 @@
 
 import React, {useState, useEffect} from "react";
-import StatCard from "@/components/StatCard";
+import StatCard from "./StatCard";
 import ChartCard from "@/components/ChartCard";
+import { tooltip } from "@material-tailwind/react";
 
 
-  const OverallSection = () => {
+  const OverallEmissionsCharts = () => {
     const [currentDashboard, setCurrentDashboard] = useState(
       "https://public.tableau.com/views/EmissionsDataOverview-Global/GlobalDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
     );
@@ -68,6 +69,13 @@ import ChartCard from "@/components/ChartCard";
     }
   };
 
+  const tooltipTextMap = {
+    "Total CO2e": "Measures our total greenhouse gas emissions in CO2 equivalent tons. This includes direct emissions (Scope 1), energy consumption (Scope 2), and indirect emissions (Scope 3).",
+    "Emissions Reduction": "Shows percentage decrease in emissions compared to our baseline year. The trending-down indicator means we're on track with our reduction targets.",
+    "Net-Zero Progress": "Tracks our progress toward net-zero emissions, combining both reduction efforts and offset programs. The target indicator shows we're aligned with our 2050 net-zero commitment.",
+    "Carbon Offset": "Represents the amount of CO2e we've offset through verified carbon removal projects, including reforestation, soil carbon sequestration, and other nature-based solutions."
+  };
+
 
   
     return (
@@ -78,28 +86,32 @@ import ChartCard from "@/components/ChartCard";
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
           <StatCard
-            title="Total CO2e in tons (as of 2020)"
+            title={`Total ${activeTab} GHG CO2e in tons (as of 2020)`}
             value={statValues.totalCO2e}
             icon="cloud"
             color="bg-red-500"
+            tooltipText={tooltipTextMap["Total CO2e"]}
           />
           <StatCard
-            title="Reduction"
+            title={`${activeTab} Emissions Reduction`}
             value={statValues.reduction}
             icon="trending-down"
             color="bg-green-500"
+            tooltipText={tooltipTextMap["Emissions Reduction"]}
           />
           <StatCard
-            title="Net-Zero Progress"
+            title={`${activeTab} Net-Zero Progress`}
             value={statValues.netZeroProgress}
             icon="target"
             color="bg-blue-500"
+            tooltipText={tooltipTextMap["Net-Zero Progress"]}
           />
           <StatCard
-            title="Carbon Offset"
+            title={`${activeTab} Carbon Offset`}
             value={statValues.carbonOffset}
             icon="leaf"
             color="bg-emerald-500"
+            tooltipText={tooltipTextMap["Carbon Offset"]}
           />
         </div>
         <div className="grow h-[800px] w-full mb-6 relative">
@@ -120,7 +132,9 @@ import ChartCard from "@/components/ChartCard";
           ))}
         </div>
         
-              
+      <div>
+
+      </div>
 
       </div>
           <ChartCard
@@ -133,4 +147,4 @@ import ChartCard from "@/components/ChartCard";
     );
   };
   
-  export default OverallSection;
+  export default OverallEmissionsCharts;
