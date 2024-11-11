@@ -43,10 +43,15 @@ const TreeSection = () => {
             className="h-full" // Use h-full to fill the parent's height
           />
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-1 gap-6 h-[600px] mb-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
           <ChartCard
-            title="Largest Species Tree Count in Singapore"
-            chartUrl="https://public.tableau.com/views/SG_Species_Tree_Count/SG_Species_Tree_Count?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+            title="SG Largest CO2 Removal by Species"
+            chartUrl="https://public.tableau.com/views/SGLargestCO2RemovalbySpecies/SGLargestCO2RemovalbySpecies?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
+            className="h-full"
+          />
+          <ChartCard
+            title="SG Largest CO2 Removal by Species"
+            chartUrl="https://public.tableau.com/views/LargestCO2RemovalbySpecies/SGLargestTreeCount?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
           />
         </div>
