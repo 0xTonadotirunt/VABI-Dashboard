@@ -30,7 +30,6 @@ export const GeoMap = memo(({ data }) => {
   const findCountryData = (geo, data) => {
     const countryName = geo.properties.name;
 
-    console.log("dataaaa", data);
     return data.find((d) => d.name === countryName);
   };
 
