@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { ChevronLeft, ChevronRight, BarChart2, Truck, Wheat, Factory, Trees } from "lucide-react";
+import { ChevronLeft, ChevronRight, BarChart2, Truck, Wheat, Factory, Trees, Siren } from "lucide-react";
 import { useActiveSection } from "@/contexts/ActiveSectionContext";
 
 const SideNav = () => {
@@ -14,8 +14,9 @@ const SideNav = () => {
     { id: "overall", label: "Overall", icon: BarChart2 },
     { id: "transport", label: "Transport", icon: Truck },
     { id: "agriculture", label: "Agriculture", icon: Wheat },
-    { id: "trees", label: "Trees", icon: Trees },
     { id: "manufacturing", label: "Manufacturing", icon: Factory },
+    { id: "policy", label: "Policy", icon: Siren },
+    { id: "trees", label: "Trees", icon: Trees },
   ];
 
   return (

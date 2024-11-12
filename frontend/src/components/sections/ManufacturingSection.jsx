@@ -10,15 +10,17 @@ const ManufacturingSection = () => {
   const americaModels = [
     { value: "Energy Sources of Manufacturing", label: "Energy Sources of Manufacturing" },
     { value: "Types of Manufacturing", label: "Types of Manufacturing" },
-    { value: "Real Output and CO2 Emissions by Industry", label: "Real Output and CO2 Emissions by Industry" },
     { value: "Real Output by Industry", label: "Real Output by Industry" },
-    { value: "CO2 Emissions by Industry", label: "CO2 Emissions by Industry" }
+    { value: "CO2 Emissions by Industry", label: "CO2 Emissions by Industry" },
+    { value: "Real Output and CO2 Emissions by Industry", label: "Real Output and CO2 Emissions by Industry" },
+    { value: "Types of Furnace", label: "Types of Furnace" }
   ];
 
   const globalModels = [
     { value: "Greenhouse Gas Emission Overview", label: "Greenhouse Gas Emission Overview" },
-    { value: "Top Greenhouse Gas Emitting Countries", label: "Top Greenhouse Gas Emitting Countries" },
     { value: "Greenhouse Gas by Economic Agreements", label: "Greenhouse Gas by Economic Agreements" },
+    { value: "Top Greenhouse Gas Emitting Countries", label: "Top Greenhouse Gas Emitting Countries" },
+    { value: "Type of Manufacturing Activity", label: "Type of Manufacturing Activity" },
   ];
 
   const models = activeTab === "Global" ? globalModels : americaModels;
@@ -59,6 +61,13 @@ const ManufacturingSection = () => {
       chartUrl:
         "https://public.tableau.com/views/ManufacturingEmissions/CO2EmissionsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     },
+    "Types of Furnace": {
+      title: "Furnace with the greatest increase",
+      co2e: "Electric arc furnace",
+      yoyChange: "+44.0",
+      chartUrl:
+        "https://public.tableau.com/views/ManufacturingEmissions/FurnaceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    },
     "Greenhouse Gas Emission Overview": {
       title: "Country with the greatest average YOY change",
       co2e: "China",
@@ -79,6 +88,13 @@ const ManufacturingSection = () => {
       yoyChange: "+6.84",
       chartUrl:
         "https://public.tableau.com/views/OverallManufacturingEmissions/GHGEA?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    },
+    "Type of Manufacturing Activity": {
+      title: "Manufacturing Activity with the highest average YOY change",
+      co2e: "Metals",
+      yoyChange: "+3.40",
+      chartUrl:
+        "https://public.tableau.com/views/OverallManufacturingEmissions/TypeofManufacturing?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     },
   };
 
