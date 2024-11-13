@@ -25,46 +25,46 @@ const TransportSection = () => {
             className="h-full"
           />
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
+        <div className="grid grid-cols-1 md:grid-cols-1 gap-6 h-[600px] mb-6">
           <ChartCard
             title="SG Emission from Coal, Oil and Gas"
             chartUrl="https://public.tableau.com/views/SGC02Emissions/SGC02Emissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
           />
-          <ChartCard
+          {/* <ChartCard
             title="Car By Fuel Type Combined (Electric, Fuel, Hybrid) Trend"
             chartUrl="https://public.tableau.com/views/CarByFuelTypeCombinedElectricFuelHybrid/CarByFuelTypeCombinedElectricFuelHybridTrend?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
-          />
+          /> */}
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
-          <ChartCard
+          {/* <ChartCard
             title="Car By Fuel Type Combined (Electric, Fuel, Hybrid)"
             chartUrl="https://public.tableau.com/views/CarByFuelTypeCombinedElectricFuelHybrid/CarByFuelTypeCombinedElectricFuelHybrid?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
-          />
+          /> */}
           <ChartCard
             title="Annual COE vs Newly Registered Cars"
             chartUrl="https://public.tableau.com/views/AnnualCOEvsNewlyRegisteredCars/AnnualCOEvsNewlyRegisteredCars?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
           />
-        </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
           <ChartCard
             title="Correlation between Avg COE Price and Newly Register Car"
             chartUrl="https://public.tableau.com/views/CorrelationbetweenAvgCOEPriceandNewlyRegisterCar/CorrelationbetweenAvgCOEPriceandNewlyRegisterCar?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
           />
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
           {/* <ChartCard
             title="Car By Fuel Type, Year to Date"
             chartUrl="https://public.tableau.com/views/CarByFuelTypeYTD/CarByFuelTypeYTD?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
           /> */}
-          <ChartCard
+          {/* <ChartCard
             title="SG C02 Emissions with Registered Vehicles"
             chartUrl="https://public.tableau.com/views/SGC02EmissionswithRegisteredVehicles/SGC02EmissionswithRegisteredVehicles?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
-          />
+          /> */}
         </div>
       </div>
 
