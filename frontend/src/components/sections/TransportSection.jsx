@@ -25,17 +25,17 @@ const TransportSection = () => {
             className="h-full"
           />
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-1 gap-6 h-[600px] mb-6">
+        <div className="grid grid-cols-2 md:grid-cols- gap-6 h-[600px] mb-6">
           <ChartCard
             title="SG Emission from Coal, Oil and Gas"
             chartUrl="https://public.tableau.com/views/SGC02Emissions/SGC02Emissions?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
           />
-          {/* <ChartCard
+          <ChartCard
             title="Car By Fuel Type Combined (Electric, Fuel, Hybrid) Trend"
             chartUrl="https://public.tableau.com/views/CarByFuelTypeCombinedElectricFuelHybrid/CarByFuelTypeCombinedElectricFuelHybridTrend?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
             className="h-full"
-          /> */}
+          />
         </div>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6 h-[600px] mb-6">
           {/* <ChartCard
