@@ -1,6 +1,12 @@
 import React, { useState, useEffect } from "react";
 import StatCard from "./StatCard";
 import ChartCard from "@/components/ChartCard";
+import { GaugeComponent } from 'react-gauge-component';
+import { Tooltip } from "@/components/ui/tooltip";
+import { Cloud, TrendingDown, Target, Leaf, Info } from "lucide-react";
+import CustomGauge from "./CustomGauge";
+
+
 
 const OverallEmissionsCharts = () => {
   const [currentDashboard, setCurrentDashboard] = useState(
@@ -8,9 +14,10 @@ const OverallEmissionsCharts = () => {
   );
   const [statValues, setStatValues] = useState({
     totalCO2e: "51.5 billion tons",
-    reduction: "15.3%",
+    reduction: "-15.3%",
     netZeroProgress: "42%",
     carbonOffset: "320 tons",
+    totalReductions: -24.6
   });
 
   const [activeTab, setActiveTab] = useState("Global");
@@ -28,9 +35,10 @@ const OverallEmissionsCharts = () => {
 
         setStatValues({
           totalCO2e: "51.5 billion tons",
-          reduction: "15.3%",
+          reduction: "+15.3%",
           netZeroProgress: "42%",
           carbonOffset: "320 tons",
+          totalReductions: -35.2
         });
         break;
 
@@ -41,9 +49,10 @@ const OverallEmissionsCharts = () => {
 
         setStatValues({
           totalCO2e: "61.9 million tons",
-          reduction: "20.1%",
+          reduction: "+20.1%",
           netZeroProgress: "50%",
           carbonOffset: "150 tons",
+          totalReductions: -24.6
         });
 
         break;
@@ -55,9 +64,10 @@ const OverallEmissionsCharts = () => {
 
         setStatValues({
           totalCO2e: "4.2 billion tons",
-          reduction: "12.5%",
+          reduction: "+12.5%",
           netZeroProgress: "38%",
           carbonOffset: "200 tons",
+          totalReductions: -20
         });
 
         break;
@@ -79,44 +89,8 @@ const OverallEmissionsCharts = () => {
   };
 
   return (
-    <section id="overall" className="min-h-screen snap-start p-6 flex flex-col">
-      <h1 className="text-3xl md:text-4xl font-bold mb-8 text-indigo-300">
-        Overall Emissions
-      </h1>
-
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-        <StatCard
-          title={`Total ${activeTab} GHG CO2e in tons (as of 2020)`}
-          value={statValues.totalCO2e}
-          icon="cloud"
-          color="bg-red-500"
-          tooltipText={tooltipTextMap["Total CO2e"]}
-        />
-        <StatCard
-          title={`${activeTab} Emissions Reduction`}
-          value={statValues.reduction}
-          icon="trending-down"
-          color="bg-green-500"
-          tooltipText={tooltipTextMap["Emissions Reduction"]}
-        />
-        <StatCard
-          title={`${activeTab} Net-Zero Progress`}
-          value={statValues.netZeroProgress}
-          icon="target"
-          color="bg-blue-500"
-          tooltipText={tooltipTextMap["Net-Zero Progress"]}
-        />
-        <StatCard
-          title={`${activeTab} Carbon Offset`}
-          value={statValues.carbonOffset}
-          icon="leaf"
-          color="bg-emerald-500"
-          tooltipText={tooltipTextMap["Carbon Offset"]}
-        />
-      </div>
-      <div className="grow h-[800px] w-full mb-6 relative">
-        <div className="flex-grow">
-          <div className="flex space-x-4 mb-6 border-b border-slate-700">
+    <section id="overall" className="min-h-screen snap-start flex flex-col mt-3">
+      <div className="flex space-x-4 mb-6 border-b border-slate-700">
             {["Global", "Singapore", "ASEAN"].map((tab) => (
               <button
                 key={tab}
@@ -131,6 +105,47 @@ const OverallEmissionsCharts = () => {
               </button>
             ))}
           </div>
+          
+          
+          <div className="flex justify-center space-x-4 mb-4">
+          <div className="flex flex-col items-center">
+            <div className="flex items-center mb-2 whitespace-nowrap">
+            <Tooltip text="Shows GHG Emissions Reduction Progress from 2019">
+                <Info size={16} className="mr-3" />
+              </Tooltip>
+              <h3 className="text-xl font-semibold">GHG Emissions Reduction Progress from 2019</h3>
+            </div>
+            <CustomGauge pointerValue={statValues.totalReductions} />
+          </div>
+          </div>
+
+
+      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-6 mb-8">
+        <StatCard
+          title={`Total ${activeTab} GHG CO2e in tons (as of 2020)`}
+          value={statValues.totalCO2e}
+          icon="cloud"
+          color="bg-blue-500"
+          tooltipText={tooltipTextMap["Total CO2e"]}
+        />
+        <StatCard
+          title={`${activeTab} YoY Emissions Change`}
+          value={statValues.reduction}
+          icon="trending-down"
+          color="bg-red-500"
+          tooltipText={tooltipTextMap["Emissions Reduction"]}
+        />
+        <StatCard
+          title={`${activeTab} 2030 targets`}
+          value="-43 %"
+          icon="target"
+          color="bg-blue-500"
+          tooltipText={tooltipTextMap["Net-Zero Progress"]}
+        />
+      </div>
+      <div className="grow h-[800px] w-full mb-6 relative">
+        <div className="flex-grow">
+
 
           <div></div>
         </div>

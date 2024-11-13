@@ -52,22 +52,24 @@ const StatCard = ({ title, value, icon, color, tooltipText }) => {
   };
 
   // Ensure Icon is a valid React component
-  const IconComponent = typeof Icon === "function" ? Icon : null;
+  const IconComponent = iconMap[icon];
+  // const IconComponent = typeof Icon === "function" ? Icon : null;
 
   return (
     <div className={`p-4 rounded-lg ${color}`}>
-      <div className="flex items-center justify-between">
-
-      <span className="text-sm text-gray-200 flex items-center" >
-          <span className="whitespace-nowrap">{title}</span>
-          <Tooltip text={tooltipText}>
-            <Info size={16} className="ml-1" />
-          </Tooltip>
-        </span>
-        {icon}
-      </div>
-      <div className="mt-2 text-2xl font-semibold text-white">
-        {formatValue(count)}
+      <div className="">
+        <div className="flex items-center justify-between gap-2">
+          <div className="text-sm text-gray-200 flex-1 min-w-0">{title}</div>
+          <div className="flex items-center gap-1.5 flex-shrink-0">
+            <Tooltip text={tooltipText}>
+              <Info size={16} className="text-gray-300 hover:text-gray-200" />
+            </Tooltip>
+            {IconComponent && <IconComponent size={48} className="text-white" />}
+          </div>
+        </div>
+        <div className="text-2xl font-semibold text-white">
+          {formatValue(count)}
+        </div>
       </div>
     </div>
   );
