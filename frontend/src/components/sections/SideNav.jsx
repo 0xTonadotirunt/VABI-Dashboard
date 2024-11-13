@@ -14,9 +14,9 @@ const SideNav = () => {
     { id: "overall", label: "Overall", icon: BarChart2 },
     { id: "transport", label: "Transport", icon: Truck },
     { id: "agriculture", label: "Agriculture", icon: Wheat },
+    { id: "trees", label: "Trees", icon: Trees },
     { id: "manufacturing", label: "Manufacturing", icon: Factory },
     { id: "policy", label: "Policy", icon: Siren },
-    { id: "trees", label: "Trees", icon: Trees },
   ];
 
   return (
