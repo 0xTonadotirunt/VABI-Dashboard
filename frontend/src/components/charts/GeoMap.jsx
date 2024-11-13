@@ -29,6 +29,7 @@ export const GeoMap = memo(({ data }) => {
 
   const findCountryData = (geo, data) => {
     const countryName = geo.properties.name;
+
     return data.find((d) => d.name === countryName);
   };
 
@@ -120,7 +121,7 @@ export const GeoMap = memo(({ data }) => {
               <div>
                 <h3 className="text-slate-400 mb-1">Total Emissions</h3>
                 <p className="text-2xl font-bold">
-                  {selectedCountry.value.toFixed(2)}
+                  {selectedCountry.gases["All GHG"].toFixed(2)}
                 </p>
               </div>
 

@@ -6,6 +6,7 @@ import EmissionsInformation from "./EmissionsInformation";
 import OverallEmissionsCharts from "./OverallEmissionsCharts";
 
 
+
   const OverallSection = () => {
 
 
@@ -17,7 +18,14 @@ import OverallEmissionsCharts from "./OverallEmissionsCharts";
           Overall Emissions Trends
         </h1>
 
-        <div className="flex space-x-4 mb-6 border-b border-slate-700">
+
+
+        <div className="flex space-x-4 mb-6 align-center">
+        </div>
+
+
+
+        <div className="flex space-x-4 border-b border-slate-700">
           {["Introduction", "Charts"].map((tab) => (
             <button
               key={tab}

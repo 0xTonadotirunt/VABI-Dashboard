@@ -5,6 +5,7 @@ import OverallSection from "@/components/sections/OverallSection";
 import TransportSection from "@/components/sections/TransportSection";
 import AgricultureSection from "@/components/sections/AgricultureSection";
 import ManufacturingSection from "@/components/sections/ManufacturingSection";
+import PolicySection from "@/components/sections/PolicySection";
 import { ActiveSectionProvider, useActiveSection } from "@/contexts/ActiveSectionContext";
 import "./Dashboard.css";
 import TreeSection from "@/components/sections/TreeSection";
@@ -45,6 +46,7 @@ const DashboardContent = () => {
           <TransportSection />
           <AgricultureSection />
           <ManufacturingSection />
+          <PolicySection />
           <TreeSection />
         </main>
       </div>

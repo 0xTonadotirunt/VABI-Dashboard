@@ -5,7 +5,7 @@ import AgricultureOverview from "./AgricultureOverview";
 import AgricultureMetrics from "./AgricultureMetrics";
 import AgricultureImpacts from "./AgricultureImpacts";
 import AgricultureProjections from "./AgricultureProjections";
-import modal from "@/components/ui/modal";
+import Modal from "@/components/ui/modal";
 import ChartCard from "@/components/ChartCard";
 import { scenarioData } from "@/data/agriculture/scenarioData";
 import { models } from "@/data/agriculture/models";
@@ -80,7 +80,7 @@ const AgricultureSection = () => {
         View Detailed Dashboard
       </button>
 
-      <modal
+      <Modal
         isOpen={isModalOpen}
         onClose={() => setIsModalOpen(false)}
         title={`Agriculture Emissions Analysis - ${
@@ -88,13 +88,12 @@ const AgricultureSection = () => {
         }`}
       >
         <div className="h-[80vh]">
-          {/* <ChartCard
+          <ChartCard
             chartUrl={currentScenario.chartUrl}
             className="w-full h-full"
-            vizOptions={customVizOptions}
-          /> */}
+          />
         </div>
-      </modal>
+      </Modal>
     </section>
   );
 };
