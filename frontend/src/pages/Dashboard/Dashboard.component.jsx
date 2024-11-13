@@ -45,9 +45,9 @@ const DashboardContent = () => {
           <OverallSection />
           <TransportSection />
           <AgricultureSection />
+          <TreeSection />
           <ManufacturingSection />
           <PolicySection />
-          <TreeSection />
         </main>
       </div>
     </div>
