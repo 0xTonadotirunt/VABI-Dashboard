@@ -8,7 +8,7 @@ const PolicySection = () => {
   const globalModels = [
     { value: "Global Policy Overtime", label: "Global Policy Overtime" },
     { value: "Ratified Policy Overtime", label: "Ratified Policy Overtime" },
-    // { value: "Correlation", label: "Correlation" }
+    { value: "Correlation", label: "Correlation" }
   ];
 
   const scenarioData = {
@@ -26,13 +26,13 @@ const PolicySection = () => {
       chartUrl:
         "https://public.tableau.com/views/Policy_17314049300990/RatifiedPolicyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     },
-    // "Correlation": {
-    //   title: "Policy Category with the Highest Correlation",
-    //   co2e: "Climate Change",
-    //   yoyChange: "",
-    //   chartUrl:
-    //     "https://public.tableau.com/views/Policy_17314049300990/CorrelationDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
-    // },
+    "Correlation": {
+      title: "",
+      co2e: "",
+      yoyChange: "",
+      chartUrl:
+        "https://public.tableau.com/views/Policy_17314049300990/CorrelationDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
+    },
   };
 
   const currentScenario = scenarioData[selectedModel] || {};
@@ -59,12 +59,14 @@ const PolicySection = () => {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-        <StatCard
-          title={currentScenario.title}
-          value={`${currentScenario.co2e}`}
-          icon="factory"
-          color="bg-blue-700"
-        />
+        {selectedModel !== "Correlation" && (
+          <StatCard
+            title={currentScenario.title}
+            value={`${currentScenario.co2e}`}
+            icon="siren"
+            color="bg-blue-700"
+          />
+        )}
         {selectedModel !== "Correlation" && (
           <StatCard
             title="Count"
