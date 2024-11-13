@@ -20,9 +20,9 @@ const PolicySection = () => {
         "https://public.tableau.com/views/Policy_17314049300990/GlobalPolicyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     },
     "Ratified Policy Overtime": {
-      title: "Policy with the most uptake",
-      co2e: "CBD, UNFCCC & UNCCD",
-      yoyChange: "172",
+      title: "Policy with the most uptake in a year",
+      co2e: "Paris Agreement",
+      yoyChange: "106",
       chartUrl:
         "https://public.tableau.com/views/Policy_17314049300990/RatifiedPolicyDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     },
