@@ -9,8 +9,7 @@ export const useAgricultureData = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-
-        const response = await fetch("../data/cleaned/agri/agri_emissions.csv");
+        const response = await fetch("/cleaned/agri/agri_emissions.csv");
 
         const csvText = await response.text();
 

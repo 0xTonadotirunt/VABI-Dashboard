@@ -10,11 +10,7 @@ export const useGCAMPathways = () => {
     const fetchData = async () => {
       try {
         const response = await fetch(
-
-          "../data/cleaned/agri/agri_emission_pathways_GCAM.csv"
-
-          "data/cleaned/agri/agri_emission_pathways_GCAM.csv"
-
+          "/cleaned/agri/agri_emission_pathways_GCAM.csv"
         );
         const csvText = await response.text();
 
