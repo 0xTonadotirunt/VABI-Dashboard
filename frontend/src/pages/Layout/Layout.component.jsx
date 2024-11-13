@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useNavigation, Outlet } from "react-router-dom";
-import Navbar from "../../components/navbar/navbar";
+import Navbar from "../../components/navbar/Navbar";
 
 export default function Layout() {
   const [showNavbar, setShowNavbar] = useState(false);
@@ -21,7 +21,11 @@ export default function Layout() {
         onMouseEnter={handleMouseEnter}
         onMouseLeave={handleMouseLeave}
       >
-        <Navbar className={`transition-transform duration-300 ${showNavbar ? 'translate-y-0' : '-translate-y-full'}`} />
+        <Navbar
+          className={`transition-transform duration-300 ${
+            showNavbar ? "translate-y-0" : "-translate-y-full"
+          }`}
+        />
       </div>
       <Outlet />
     </div>
