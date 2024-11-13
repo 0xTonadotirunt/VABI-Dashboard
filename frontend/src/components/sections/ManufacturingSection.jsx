@@ -76,8 +76,8 @@ const ManufacturingSection = () => {
         "https://public.tableau.com/views/OverallManufacturingEmissions/GHGGlobal?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     },
     "Top Greenhouse Gas Emitting Countries": {
-      title: "Industry with the highest average YOY change",
-      co2e: "Chemicals",
+      title: "Country with the highest average YOY change",
+      co2e: "China",
       yoyChange: "+14.32",
       chartUrl:
         "https://public.tableau.com/views/OverallManufacturingEmissions/GHGOvertime?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
