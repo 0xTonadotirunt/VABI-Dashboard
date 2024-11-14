@@ -56,7 +56,7 @@ const AgricultureSection = () => {
               <AgricultureOverview emissionsData={emissionsData} />
             )}
             {activeTab === "BAU" && (
-              <AgricultureMetrics selectedModel={selectedModel} />
+              <AgricultureMetrics />
             )}
             {/* {activeTab === "impacts" && (
               <AgricultureImpacts selectedModel={selectedModel} />

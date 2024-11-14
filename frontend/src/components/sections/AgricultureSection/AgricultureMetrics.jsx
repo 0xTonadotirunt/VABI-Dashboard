@@ -7,7 +7,7 @@ import {
   getMetricColor,
 } from "@/utils/agriculture/metricHelpers";
 
-const AgricultureMetrics = ({ selectedModel }) => {
+const AgricultureMetrics = ({ selectedModel = "Global Change Assessment Model" }) => {
   return (
     <div className="space-y-6">
       <MetricTrendsChart selectedModel={selectedModel} />

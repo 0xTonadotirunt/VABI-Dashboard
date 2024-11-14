@@ -221,55 +221,54 @@ const AgricultureProjections = ({
         </div>
       </div>
 
-      <div className="p-6 bg-slate-800">
-        <div className="flex items-center gap-4 mb-4">
-          <h3 className="text-xl font-semibold">
-            {selectedSubcategory} - {selectedIndicator} Projections (2020-2050)
-          </h3>
+      {selectedModel === 'Global Change Assessment Model' ? (
+        <div className="p-6 bg-slate-800">
+          <div className="flex items-center gap-4 mb-4">
+            <h3 className="text-xl font-semibold">
+              {selectedSubcategory} - {selectedIndicator} Projections (2020-2050)
+            </h3>
 
-          {selectedSubcategory.includes(
-            "LULUCF Anthropogenic GHG Emissions by Gas"
-          ) && (
-            <div className="relative group">
-              <InfoIcon className="h-5 w-5 text-gray-400 cursor-help" />
-              <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 bg-slate-700 text-sm text-white rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 shadow-lg border border-slate-600 w-[320px] z-10">
-                <p className="mb-2">
-                  <strong>LULUCF Anthropogenic GHG Emissions by Gas:</strong>
-                </p>
-                <p className="text-sm leading-relaxed">
-                  Greenhouse gas emissions from Land Use, Land-Use Change, and
-                  Forestry (LULUCF) activities. This includes emissions and
-                  removals of greenhouse gases resulting from human activities
-                  in land management, such as deforestation, reforestation, and
-                  changes in agricultural practices.
-                </p>
+            {selectedSubcategory.includes(
+              "LULUCF Anthropogenic GHG Emissions by Gas"
+            ) && (
+              <div className="relative group">
+                <InfoIcon className="h-5 w-5 text-gray-400 cursor-help" />
+                <div className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 bg-slate-700 text-sm text-white rounded-lg opacity-0 group-hover:opacity-100 transition-opacity duration-200 shadow-lg border border-slate-600 w-[320px] z-10">
+                  <p className="mb-2">
+                    <strong>LULUCF Anthropogenic GHG Emissions by Gas:</strong>
+                  </p>
+                  <p className="text-sm leading-relaxed">
+                    Greenhouse gas emissions from Land Use, Land-Use Change, and
+                    Forestry (LULUCF) activities. This includes emissions and
+                    removals of greenhouse gases resulting from human activities
+                    in land management, such as deforestation, reforestation, and
+                    changes in agricultural practices.
+                  </p>
+                </div>
               </div>
-            </div>
-          )}
+            )}
 
-          <select
-            value={selectedIndicator}
-            onChange={(e) => setSelectedIndicator(e.target.value)}
-            className="bg-slate-700 text-white border border-slate-600 rounded-lg p-2 min-w-[200px]"
-          >
-            <option value="">All Indicators</option>
-            {indicators.map((indicator) => (
-              <option key={indicator} value={indicator}>
-                {indicator}
-              </option>
-            ))}
-          </select>
-        </div>
-        <div className="h-80">
-          <LineChart
-            data={emissionsProjectionData}
-            lines={scenarios}
-            xAxisKey="year"
-          />
-        </div>
-      </div>
-
-      {/* Radar chart - only show for landcover */}
+            <select
+              value={selectedIndicator}
+              onChange={(e) => setSelectedIndicator(e.target.value)}
+              className="bg-slate-700 text-white border border-slate-600 rounded-lg p-2 min-w-[200px]"
+            >
+              <option value="">All Indicators</option>
+              {indicators.map((indicator) => (
+                <option key={indicator} value={indicator}>
+                  {indicator}
+                </option>
+              ))}
+            </select>
+          </div>
+          <div className="h-80">
+            <LineChart
+              data={emissionsProjectionData}
+              lines={scenarios}
+              xAxisKey="year"
+            />
+          </div>
+                {/* Radar chart - only show for landcover */}
       {selectedSubcategory?.includes("Land Cover") && (
         <div className="p-6 bg-slate-800">
           <div className="mb-4">
@@ -324,6 +323,17 @@ const AgricultureProjections = ({
           )}
         </div>
       )}
+        </div>
+        
+      ) : (
+        <div className="p-6 bg-slate-800 text-center">
+          <p className="text-gray-400 text-lg">
+            No projection data available for this model. Please select Global Change Assessment Model to view projections.
+          </p>
+        </div>
+      )}
+
+
 
       {/* Parallel Coordinates for Land Cover */}
       {/* {selectedSubcategory === "Land Cover" && (
@@ -333,6 +343,7 @@ const AgricultureProjections = ({
           selectedRegion={selectedRegion}
         />
       )} */}
+      
     </div>
   );
 };

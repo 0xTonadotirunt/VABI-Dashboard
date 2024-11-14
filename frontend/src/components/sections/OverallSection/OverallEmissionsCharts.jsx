@@ -13,11 +13,13 @@ const OverallEmissionsCharts = () => {
     "https://public.tableau.com/views/EmissionsDataOverview-Global/GlobalDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link"
   );
   const [statValues, setStatValues] = useState({
-    totalCO2e: "51.5 billion tons",
-    reduction: "-15.3%",
-    netZeroProgress: "42%",
+    totalCO2e: "53.85 billion tons",
+    reduction: "40.4 million",
+    netZeroProgress: "30.4 billion",
     carbonOffset: "320 tons",
-    totalReductions: -24.6
+    "2030target": "30.4 billion",
+    "2030forecast": "58.0 billion",
+    totalReductions: -0.74
   });
 
   const [activeTab, setActiveTab] = useState("Global");
@@ -34,11 +36,13 @@ const OverallEmissionsCharts = () => {
         );
 
         setStatValues({
-          totalCO2e: "51.5 billion tons",
-          reduction: "+15.3%",
-          netZeroProgress: "42%",
+          totalCO2e: "53.85 billion tons",
+          reduction: "40.4 million",
+          netZeroProgress: "30.4 billion",
           carbonOffset: "320 tons",
-          totalReductions: -35.2
+          "2030target": "30.4 billion",
+          "2030forecast": "58.0 billion",
+          totalReductions: -0.74
         });
         break;
 
@@ -48,11 +52,13 @@ const OverallEmissionsCharts = () => {
         );
 
         setStatValues({
-          totalCO2e: "61.9 million tons",
-          reduction: "+20.1%",
+          totalCO2e: "60.27 million tons",
+          reduction: "-2.72 million",
           netZeroProgress: "50%",
           carbonOffset: "150 tons",
-          totalReductions: -24.6
+          "2030target": "60.0 million",
+          "2030forecast": "62.1 million",
+          totalReductions: -48
         });
 
         break;
@@ -64,10 +70,12 @@ const OverallEmissionsCharts = () => {
 
         setStatValues({
           totalCO2e: "4.2 billion tons",
-          reduction: "+12.5%",
+          reduction: "153.35 million",
           netZeroProgress: "38%",
           carbonOffset: "200 tons",
-          totalReductions: -20
+          "2030target": "2.55 billion",
+          "2030forecast": "4.96 billion",
+          totalReductions: 2.21
         });
 
         break;
@@ -81,9 +89,9 @@ const OverallEmissionsCharts = () => {
     "Total CO2e":
       "Measures our total greenhouse gas emissions in CO2 equivalent tons. This includes direct emissions (Scope 1), energy consumption (Scope 2), and indirect emissions (Scope 3).",
     "Emissions Reduction":
-      "Shows percentage decrease in emissions compared to our baseline year. The trending-down indicator means we're on track with our reduction targets.",
+      "Shows percentage change in emissions compared to the previous year.",
     "Net-Zero Progress":
-      "Tracks our progress toward net-zero emissions, combining both reduction efforts and offset programs. The target indicator shows we're aligned with our 2050 net-zero commitment.",
+      "Shows the target emissions amount that we have to hit, to achieve -43% reduction in emission in 2030.",
     "Carbon Offset":
       "Represents the amount of CO2e we've offset through verified carbon removal projects, including reforestation, soil carbon sequestration, and other nature-based solutions.",
   };
@@ -113,33 +121,41 @@ const OverallEmissionsCharts = () => {
             <Tooltip text="Shows GHG Emissions Reduction Progress from 2019">
                 <Info size={16} className="mr-3" />
               </Tooltip>
-              <h3 className="text-xl font-semibold">GHG Emissions Reduction Progress from 2019</h3>
+              <h3 className="text-xl font-semibold">GHG Emissions Reduction Progress from 2019 (as of 2022)</h3>
             </div>
             <CustomGauge pointerValue={statValues.totalReductions} />
           </div>
           </div>
 
 
-      <div className="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-3 gap-6 mb-8">
+      <div className="grid grid-cols-1 md:grid-cols-4 lg:grid-cols-4 gap-6 mb-8">
         <StatCard
-          title={`Total ${activeTab} GHG CO2e in tons (as of 2020)`}
+          title={`Total ${activeTab} GHG CO2e in tons (as of 2022)`}
           value={statValues.totalCO2e}
           icon="cloud"
           color="bg-blue-500"
           tooltipText={tooltipTextMap["Total CO2e"]}
         />
         <StatCard
-          title={`${activeTab} YoY Emissions Change`}
+          title={`${activeTab} YoY Emissions Change (in tons) (from 2021)`}
           value={statValues.reduction}
-          icon="trending-down"
+          icon="trending-up"
           color="bg-red-500"
           tooltipText={tooltipTextMap["Emissions Reduction"]}
         />
         <StatCard
-          title={`${activeTab} 2030 targets`}
-          value="-43 %"
+          title={`${activeTab} 2030 targets (in tons)`}
+          value={statValues["2030target"]}
           icon="target"
           color="bg-blue-500"
+          tooltipText={tooltipTextMap["Net-Zero Progress"]}
+          
+        />
+        <StatCard
+          title={`${activeTab} 2030 forecast (in tons)`}
+          value={statValues["2030forecast"]}
+          icon="target"
+          color="bg-red-500"
           tooltipText={tooltipTextMap["Net-Zero Progress"]}
         />
       </div>
