@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
-import { Cloud, TrendingDown, Target, Leaf, Info } from "lucide-react";
+import { Cloud, TrendingDown, Target, Leaf, Info, TrendingUp } from "lucide-react";
 import { Tooltip } from "@/components/ui/tooltip";
 
 const iconMap = {
   cloud: Cloud,
   "trending-down": TrendingDown,
+  "trending-up": TrendingUp,
   target: Target,
   leaf: Leaf,
 };
