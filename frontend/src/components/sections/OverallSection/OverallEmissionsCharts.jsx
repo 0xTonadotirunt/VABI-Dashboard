@@ -40,7 +40,7 @@ const OverallEmissionsCharts = () => {
           reduction: "40.4 million",
           netZeroProgress: "30.4 billion",
           carbonOffset: "320 tons",
-          "2030target": "30.4 billion",
+          "2030target": "30.4 billion",
           "2030forecast": "58.0 billion",
           totalReductions: -0.74
         });
