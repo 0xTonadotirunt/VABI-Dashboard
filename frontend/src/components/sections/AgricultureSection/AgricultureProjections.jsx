@@ -268,6 +268,43 @@ const AgricultureProjections = ({
               xAxisKey="year"
             />
           </div>
+                    {/* Policy Descriptions */}
+                    <div className="mt-6 space-y-2 border-t border-slate-700 pt-4">
+            <h4 className="font-medium text-gray-300 mb-3">Policy Scenarios:</h4>
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div className="flex items-start gap-2 text-sm text-gray-300">
+                <InfoIcon className="h-4 w-4 text-gray-400 mt-1 flex-shrink-0" />
+                <div>
+                  <span className="font-medium">Low policy:</span>
+                  <p className="mt-1">Limited climate action with minimal policy intervention. Represents a scenario with basic environmental regulations but no significant climate policies.</p>
+                </div>
+              </div>
+              
+              <div className="flex items-start gap-2 text-sm text-gray-300">
+                <InfoIcon className="h-4 w-4 text-gray-400 mt-1 flex-shrink-0" />
+                <div>
+                  <span className="font-medium">No policy:</span>
+                  <p className="mt-1">Business-as-usual scenario with no additional climate policies. Reflects continuation of historical trends without new climate action measures.</p>
+                </div>
+              </div>
+              
+              <div className="flex items-start gap-2 text-sm text-gray-300">
+                <InfoIcon className="h-4 w-4 text-gray-400 mt-1 flex-shrink-0" />
+                <div>
+                  <span className="font-medium">Paris - continued ambition:</span>
+                  <p className="mt-1">Implementation of current Paris Agreement commitments. Maintains existing national climate pledges and policies aligned with the Paris Agreement.</p>
+                </div>
+              </div>
+              
+              <div className="flex items-start gap-2 text-sm text-gray-300">
+                <InfoIcon className="h-4 w-4 text-gray-400 mt-1 flex-shrink-0" />
+                <div>
+                  <span className="font-medium">Paris - increased ambition:</span>
+                  <p className="mt-1">Enhanced climate action beyond current Paris commitments. Represents strengthened policies and more ambitious emission reduction targets.</p>
+                </div>
+              </div>
+            </div>
+          </div>
                 {/* Radar chart - only show for landcover */}
       {selectedSubcategory?.includes("Land Cover") && (
         <div className="p-6 bg-slate-800">
